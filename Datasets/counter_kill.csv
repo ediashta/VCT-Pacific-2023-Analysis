@@ -1,0 +1,1331 @@
+player,team,2k,3k,4k,5k,1v1,1v2,1v3,1v4,1v5,agent,map,tourney_type,game_id,match_id,role_agent,total_round,ot,win_lose,clutches
+Dep,ZETA,1,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 1,119512,184456,Duelist,18,No,lose,0
+Laz,ZETA,2,1,1,0,1,0,0,0,0,Sova,Ascent,League Play: Week 1,119512,184456,Initiator,18,No,lose,1
+crow,ZETA,2,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 1,119512,184456,Initiator,18,No,lose,0
+TENNN,ZETA,1,3,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 1,119512,184456,Sentinel,18,No,lose,0
+SugarZ3ro,ZETA,1,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 1,119512,184456,Controller,18,No,lose,0
+stax,DRX,4,0,1,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 1,119512,184456,Initiator,18,No,win,0
+Rb,DRX,0,2,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 1,119512,184456,Sentinel,18,No,win,0
+Zest,DRX,2,1,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 1,119512,184456,Initiator,18,No,win,1
+MaKo,DRX,5,1,0,0,2,0,0,0,0,Omen,Ascent,League Play: Week 1,119512,184456,Controller,18,No,win,2
+Foxy9,DRX,2,1,0,1,0,0,0,0,0,Jett,Ascent,League Play: Week 1,119512,184456,Duelist,18,No,win,0
+Dep,ZETA,3,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 1,119513,184456,Duelist,18,No,lose,0
+Laz,ZETA,0,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 1,119513,184456,Initiator,18,No,lose,0
+crow,ZETA,2,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 1,119513,184456,Controller,18,No,lose,0
+TENNN,ZETA,1,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 1,119513,184456,Sentinel,18,No,lose,0
+SugarZ3ro,ZETA,2,0,2,0,0,0,0,0,0,Viper,Pearl,League Play: Week 1,119513,184456,Controller,18,No,lose,0
+stax,DRX,2,3,0,0,1,1,0,0,0,Kayo,Pearl,League Play: Week 1,119513,184456,Initiator,18,No,win,2
+Rb,DRX,1,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 1,119513,184456,Controller,18,No,win,0
+Zest,DRX,5,0,0,0,1,0,0,0,0,Fade,Pearl,League Play: Week 1,119513,184456,Initiator,18,No,win,1
+MaKo,DRX,3,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 1,119513,184456,Controller,18,No,win,0
+Foxy9,DRX,1,2,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 1,119513,184456,Duelist,18,No,win,0
+xeta,T1,3,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 1,119515,184457,Controller,21,No,win,0
+iNTRO,T1,3,2,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 1,119515,184457,Controller,21,No,win,0
+Munchkin,T1,2,2,1,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 1,119515,184457,Sentinel,21,No,win,0
+Sayaplayer,T1,3,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 1,119515,184457,Duelist,21,No,win,0
+Carpe,T1,2,2,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 1,119515,184457,Initiator,21,No,win,0
+Bazzi,GES,3,2,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 1,119515,184457,Initiator,21,No,lose,0
+AYRIN,GES,1,1,0,0,0,1,0,0,0,Killjoy,Pearl,League Play: Week 1,119515,184457,Sentinel,21,No,lose,1
+WRONSKI,GES,2,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 1,119515,184457,Initiator,21,No,lose,0
+Monyet,GES,1,0,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 1,119515,184457,Controller,21,No,lose,0
+t3xture,GES,3,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 1,119515,184457,Duelist,21,No,lose,0
+xeta,T1,2,0,1,0,0,0,0,0,0,Sova,Haven,League Play: Week 1,119516,184457,Initiator,17,No,lose,0
+Munchkin,T1,0,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 1,119516,184457,Sentinel,17,No,lose,0
+Sayaplayer,T1,3,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 1,119516,184457,Duelist,17,No,lose,0
+ban,T1,2,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 1,119516,184457,Controller,17,No,lose,0
+Carpe,T1,1,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 1,119516,184457,Initiator,17,No,lose,0
+Bazzi,GES,5,0,0,0,1,1,0,0,0,Skye,Haven,League Play: Week 1,119516,184457,Initiator,17,No,win,2
+AYRIN,GES,5,1,0,0,0,1,0,0,0,Killjoy,Haven,League Play: Week 1,119516,184457,Sentinel,17,No,win,1
+WRONSKI,GES,2,0,0,0,0,0,0,0,0,Kayo,Haven,League Play: Week 1,119516,184457,Initiator,17,No,win,0
+Monyet,GES,1,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 1,119516,184457,Controller,17,No,win,0
+t3xture,GES,3,2,0,1,0,0,0,0,0,Jett,Haven,League Play: Week 1,119516,184457,Duelist,17,No,win,0
+xeta,T1,3,1,2,0,1,0,0,0,0,Harbor,Lotus,League Play: Week 1,119517,184457,Controller,20,No,win,1
+Munchkin,T1,4,0,1,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 1,119517,184457,Sentinel,20,No,win,0
+Sayaplayer,T1,4,1,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 1,119517,184457,Duelist,20,No,win,0
+ban,T1,2,0,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 1,119517,184457,Controller,20,No,win,0
+Carpe,T1,2,0,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 1,119517,184457,Initiator,20,No,win,0
+Bazzi,GES,1,1,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 1,119517,184457,Initiator,20,No,lose,0
+AYRIN,GES,0,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 1,119517,184457,Sentinel,20,No,lose,0
+WRONSKI,GES,2,1,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 1,119517,184457,Duelist,20,No,lose,0
+Monyet,GES,1,2,0,0,1,0,1,0,0,Omen,Lotus,League Play: Week 1,119517,184457,Controller,20,No,lose,3
+t3xture,GES,1,0,0,0,0,0,0,0,0,Raze,Lotus,League Play: Week 1,119517,184457,Duelist,20,No,lose,0
+Jinggg,PRX,5,1,1,0,1,0,1,0,0,Phoenix,Pearl,League Play: Week 1,119518,184458,Duelist,18,No,win,3
+mindfreak,PRX,1,0,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 1,119518,184458,Controller,18,No,win,0
+f0rsakeN,PRX,4,0,0,0,2,0,0,0,0,Jett,Pearl,League Play: Week 1,119518,184458,Duelist,18,No,win,2
+Benkai,PRX,4,1,0,0,1,1,0,0,0,Killjoy,Pearl,League Play: Week 1,119518,184458,Sentinel,18,No,win,2
+d4v41,PRX,1,2,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 1,119518,184458,Initiator,18,No,win,0
+takej,DFM,3,1,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 1,119518,184458,Controller,18,No,lose,0
+Reita,DFM,2,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 1,119518,184458,Sentinel,18,No,lose,0
+Suggest,DFM,3,0,1,0,0,0,0,0,0,Jett,Pearl,League Play: Week 1,119518,184458,Duelist,18,No,lose,0
+Anthem,DFM,0,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 1,119518,184458,Initiator,18,No,lose,0
+xnfri,DFM,1,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 1,119518,184458,Controller,18,No,lose,0
+Jinggg,PRX,2,0,1,0,0,0,0,0,0,Raze,Lotus,League Play: Week 1,119519,184458,Duelist,24,Yes,win,0
+mindfreak,PRX,1,0,0,0,2,0,0,0,0,Astra,Lotus,League Play: Week 1,119519,184458,Controller,24,Yes,win,2
+f0rsakeN,PRX,3,0,0,0,1,0,0,0,0,Yoru,Lotus,League Play: Week 1,119519,184458,Duelist,24,Yes,win,1
+Benkai,PRX,2,2,0,0,0,1,0,0,0,Killjoy,Lotus,League Play: Week 1,119519,184458,Sentinel,24,Yes,win,1
+d4v41,PRX,5,3,0,0,1,1,0,0,0,Skye,Lotus,League Play: Week 1,119519,184458,Initiator,24,Yes,win,2
+takej,DFM,1,1,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 1,119519,184458,Controller,24,Yes,lose,0
+Reita,DFM,4,2,0,0,0,0,0,0,0,Cypher,Lotus,League Play: Week 1,119519,184458,Sentinel,24,Yes,lose,0
+Suggest,DFM,7,2,0,0,0,0,0,0,0,Raze,Lotus,League Play: Week 1,119519,184458,Duelist,24,Yes,lose,0
+Anthem,DFM,3,1,0,1,0,1,0,0,0,Skye,Lotus,League Play: Week 1,119519,184458,Initiator,24,Yes,lose,1
+xnfri,DFM,5,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 1,119519,184458,Controller,24,Yes,lose,0
+BORKUM,TS,1,1,0,0,0,2,0,0,0,Omen,Ascent,League Play: Week 1,119521,184459,Controller,18,No,win,2
+JessieVash,TS,3,0,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 1,119521,184459,Initiator,18,No,win,0
+DubsteP,TS,4,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 1,119521,184459,Duelist,18,No,win,0
+Jremy,TS,4,1,1,0,1,1,0,0,0,Killjoy,Ascent,League Play: Week 1,119521,184459,Sentinel,18,No,win,2
+invy,TS,4,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 1,119521,184459,Initiator,18,No,win,0
+Patt,TLN,3,0,0,0,0,0,0,0,0,Sage,Ascent,League Play: Week 1,119521,184459,Sentinel,18,No,lose,0
+Crws,TLN,1,1,0,0,0,0,0,0,0,Astra,Ascent,League Play: Week 1,119521,184459,Controller,18,No,lose,0
+foxz,TLN,1,0,0,0,0,0,0,0,0,Fade,Ascent,League Play: Week 1,119521,184459,Initiator,18,No,lose,0
+JitBoyS,TLN,2,1,0,0,1,0,0,0,0,Kayo,Ascent,League Play: Week 1,119521,184459,Initiator,18,No,lose,1
+garnetS,TLN,2,1,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 1,119521,184459,Duelist,18,No,lose,0
+BORKUM,TS,0,1,0,0,1,0,0,0,0,Viper,Icebox,League Play: Week 1,119522,184459,Controller,21,No,lose,1
+JessieVash,TS,1,1,0,0,0,0,0,0,0,Sova,Icebox,League Play: Week 1,119522,184459,Initiator,21,No,lose,0
+DubsteP,TS,2,1,0,0,0,0,0,0,0,Killjoy,Icebox,League Play: Week 1,119522,184459,Sentinel,21,No,lose,0
+Jremy,TS,3,2,0,0,1,0,0,0,0,Sage,Icebox,League Play: Week 1,119522,184459,Sentinel,21,No,lose,1
+invy,TS,6,2,0,1,0,1,0,0,0,Kayo,Icebox,League Play: Week 1,119522,184459,Initiator,21,No,lose,1
+Patt,TLN,2,3,0,0,0,0,0,0,0,Harbor,Icebox,League Play: Week 1,119522,184459,Controller,21,No,win,0
+Sushiboys,TLN,5,0,0,0,2,0,0,0,0,Killjoy,Icebox,League Play: Week 1,119522,184459,Sentinel,21,No,win,2
+Crws,TLN,7,0,0,0,1,0,0,0,0,Viper,Icebox,League Play: Week 1,119522,184459,Controller,21,No,win,1
+foxz,TLN,4,1,0,0,0,0,0,0,0,Sova,Icebox,League Play: Week 1,119522,184459,Initiator,21,No,win,0
+garnetS,TLN,4,0,0,0,0,0,0,0,0,Jett,Icebox,League Play: Week 1,119522,184459,Duelist,21,No,win,0
+BORKUM,TS,5,2,0,0,1,0,0,0,0,Brimstone,Fracture,League Play: Week 1,119523,184459,Controller,16,No,win,1
+JessieVash,TS,4,1,0,0,1,0,0,0,0,Fade,Fracture,League Play: Week 1,119523,184459,Initiator,16,No,win,1
+DubsteP,TS,3,1,0,0,0,1,0,0,0,Cypher,Fracture,League Play: Week 1,119523,184459,Sentinel,16,No,win,1
+Jremy,TS,2,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 1,119523,184459,Duelist,16,No,win,0
+invy,TS,0,1,0,0,1,0,0,0,0,Breach,Fracture,League Play: Week 1,119523,184459,Initiator,16,No,win,1
+Sushiboys,TLN,1,0,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 1,119523,184459,Sentinel,16,No,lose,0
+Crws,TLN,1,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 1,119523,184459,Controller,16,No,lose,0
+foxz,TLN,0,2,0,0,0,0,0,0,0,Kayo,Fracture,League Play: Week 1,119523,184459,Initiator,16,No,lose,0
+JitBoyS,TLN,3,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 1,119523,184459,Initiator,16,No,lose,0
+garnetS,TLN,1,0,0,0,0,0,0,0,0,Neon,Fracture,League Play: Week 1,119523,184459,Duelist,16,No,lose,0
+xffero,RRQ,5,0,1,0,1,0,0,0,0,Fade,Fracture,League Play: Week 1,119524,184460,Initiator,22,No,lose,1
+fl1pzjder,RRQ,4,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 1,119524,184460,Initiator,22,No,lose,0
+EJAY,RRQ,1,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 1,119524,184460,Duelist,22,No,lose,0
+Lmemore,RRQ,1,1,0,0,0,0,0,0,0,Cypher,Fracture,League Play: Week 1,119524,184460,Sentinel,22,No,lose,0
+2ge,RRQ,4,1,0,0,1,0,0,0,0,Brimstone,Fracture,League Play: Week 1,119524,184460,Controller,22,No,lose,1
+k1Ng,GEN,4,1,1,0,2,0,0,0,0,Viper,Fracture,League Play: Week 1,119524,184460,Controller,22,No,win,2
+TS,GEN,0,3,0,0,0,0,0,0,0,Astra,Fracture,League Play: Week 1,119524,184460,Controller,22,No,win,0
+eKo,GEN,3,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 1,119524,184460,Initiator,22,No,win,0
+GodDead,GEN,0,1,0,0,1,0,0,0,0,Kayo,Fracture,League Play: Week 1,119524,184460,Initiator,22,No,win,1
+Meteor,GEN,4,0,2,0,0,0,0,0,0,Raze,Fracture,League Play: Week 1,119524,184460,Duelist,22,No,win,0
+xffero,RRQ,4,1,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 1,119525,184460,Initiator,19,No,lose,0
+fl1pzjder,RRQ,3,0,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 1,119525,184460,Initiator,19,No,lose,0
+EJAY,RRQ,2,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 1,119525,184460,Duelist,19,No,lose,0
+Lmemore,RRQ,2,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 1,119525,184460,Sentinel,19,No,lose,0
+2ge,RRQ,1,1,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 1,119525,184460,Controller,19,No,lose,0
+k1Ng,GEN,2,0,1,0,0,1,0,0,0,Killjoy,Lotus,League Play: Week 1,119525,184460,Sentinel,19,No,win,1
+TS,GEN,2,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 1,119525,184460,Controller,19,No,win,0
+Sylvan,GEN,1,1,0,0,0,0,0,0,0,Fade,Lotus,League Play: Week 1,119525,184460,Initiator,19,No,win,0
+GodDead,GEN,1,2,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 1,119525,184460,Initiator,19,No,win,0
+Meteor,GEN,4,0,2,0,0,0,0,0,0,Jett,Lotus,League Play: Week 1,119525,184460,Duelist,19,No,win,0
+Dep,ZETA,3,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 2,119527,184461,Duelist,23,No,lose,0
+Laz,ZETA,1,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 2,119527,184461,Initiator,23,No,lose,0
+crow,ZETA,4,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119527,184461,Initiator,23,No,lose,0
+TENNN,ZETA,2,4,0,0,1,0,1,0,0,Killjoy,Haven,League Play: Week 2,119527,184461,Sentinel,23,No,lose,3
+SugarZ3ro,ZETA,1,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119527,184461,Controller,23,No,lose,0
+xffero,RRQ,2,2,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 2,119527,184461,Initiator,23,No,win,1
+fl1pzjder,RRQ,3,1,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119527,184461,Initiator,23,No,win,0
+EJAY,RRQ,2,0,1,0,0,0,0,0,0,Jett,Haven,League Play: Week 2,119527,184461,Duelist,23,No,win,0
+Lmemore,RRQ,6,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 2,119527,184461,Sentinel,23,No,win,0
+2ge,RRQ,3,1,0,0,1,0,0,0,0,Astra,Haven,League Play: Week 2,119527,184461,Controller,23,No,win,1
+Dep,ZETA,3,2,0,1,1,1,0,0,0,Jett,Ascent,League Play: Week 2,119528,184461,Duelist,23,No,win,2
+Laz,ZETA,0,1,0,0,1,1,0,0,0,Sova,Ascent,League Play: Week 2,119528,184461,Initiator,23,No,win,2
+crow,ZETA,1,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 2,119528,184461,Initiator,23,No,win,0
+TENNN,ZETA,3,2,1,0,0,1,0,0,0,Killjoy,Ascent,League Play: Week 2,119528,184461,Sentinel,23,No,win,1
+SugarZ3ro,ZETA,5,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 2,119528,184461,Controller,23,No,win,0
+xffero,RRQ,5,1,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 2,119528,184461,Initiator,23,No,lose,0
+fl1pzjder,RRQ,1,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 2,119528,184461,Initiator,23,No,lose,0
+EJAY,RRQ,4,4,0,0,1,0,0,0,0,Jett,Ascent,League Play: Week 2,119528,184461,Duelist,23,No,lose,1
+Lmemore,RRQ,4,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 2,119528,184461,Sentinel,23,No,lose,0
+2ge,RRQ,1,0,0,0,0,0,0,0,0,Astra,Ascent,League Play: Week 2,119528,184461,Controller,23,No,lose,0
+Dep,ZETA,1,1,0,0,0,0,0,0,0,Neon,Lotus,League Play: Week 2,119529,184461,Duelist,18,No,win,0
+Laz,ZETA,0,0,0,0,0,0,0,0,0,Fade,Lotus,League Play: Week 2,119529,184461,Initiator,18,No,win,0
+crow,ZETA,4,0,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 2,119529,184461,Initiator,18,No,win,0
+TENNN,ZETA,3,2,0,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 2,119529,184461,Sentinel,18,No,win,1
+SugarZ3ro,ZETA,4,3,0,0,1,0,0,0,0,Omen,Lotus,League Play: Week 2,119529,184461,Controller,18,No,win,1
+xffero,RRQ,1,1,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 2,119529,184461,Initiator,18,No,lose,0
+fl1pzjder,RRQ,3,1,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 2,119529,184461,Initiator,18,No,lose,0
+EJAY,RRQ,0,1,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 2,119529,184461,Duelist,18,No,lose,0
+Lmemore,RRQ,2,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 2,119529,184461,Sentinel,18,No,lose,0
+2ge,RRQ,0,2,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 2,119529,184461,Controller,18,No,lose,0
+Patt,TLN,3,1,0,0,1,0,0,0,0,Gekko,Ascent,League Play: Week 2,119530,184462,Initiator,21,No,lose,1
+Sushiboys,TLN,3,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 2,119530,184462,Sentinel,21,No,lose,0
+Crws,TLN,3,0,1,0,0,0,0,0,0,Omen,Ascent,League Play: Week 2,119530,184462,Controller,21,No,lose,0
+foxz,TLN,2,0,0,0,0,0,0,0,0,Fade,Ascent,League Play: Week 2,119530,184462,Initiator,21,No,lose,0
+garnetS,TLN,1,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 2,119530,184462,Duelist,21,No,lose,0
+xeta,T1,1,2,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 2,119530,184462,Initiator,21,No,win,1
+Munchkin,T1,1,2,1,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 2,119530,184462,Sentinel,21,No,win,0
+Sayaplayer,T1,7,2,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 2,119530,184462,Duelist,21,No,win,0
+ban,T1,3,1,0,0,0,1,0,0,0,Omen,Ascent,League Play: Week 2,119530,184462,Controller,21,No,win,1
+Carpe,T1,3,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 2,119530,184462,Initiator,21,No,win,0
+Patt,TLN,3,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119531,184462,Initiator,19,No,lose,0
+Sushiboys,TLN,3,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 2,119531,184462,Sentinel,19,No,lose,0
+Crws,TLN,5,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119531,184462,Controller,19,No,lose,0
+foxz,TLN,3,0,0,0,0,0,0,0,0,Gekko,Haven,League Play: Week 2,119531,184462,Initiator,19,No,lose,0
+garnetS,TLN,4,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 2,119531,184462,Duelist,19,No,lose,0
+xeta,T1,4,1,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 2,119531,184462,Initiator,19,No,win,0
+iNTRO,T1,2,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119531,184462,Controller,19,No,win,0
+Munchkin,T1,3,1,0,0,2,0,0,0,0,Killjoy,Haven,League Play: Week 2,119531,184462,Sentinel,19,No,win,2
+Sayaplayer,T1,4,2,0,0,2,0,0,0,0,Jett,Haven,League Play: Week 2,119531,184462,Duelist,19,No,win,2
+Carpe,T1,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119531,184462,Initiator,19,No,win,0
+BORKUM,TS,4,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119533,184463,Controller,24,Yes,lose,0
+JessieVash,TS,3,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 2,119533,184463,Initiator,24,Yes,lose,0
+DubsteP,TS,4,2,0,0,2,0,0,0,0,Killjoy,Haven,League Play: Week 2,119533,184463,Sentinel,24,Yes,lose,2
+Jremy,TS,3,1,0,0,0,0,0,0,0,Raze,Haven,League Play: Week 2,119533,184463,Duelist,24,Yes,lose,0
+invy,TS,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119533,184463,Initiator,24,Yes,lose,0
+Jinggg,PRX,4,2,0,0,1,0,0,0,0,Raze,Haven,League Play: Week 2,119533,184463,Duelist,24,Yes,win,1
+mindfreak,PRX,0,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119533,184463,Controller,24,Yes,win,0
+f0rsakeN,PRX,1,0,0,0,0,0,0,0,0,Yoru,Haven,League Play: Week 2,119533,184463,Duelist,24,Yes,win,0
+Benkai,PRX,4,1,0,0,0,0,0,0,0,Cypher,Haven,League Play: Week 2,119533,184463,Sentinel,24,Yes,win,0
+d4v41,PRX,5,2,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 2,119533,184463,Initiator,24,Yes,win,0
+BORKUM,TS,3,2,0,0,0,0,1,0,0,Brimstone,Fracture,League Play: Week 2,119534,184463,Controller,24,Yes,win,2
+JessieVash,TS,3,0,0,0,0,0,0,0,0,Fade,Fracture,League Play: Week 2,119534,184463,Initiator,24,Yes,win,0
+DubsteP,TS,3,2,0,0,1,1,0,0,0,Cypher,Fracture,League Play: Week 2,119534,184463,Sentinel,24,Yes,win,2
+Jremy,TS,1,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 2,119534,184463,Duelist,24,Yes,win,0
+invy,TS,1,2,1,0,0,0,0,0,0,Breach,Fracture,League Play: Week 2,119534,184463,Initiator,24,Yes,win,0
+Jinggg,PRX,4,3,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 2,119534,184463,Duelist,24,Yes,lose,0
+mindfreak,PRX,4,0,0,0,0,1,0,0,0,Viper,Fracture,League Play: Week 2,119534,184463,Controller,24,Yes,lose,1
+f0rsakeN,PRX,2,1,1,0,0,0,0,0,0,Neon,Fracture,League Play: Week 2,119534,184463,Duelist,24,Yes,lose,0
+Benkai,PRX,2,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 2,119534,184463,Initiator,24,Yes,lose,0
+d4v41,PRX,2,1,0,0,0,0,1,0,0,Killjoy,Fracture,League Play: Week 2,119534,184463,Sentinel,24,Yes,lose,2
+BORKUM,TS,2,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 2,119535,184463,Controller,23,No,win,0
+JessieVash,TS,2,0,0,0,0,1,0,0,0,Cypher,Split,League Play: Week 2,119535,184463,Sentinel,23,No,win,1
+DubsteP,TS,4,2,0,0,0,0,0,0,0,Jett,Split,League Play: Week 2,119535,184463,Duelist,23,No,win,0
+Jremy,TS,4,3,0,0,0,0,0,0,0,Raze,Split,League Play: Week 2,119535,184463,Duelist,23,No,win,0
+invy,TS,2,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 2,119535,184463,Initiator,23,No,win,0
+Jinggg,PRX,3,2,0,1,0,0,0,1,0,Raze,Split,League Play: Week 2,119535,184463,Duelist,23,No,lose,1
+mindfreak,PRX,0,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 2,119535,184463,Controller,23,No,lose,0
+f0rsakeN,PRX,3,0,0,0,0,0,0,0,0,Jett,Split,League Play: Week 2,119535,184463,Duelist,23,No,lose,0
+Benkai,PRX,3,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 2,119535,184463,Controller,23,No,lose,0
+d4v41,PRX,3,1,0,0,0,0,0,0,0,Skye,Split,League Play: Week 2,119535,184463,Initiator,23,No,lose,0
+k1Ng,GEN,3,1,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 2,119536,184465,Sentinel,21,No,win,0
+TS,GEN,6,0,0,0,1,0,0,0,0,Omen,Lotus,League Play: Week 2,119536,184465,Controller,21,No,win,1
+Sylvan,GEN,4,0,0,0,1,0,0,0,0,Fade,Lotus,League Play: Week 2,119536,184465,Initiator,21,No,win,1
+GodDead,GEN,3,0,0,0,0,1,0,0,0,Kayo,Lotus,League Play: Week 2,119536,184465,Initiator,21,No,win,1
+Meteor,GEN,1,2,0,0,0,0,1,0,0,Jett,Lotus,League Play: Week 2,119536,184465,Duelist,21,No,win,2
+takej,DFM,3,1,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 2,119536,184465,Controller,21,No,lose,0
+Reita,DFM,2,0,0,0,0,0,0,0,0,Cypher,Lotus,League Play: Week 2,119536,184465,Sentinel,21,No,lose,0
+Suggest,DFM,3,1,0,1,0,0,0,0,0,Raze,Lotus,League Play: Week 2,119536,184465,Duelist,21,No,lose,0
+Anthem,DFM,3,0,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 2,119536,184465,Initiator,21,No,lose,0
+xnfri,DFM,3,1,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 2,119536,184465,Controller,21,No,lose,0
+k1Ng,GEN,0,1,0,0,0,0,0,0,0,Viper,Fracture,League Play: Week 2,119537,184465,Controller,17,No,lose,0
+TS,GEN,1,0,0,0,0,0,0,0,0,Astra,Fracture,League Play: Week 2,119537,184465,Controller,17,No,lose,0
+eKo,GEN,1,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 2,119537,184465,Initiator,17,No,lose,0
+GodDead,GEN,2,0,0,0,1,0,0,0,0,Kayo,Fracture,League Play: Week 2,119537,184465,Initiator,17,No,lose,1
+Meteor,GEN,2,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 2,119537,184465,Duelist,17,No,lose,0
+takej,DFM,2,1,0,0,0,1,0,0,0,Viper,Fracture,League Play: Week 2,119537,184465,Controller,17,No,win,1
+Reita,DFM,3,1,0,0,0,0,0,0,0,Cypher,Fracture,League Play: Week 2,119537,184465,Sentinel,17,No,win,0
+Suggest,DFM,3,3,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 2,119537,184465,Duelist,17,No,win,0
+Anthem,DFM,0,1,1,0,0,0,1,0,0,Skye,Fracture,League Play: Week 2,119537,184465,Initiator,17,No,win,2
+xnfri,DFM,1,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 2,119537,184465,Controller,17,No,win,0
+k1Ng,GEN,4,1,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 2,119538,184465,Controller,21,No,win,0
+TS,GEN,3,1,0,0,0,2,0,0,0,Astra,Pearl,League Play: Week 2,119538,184465,Controller,21,No,win,2
+Sylvan,GEN,2,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 2,119538,184465,Initiator,21,No,win,0
+GodDead,GEN,5,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 2,119538,184465,Initiator,21,No,win,0
+Meteor,GEN,5,1,1,0,0,0,0,0,0,Jett,Pearl,League Play: Week 2,119538,184465,Duelist,21,No,win,0
+takej,DFM,0,1,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 2,119538,184465,Controller,21,No,lose,0
+Reita,DFM,4,1,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 2,119538,184465,Sentinel,21,No,lose,0
+Suggest,DFM,2,1,0,0,0,1,0,0,0,Jett,Pearl,League Play: Week 2,119538,184465,Duelist,21,No,lose,1
+Anthem,DFM,3,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 2,119538,184465,Initiator,21,No,lose,0
+xnfri,DFM,1,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 2,119538,184465,Controller,21,No,lose,0
+Bazzi,GES,2,1,0,0,0,0,0,0,0,Skye,Haven,League Play: Week 2,119539,184466,Initiator,24,Yes,lose,0
+AYRIN,GES,1,2,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 2,119539,184466,Sentinel,24,Yes,lose,0
+WRONSKI,GES,2,1,1,0,0,0,0,0,0,Kayo,Haven,League Play: Week 2,119539,184466,Initiator,24,Yes,lose,0
+Monyet,GES,3,0,1,0,0,0,0,0,0,Omen,Haven,League Play: Week 2,119539,184466,Controller,24,Yes,lose,0
+t3xture,GES,1,0,1,0,0,0,0,0,0,Jett,Haven,League Play: Week 2,119539,184466,Duelist,24,Yes,lose,0
+stax,DRX,4,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 2,119539,184466,Initiator,24,Yes,win,0
+Rb,DRX,2,1,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 2,119539,184466,Initiator,24,Yes,win,1
+BuZz,DRX,1,2,0,0,2,0,0,0,0,Killjoy,Haven,League Play: Week 2,119539,184466,Sentinel,24,Yes,win,2
+MaKo,DRX,2,0,0,0,0,1,0,0,0,Omen,Haven,League Play: Week 2,119539,184466,Controller,24,Yes,win,1
+Foxy9,DRX,3,2,2,0,0,0,0,0,0,Jett,Haven,League Play: Week 2,119539,184466,Duelist,24,Yes,win,0
+Bazzi,GES,3,2,0,0,0,0,0,0,0,Skye,Split,League Play: Week 2,119540,184466,Initiator,32,Yes,lose,0
+AYRIN,GES,1,1,0,0,0,0,0,0,0,Viper,Split,League Play: Week 2,119540,184466,Controller,32,Yes,lose,0
+WRONSKI,GES,5,0,1,0,0,0,0,0,0,Sage,Split,League Play: Week 2,119540,184466,Sentinel,32,Yes,lose,0
+Monyet,GES,4,4,1,1,0,0,0,0,0,Astra,Split,League Play: Week 2,119540,184466,Controller,32,Yes,lose,0
+t3xture,GES,2,1,1,0,0,1,0,0,0,Raze,Split,League Play: Week 2,119540,184466,Duelist,32,Yes,lose,1
+stax,DRX,3,0,1,0,0,0,0,0,0,Skye,Split,League Play: Week 2,119540,184466,Initiator,32,Yes,win,0
+Rb,DRX,2,1,0,0,2,0,1,0,0,Astra,Split,League Play: Week 2,119540,184466,Controller,32,Yes,win,4
+BuZz,DRX,4,1,0,0,1,0,0,0,0,Kayo,Split,League Play: Week 2,119540,184466,Initiator,32,Yes,win,1
+MaKo,DRX,9,1,1,0,0,0,0,0,0,Viper,Split,League Play: Week 2,119540,184466,Controller,32,Yes,win,0
+Foxy9,DRX,4,2,0,0,0,0,0,0,0,Raze,Split,League Play: Week 2,119540,184466,Duelist,32,Yes,win,0
+xffero,RRQ,4,2,2,0,1,1,0,0,0,Sova,Haven,League Play: Week 3,119542,184467,Initiator,17,No,win,2
+fl1pzjder,RRQ,2,3,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 3,119542,184467,Initiator,17,No,win,0
+EJAY,RRQ,1,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 3,119542,184467,Duelist,17,No,win,0
+Lmemore,RRQ,1,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 3,119542,184467,Sentinel,17,No,win,0
+2ge,RRQ,3,0,0,0,0,0,0,0,0,Astra,Haven,League Play: Week 3,119542,184467,Controller,17,No,win,0
+takej,DFM,2,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 3,119542,184467,Sentinel,17,No,lose,0
+Reita,DFM,2,2,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 3,119542,184467,Initiator,17,No,lose,1
+Suggest,DFM,0,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 3,119542,184467,Duelist,17,No,lose,0
+Anthem,DFM,0,1,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 3,119542,184467,Initiator,17,No,lose,0
+xnfri,DFM,0,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 3,119542,184467,Controller,17,No,lose,0
+xffero,RRQ,3,1,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 3,119543,184467,Controller,20,No,win,0
+fl1pzjder,RRQ,2,5,0,0,1,0,0,0,0,Skye,Pearl,League Play: Week 3,119543,184467,Initiator,20,No,win,1
+EJAY,RRQ,3,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119543,184467,Duelist,20,No,win,0
+Lmemore,RRQ,2,3,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 3,119543,184467,Sentinel,20,No,win,0
+2ge,RRQ,3,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 3,119543,184467,Controller,20,No,win,0
+takej,DFM,2,0,0,0,1,1,0,0,0,Viper,Pearl,League Play: Week 3,119543,184467,Controller,20,No,lose,2
+Reita,DFM,1,1,0,0,1,0,0,1,0,Killjoy,Pearl,League Play: Week 3,119543,184467,Sentinel,20,No,lose,2
+Suggest,DFM,1,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119543,184467,Duelist,20,No,lose,0
+Anthem,DFM,1,1,0,0,1,0,0,0,0,Skye,Pearl,League Play: Week 3,119543,184467,Initiator,20,No,lose,1
+xnfri,DFM,1,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 3,119543,184467,Controller,20,No,lose,0
+xeta,T1,3,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 3,119545,184468,Controller,16,No,lose,0
+iNTRO,T1,4,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 3,119545,184468,Controller,16,No,lose,0
+Munchkin,T1,1,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 3,119545,184468,Sentinel,16,No,lose,0
+Sayaplayer,T1,2,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119545,184468,Duelist,16,No,lose,0
+Carpe,T1,1,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 3,119545,184468,Initiator,16,No,lose,0
+Jinggg,PRX,2,0,0,0,0,0,0,0,0,Phoenix,Pearl,League Play: Week 3,119545,184468,Duelist,16,No,win,0
+mindfreak,PRX,2,0,0,0,1,0,0,0,0,Astra,Pearl,League Play: Week 3,119545,184468,Controller,16,No,win,1
+f0rsakeN,PRX,2,2,0,2,0,1,0,0,0,Killjoy,Pearl,League Play: Week 3,119545,184468,Sentinel,16,No,win,1
+d4v41,PRX,1,1,0,0,1,0,0,0,0,Skye,Pearl,League Play: Week 3,119545,184468,Initiator,16,No,win,1
+something,PRX,4,2,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119545,184468,Duelist,16,No,win,0
+xeta,T1,2,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 3,119546,184468,Initiator,19,No,lose,0
+Munchkin,T1,3,1,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 3,119546,184468,Sentinel,19,No,lose,0
+Sayaplayer,T1,1,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 3,119546,184468,Duelist,19,No,lose,0
+ban,T1,0,0,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 3,119546,184468,Duelist,19,No,lose,0
+Carpe,T1,1,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 3,119546,184468,Controller,19,No,lose,0
+Jinggg,PRX,0,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 3,119546,184468,Duelist,19,No,win,0
+mindfreak,PRX,7,0,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 3,119546,184468,Controller,19,No,win,0
+f0rsakeN,PRX,2,0,1,0,0,0,0,0,0,Neon,Fracture,League Play: Week 3,119546,184468,Duelist,19,No,win,0
+Benkai,PRX,1,2,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 3,119546,184468,Initiator,19,No,win,0
+d4v41,PRX,4,0,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 3,119546,184468,Sentinel,19,No,win,0
+Dep,ZETA,2,0,2,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119548,184469,Duelist,22,No,lose,0
+Laz,ZETA,2,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 3,119548,184469,Initiator,22,No,lose,0
+crow,ZETA,1,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 3,119548,184469,Controller,22,No,lose,0
+TENNN,ZETA,1,0,0,0,1,0,0,0,0,Killjoy,Pearl,League Play: Week 3,119548,184469,Sentinel,22,No,lose,1
+SugarZ3ro,ZETA,5,3,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 3,119548,184469,Controller,22,No,lose,0
+Bazzi,GES,2,1,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 3,119548,184469,Initiator,22,No,win,0
+AYRIN,GES,3,0,0,0,1,0,0,0,0,Killjoy,Pearl,League Play: Week 3,119548,184469,Sentinel,22,No,win,1
+WRONSKI,GES,0,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 3,119548,184469,Initiator,22,No,win,0
+Monyet,GES,2,1,1,0,0,0,0,0,0,Astra,Pearl,League Play: Week 3,119548,184469,Controller,22,No,win,0
+t3xture,GES,8,2,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119548,184469,Duelist,22,No,win,0
+Dep,ZETA,7,2,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 3,119549,184469,Duelist,26,Yes,win,0
+Laz,ZETA,0,0,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 3,119549,184469,Initiator,26,Yes,win,1
+crow,ZETA,5,0,1,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 3,119549,184469,Initiator,26,Yes,win,0
+TENNN,ZETA,4,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 3,119549,184469,Sentinel,26,Yes,win,0
+SugarZ3ro,ZETA,3,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 3,119549,184469,Controller,26,Yes,win,0
+Bazzi,GES,2,0,1,0,2,0,0,0,0,Sova,Ascent,League Play: Week 3,119549,184469,Initiator,26,Yes,lose,2
+AYRIN,GES,2,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 3,119549,184469,Sentinel,26,Yes,lose,0
+WRONSKI,GES,4,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 3,119549,184469,Initiator,26,Yes,lose,0
+Monyet,GES,2,2,1,0,2,0,0,0,0,Omen,Ascent,League Play: Week 3,119549,184469,Controller,26,Yes,lose,2
+t3xture,GES,0,1,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 3,119549,184469,Duelist,26,Yes,lose,0
+Dep,ZETA,4,1,2,1,0,1,0,0,0,Jett,Haven,League Play: Week 3,119550,184469,Duelist,21,No,win,1
+Laz,ZETA,2,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 3,119550,184469,Initiator,21,No,win,0
+crow,ZETA,3,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 3,119550,184469,Initiator,21,No,win,0
+TENNN,ZETA,3,0,1,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 3,119550,184469,Sentinel,21,No,win,0
+SugarZ3ro,ZETA,1,2,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 3,119550,184469,Controller,21,No,win,0
+Bazzi,GES,3,0,0,0,0,0,0,0,0,Skye,Haven,League Play: Week 3,119550,184469,Initiator,21,No,lose,0
+AYRIN,GES,1,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 3,119550,184469,Sentinel,21,No,lose,0
+WRONSKI,GES,2,0,0,0,0,0,0,0,0,Kayo,Haven,League Play: Week 3,119550,184469,Initiator,21,No,lose,0
+Monyet,GES,3,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 3,119550,184469,Controller,21,No,lose,0
+t3xture,GES,2,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 3,119550,184469,Duelist,21,No,lose,0
+Patt,TLN,0,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 3,119551,184470,Controller,16,No,lose,0
+Sushiboys,TLN,3,0,0,0,0,0,0,0,0,Jett,Split,League Play: Week 3,119551,184470,Duelist,16,No,lose,0
+Crws,TLN,1,1,0,0,0,0,1,0,0,Breach,Split,League Play: Week 3,119551,184470,Initiator,16,No,lose,2
+foxz,TLN,2,1,0,0,0,0,0,0,0,Yoru,Split,League Play: Week 3,119551,184470,Duelist,16,No,lose,0
+JitBoyS,TLN,0,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 3,119551,184470,Duelist,16,No,lose,0
+stax,DRX,2,1,0,0,1,0,0,0,0,Skye,Split,League Play: Week 3,119551,184470,Initiator,16,No,win,1
+Rb,DRX,2,2,0,0,0,0,0,0,0,Astra,Split,League Play: Week 3,119551,184470,Controller,16,No,win,0
+BuZz,DRX,2,0,0,0,0,0,0,0,0,Kayo,Split,League Play: Week 3,119551,184470,Initiator,16,No,win,0
+MaKo,DRX,2,3,0,0,0,0,0,0,0,Viper,Split,League Play: Week 3,119551,184470,Controller,16,No,win,0
+Foxy9,DRX,4,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 3,119551,184470,Duelist,16,No,win,0
+Patt,TLN,0,2,1,0,0,0,0,1,0,Killjoy,Pearl,League Play: Week 3,119552,184470,Sentinel,23,No,lose,1
+Sushiboys,TLN,2,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119552,184470,Duelist,23,No,lose,0
+Crws,TLN,2,0,1,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 3,119552,184470,Controller,23,No,lose,0
+foxz,TLN,1,1,0,0,2,0,0,0,0,Skye,Pearl,League Play: Week 3,119552,184470,Initiator,23,No,lose,2
+JitBoyS,TLN,1,0,1,0,0,0,0,0,0,Reyna,Pearl,League Play: Week 3,119552,184470,Duelist,23,No,lose,0
+stax,DRX,0,2,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 3,119552,184470,Initiator,23,No,win,0
+Rb,DRX,4,0,1,0,0,1,0,0,0,Harbor,Pearl,League Play: Week 3,119552,184470,Controller,23,No,win,1
+BuZz,DRX,4,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 3,119552,184470,Initiator,23,No,win,0
+MaKo,DRX,1,0,1,0,0,0,0,0,0,Viper,Pearl,League Play: Week 3,119552,184470,Controller,23,No,win,0
+Foxy9,DRX,4,2,1,0,0,0,0,0,0,Jett,Pearl,League Play: Week 3,119552,184470,Duelist,23,No,win,0
+BORKUM,TS,0,1,0,0,0,1,0,0,0,Omen,Haven,League Play: Week 3,119554,184471,Controller,21,No,lose,1
+JessieVash,TS,4,0,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 3,119554,184471,Initiator,21,No,lose,1
+DubsteP,TS,2,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 3,119554,184471,Sentinel,21,No,lose,0
+Jremy,TS,4,1,0,0,0,0,0,0,0,Raze,Haven,League Play: Week 3,119554,184471,Duelist,21,No,lose,0
+invy,TS,2,1,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 3,119554,184471,Initiator,21,No,lose,1
+k1Ng,GEN,5,0,1,0,1,1,0,0,0,Killjoy,Haven,League Play: Week 3,119554,184471,Sentinel,21,No,win,2
+TS,GEN,3,1,1,0,0,1,0,0,0,Omen,Haven,League Play: Week 3,119554,184471,Controller,21,No,win,1
+Sylvan,GEN,1,1,1,0,1,0,0,0,0,Sova,Haven,League Play: Week 3,119554,184471,Initiator,21,No,win,1
+GodDead,GEN,5,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 3,119554,184471,Initiator,21,No,win,0
+Meteor,GEN,0,2,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 3,119554,184471,Duelist,21,No,win,0
+BORKUM,TS,1,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 3,119555,184471,Controller,24,Yes,lose,0
+JessieVash,TS,2,1,0,0,0,0,0,0,0,Fade,Fracture,League Play: Week 3,119555,184471,Initiator,24,Yes,lose,0
+DubsteP,TS,2,1,1,0,0,1,0,0,0,Cypher,Fracture,League Play: Week 3,119555,184471,Sentinel,24,Yes,lose,1
+Jremy,TS,3,2,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 3,119555,184471,Duelist,24,Yes,lose,0
+invy,TS,1,0,1,0,0,0,0,0,0,Breach,Fracture,League Play: Week 3,119555,184471,Initiator,24,Yes,lose,0
+k1Ng,GEN,8,0,0,0,0,0,0,0,0,Viper,Fracture,League Play: Week 3,119555,184471,Controller,24,Yes,win,0
+TS,GEN,4,1,0,0,0,0,0,0,0,Omen,Fracture,League Play: Week 3,119555,184471,Controller,24,Yes,win,0
+eKo,GEN,0,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 3,119555,184471,Initiator,24,Yes,win,0
+GodDead,GEN,5,1,0,0,1,0,0,0,0,Kayo,Fracture,League Play: Week 3,119555,184471,Initiator,24,Yes,win,1
+Meteor,GEN,4,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 3,119555,184471,Duelist,24,Yes,win,0
+mindfreak,PRX,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119557,184472,Controller,18,No,lose,0
+f0rsakeN,PRX,4,2,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119557,184472,Sentinel,18,No,lose,0
+Benkai,PRX,3,1,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 4,119557,184472,Initiator,18,No,lose,0
+d4v41,PRX,1,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 4,119557,184472,Initiator,18,No,lose,0
+something,PRX,1,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 4,119557,184472,Duelist,18,No,lose,0
+stax,DRX,3,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 4,119557,184472,Initiator,18,No,win,0
+Rb,DRX,3,1,0,0,1,1,0,0,0,Sova,Ascent,League Play: Week 4,119557,184472,Initiator,18,No,win,2
+BuZz,DRX,2,1,0,0,1,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119557,184472,Sentinel,18,No,win,1
+MaKo,DRX,4,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119557,184472,Controller,18,No,win,0
+Foxy9,DRX,2,1,1,0,0,0,0,0,0,Jett,Ascent,League Play: Week 4,119557,184472,Duelist,18,No,win,0
+Jinggg,PRX,3,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119558,184472,Duelist,23,No,lose,0
+mindfreak,PRX,0,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 4,119558,184472,Controller,23,No,lose,0
+f0rsakeN,PRX,0,2,0,0,0,0,0,0,0,Skye,Split,League Play: Week 4,119558,184472,Initiator,23,No,lose,0
+d4v41,PRX,3,2,0,0,1,0,0,0,0,Viper,Split,League Play: Week 4,119558,184472,Controller,23,No,lose,1
+something,PRX,2,1,0,0,0,0,0,0,0,Jett,Split,League Play: Week 4,119558,184472,Duelist,23,No,lose,0
+stax,DRX,4,1,0,0,0,0,0,0,0,Skye,Split,League Play: Week 4,119558,184472,Initiator,23,No,win,0
+Rb,DRX,0,1,0,0,0,0,0,0,0,Astra,Split,League Play: Week 4,119558,184472,Controller,23,No,win,0
+BuZz,DRX,3,2,0,0,0,1,0,0,0,Kayo,Split,League Play: Week 4,119558,184472,Initiator,23,No,win,1
+MaKo,DRX,3,2,0,0,0,0,1,0,0,Viper,Split,League Play: Week 4,119558,184472,Controller,23,No,win,2
+Foxy9,DRX,3,0,1,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119558,184472,Duelist,23,No,win,0
+BORKUM,TS,1,3,0,0,0,0,0,0,0,Viper,Icebox,League Play: Week 4,119560,184473,Controller,23,No,lose,0
+JessieVash,TS,2,1,0,0,0,0,0,0,0,Sova,Icebox,League Play: Week 4,119560,184473,Initiator,23,No,lose,0
+DubsteP,TS,2,2,0,0,1,0,0,0,0,Killjoy,Icebox,League Play: Week 4,119560,184473,Sentinel,23,No,lose,1
+Jremy,TS,1,0,0,0,0,0,0,0,0,Sage,Icebox,League Play: Week 4,119560,184473,Sentinel,23,No,lose,0
+invy,TS,1,1,1,0,0,0,0,0,0,Kayo,Icebox,League Play: Week 4,119560,184473,Initiator,23,No,lose,0
+xffero,RRQ,4,1,0,0,0,0,0,0,0,Viper,Icebox,League Play: Week 4,119560,184473,Controller,23,No,win,0
+fl1pzjder,RRQ,1,0,0,0,0,0,0,0,0,Skye,Icebox,League Play: Week 4,119560,184473,Initiator,23,No,win,0
+EJAY,RRQ,5,2,0,0,0,0,0,0,0,Jett,Icebox,League Play: Week 4,119560,184473,Duelist,23,No,win,0
+Lmemore,RRQ,4,3,0,0,0,0,0,0,0,Killjoy,Icebox,League Play: Week 4,119560,184473,Sentinel,23,No,win,0
+2ge,RRQ,1,2,0,0,0,0,0,0,0,Harbor,Icebox,League Play: Week 4,119560,184473,Controller,23,No,win,0
+BORKUM,TS,1,0,0,0,0,1,0,0,0,Astra,Split,League Play: Week 4,119561,184473,Controller,20,No,lose,1
+JessieVash,TS,0,0,0,0,0,0,0,0,0,Cypher,Split,League Play: Week 4,119561,184473,Sentinel,20,No,lose,0
+DubsteP,TS,1,0,0,0,0,0,0,0,0,Jett,Split,League Play: Week 4,119561,184473,Duelist,20,No,lose,0
+Jremy,TS,4,0,1,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119561,184473,Duelist,20,No,lose,0
+invy,TS,2,2,0,0,1,0,0,0,0,Skye,Split,League Play: Week 4,119561,184473,Initiator,20,No,lose,1
+xffero,RRQ,3,1,0,0,0,0,0,0,0,Astra,Split,League Play: Week 4,119561,184473,Controller,20,No,win,0
+fl1pzjder,RRQ,2,2,0,0,0,0,0,0,0,Breach,Split,League Play: Week 4,119561,184473,Initiator,20,No,win,0
+EJAY,RRQ,2,0,1,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119561,184473,Duelist,20,No,win,0
+Lmemore,RRQ,3,0,0,0,0,0,0,0,0,Cypher,Split,League Play: Week 4,119561,184473,Sentinel,20,No,win,0
+Emman,RRQ,3,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 4,119561,184473,Initiator,20,No,win,0
+xeta,T1,3,0,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 4,119563,184474,Initiator,18,No,lose,0
+Munchkin,T1,5,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119563,184474,Sentinel,18,No,lose,0
+Sayaplayer,T1,4,2,1,0,0,0,0,0,0,Jett,Ascent,League Play: Week 4,119563,184474,Duelist,18,No,lose,0
+ban,T1,1,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119563,184474,Controller,18,No,lose,0
+Carpe,T1,0,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 4,119563,184474,Initiator,18,No,lose,0
+k1Ng,GEN,3,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119563,184474,Sentinel,18,No,win,0
+TS,GEN,1,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119563,184474,Controller,18,No,win,0
+eKo,GEN,2,1,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 4,119563,184474,Initiator,18,No,win,1
+GodDead,GEN,1,2,2,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 4,119563,184474,Initiator,18,No,win,0
+Meteor,GEN,1,2,0,0,0,1,0,0,0,Jett,Ascent,League Play: Week 4,119563,184474,Duelist,18,No,win,1
+xeta,T1,3,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 4,119564,184474,Initiator,18,No,lose,0
+iNTRO,T1,1,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 4,119564,184474,Controller,18,No,lose,0
+Munchkin,T1,1,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 4,119564,184474,Sentinel,18,No,lose,0
+Sayaplayer,T1,0,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 4,119564,184474,Duelist,18,No,lose,0
+Carpe,T1,3,1,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 4,119564,184474,Initiator,18,No,lose,1
+k1Ng,GEN,3,3,0,0,1,0,0,0,0,Killjoy,Haven,League Play: Week 4,119564,184474,Sentinel,18,No,win,1
+TS,GEN,0,2,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 4,119564,184474,Controller,18,No,win,0
+Sylvan,GEN,4,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 4,119564,184474,Initiator,18,No,win,0
+GodDead,GEN,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 4,119564,184474,Initiator,18,No,win,0
+Meteor,GEN,0,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 4,119564,184474,Duelist,18,No,win,0
+Dep,ZETA,2,1,1,0,0,0,0,0,0,Jett,Ascent,League Play: Week 4,119566,184475,Duelist,22,No,win,0
+Laz,ZETA,2,1,1,0,0,0,0,0,0,Sova,Ascent,League Play: Week 4,119566,184475,Initiator,22,No,win,0
+crow,ZETA,0,0,1,0,0,0,1,0,0,Kayo,Ascent,League Play: Week 4,119566,184475,Initiator,22,No,win,2
+TENNN,ZETA,2,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119566,184475,Sentinel,22,No,win,0
+SugarZ3ro,ZETA,5,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119566,184475,Controller,22,No,win,0
+takej,DFM,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 4,119566,184475,Controller,22,No,lose,0
+Reita,DFM,2,1,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 4,119566,184475,Initiator,22,No,lose,0
+Suggest,DFM,6,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 4,119566,184475,Sentinel,22,No,lose,0
+Anthem,DFM,1,0,0,0,1,1,0,0,0,Kayo,Ascent,League Play: Week 4,119566,184475,Initiator,22,No,lose,2
+Seoldam,DFM,1,1,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 4,119566,184475,Duelist,22,No,lose,0
+Dep,ZETA,2,3,1,0,0,0,0,0,0,Jett,Haven,League Play: Week 4,119567,184475,Duelist,18,No,win,0
+Laz,ZETA,1,1,0,0,0,0,1,0,0,Sova,Haven,League Play: Week 4,119567,184475,Initiator,18,No,win,2
+crow,ZETA,4,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 4,119567,184475,Initiator,18,No,win,0
+TENNN,ZETA,3,1,0,0,1,0,0,0,0,Killjoy,Haven,League Play: Week 4,119567,184475,Sentinel,18,No,win,1
+SugarZ3ro,ZETA,2,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 4,119567,184475,Controller,18,No,win,0
+takej,DFM,4,0,0,0,1,0,1,0,0,Omen,Haven,League Play: Week 4,119567,184475,Controller,18,No,lose,3
+Reita,DFM,2,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 4,119567,184475,Initiator,18,No,lose,0
+Suggest,DFM,0,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 4,119567,184475,Sentinel,18,No,lose,0
+Anthem,DFM,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 4,119567,184475,Initiator,18,No,lose,0
+Seoldam,DFM,2,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 4,119567,184475,Duelist,18,No,lose,0
+Patt,TLN,3,1,0,0,0,0,0,0,0,Kayo,Split,League Play: Week 4,119569,184476,Initiator,19,No,lose,0
+Sushiboys,TLN,2,0,1,0,0,0,0,0,0,Viper,Split,League Play: Week 4,119569,184476,Controller,19,No,lose,0
+Crws,TLN,1,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 4,119569,184476,Controller,19,No,lose,0
+foxz,TLN,2,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 4,119569,184476,Initiator,19,No,lose,0
+garnetS,TLN,4,0,1,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119569,184476,Duelist,19,No,lose,0
+Bazzi,GES,4,1,1,0,0,0,1,0,0,Skye,Split,League Play: Week 4,119569,184476,Initiator,19,No,win,2
+AYRIN,GES,4,1,0,0,0,0,0,0,0,Viper,Split,League Play: Week 4,119569,184476,Controller,19,No,win,0
+Lightningfast,GES,2,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 4,119569,184476,Duelist,19,No,win,0
+Monyet,GES,1,2,0,1,1,0,0,0,0,Astra,Split,League Play: Week 4,119569,184476,Controller,19,No,win,1
+t3xture,GES,2,1,0,0,0,0,0,0,0,Sage,Split,League Play: Week 4,119569,184476,Sentinel,19,No,win,0
+Patt,TLN,2,1,1,0,2,0,0,0,0,Harbor,Icebox,League Play: Week 4,119570,184476,Controller,24,Yes,lose,2
+Sushiboys,TLN,4,1,0,0,0,0,0,0,0,Killjoy,Icebox,League Play: Week 4,119570,184476,Sentinel,24,Yes,lose,0
+Crws,TLN,1,0,0,0,0,0,0,0,0,Viper,Icebox,League Play: Week 4,119570,184476,Controller,24,Yes,lose,0
+foxz,TLN,4,0,1,0,1,0,0,0,0,Sova,Icebox,League Play: Week 4,119570,184476,Initiator,24,Yes,lose,1
+garnetS,TLN,6,1,0,0,0,0,0,0,0,Jett,Icebox,League Play: Week 4,119570,184476,Duelist,24,Yes,lose,0
+Bazzi,GES,9,1,0,0,0,0,0,0,0,Skye,Icebox,League Play: Week 4,119570,184476,Initiator,24,Yes,win,0
+AYRIN,GES,1,1,0,0,0,0,0,0,0,Harbor,Icebox,League Play: Week 4,119570,184476,Controller,24,Yes,win,0
+SkRossi,GES,3,0,1,0,0,0,0,0,0,Jett,Icebox,League Play: Week 4,119570,184476,Duelist,24,Yes,win,0
+Monyet,GES,4,0,0,0,1,0,0,0,0,Viper,Icebox,League Play: Week 4,119570,184476,Controller,24,Yes,win,1
+t3xture,GES,4,2,0,0,1,1,0,0,0,Killjoy,Icebox,League Play: Week 4,119570,184476,Sentinel,24,Yes,win,2
+Jinggg,PRX,3,1,0,0,0,0,0,0,0,Sage,Icebox,League Play: Week 5,119572,184477,Sentinel,20,No,lose,0
+mindfreak,PRX,1,1,0,0,0,0,0,0,0,Viper,Icebox,League Play: Week 5,119572,184477,Controller,20,No,lose,0
+f0rsakeN,PRX,3,0,1,0,0,0,0,0,0,Sova,Icebox,League Play: Week 5,119572,184477,Initiator,20,No,lose,0
+something,PRX,2,2,0,0,0,0,0,0,0,Jett,Icebox,League Play: Week 5,119572,184477,Duelist,20,No,lose,0
+cgrs,PRX,3,0,0,0,0,0,0,0,0,Gekko,Icebox,League Play: Week 5,119572,184477,Initiator,20,No,lose,0
+Bazzi,GES,2,0,0,0,1,0,0,0,0,Skye,Icebox,League Play: Week 5,119572,184477,Initiator,20,No,win,1
+AYRIN,GES,1,1,0,0,0,0,0,0,0,Harbor,Icebox,League Play: Week 5,119572,184477,Controller,20,No,win,0
+SkRossi,GES,5,3,0,0,0,0,0,0,0,Jett,Icebox,League Play: Week 5,119572,184477,Duelist,20,No,win,0
+Monyet,GES,1,1,0,0,0,0,0,0,0,Viper,Icebox,League Play: Week 5,119572,184477,Controller,20,No,win,0
+t3xture,GES,5,1,1,0,1,1,0,0,0,Killjoy,Icebox,League Play: Week 5,119572,184477,Sentinel,20,No,win,2
+Jinggg,PRX,3,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 5,119573,184477,Duelist,19,No,win,0
+mindfreak,PRX,5,0,1,0,1,1,0,0,0,Astra,Split,League Play: Week 5,119573,184477,Controller,19,No,win,2
+f0rsakeN,PRX,2,0,0,0,1,0,0,0,0,Skye,Split,League Play: Week 5,119573,184477,Initiator,19,No,win,1
+d4v41,PRX,1,3,0,0,0,0,0,0,0,Viper,Split,League Play: Week 5,119573,184477,Controller,19,No,win,0
+something,PRX,3,0,0,0,0,0,0,0,0,Jett,Split,League Play: Week 5,119573,184477,Duelist,19,No,win,0
+Bazzi,GES,2,0,1,0,1,0,0,0,0,Skye,Split,League Play: Week 5,119573,184477,Initiator,19,No,lose,1
+AYRIN,GES,2,2,0,0,0,0,0,0,0,Viper,Split,League Play: Week 5,119573,184477,Controller,19,No,lose,0
+Lightningfast,GES,2,2,0,0,0,0,0,0,0,Raze,Split,League Play: Week 5,119573,184477,Duelist,19,No,lose,0
+Monyet,GES,3,0,0,1,0,0,0,0,0,Astra,Split,League Play: Week 5,119573,184477,Controller,19,No,lose,0
+t3xture,GES,0,0,0,0,0,0,0,0,0,Sage,Split,League Play: Week 5,119573,184477,Sentinel,19,No,lose,0
+Jinggg,PRX,3,2,0,0,0,0,0,0,0,Phoenix,Pearl,League Play: Week 5,119574,184477,Duelist,20,No,win,0
+mindfreak,PRX,0,0,0,0,1,0,0,0,0,Astra,Pearl,League Play: Week 5,119574,184477,Controller,20,No,win,1
+f0rsakeN,PRX,2,1,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 5,119574,184477,Sentinel,20,No,win,0
+d4v41,PRX,2,1,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 5,119574,184477,Initiator,20,No,win,0
+something,PRX,3,3,1,0,2,0,0,0,0,Jett,Pearl,League Play: Week 5,119574,184477,Duelist,20,No,win,2
+Bazzi,GES,1,0,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 5,119574,184477,Initiator,20,No,lose,0
+AYRIN,GES,3,1,0,0,1,0,0,0,0,Killjoy,Pearl,League Play: Week 5,119574,184477,Sentinel,20,No,lose,1
+SkRossi,GES,4,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 5,119574,184477,Duelist,20,No,lose,0
+WRONSKI,GES,3,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 5,119574,184477,Initiator,20,No,lose,0
+Monyet,GES,5,0,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 5,119574,184477,Controller,20,No,lose,0
+k1Ng,GEN,1,1,0,0,1,0,0,0,0,Killjoy,Haven,League Play: Week 5,119575,184478,Sentinel,20,No,lose,1
+TS,GEN,1,0,1,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119575,184478,Controller,20,No,lose,0
+Sylvan,GEN,1,1,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 5,119575,184478,Initiator,20,No,lose,0
+GodDead,GEN,0,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 5,119575,184478,Initiator,20,No,lose,0
+Meteor,GEN,4,0,1,0,0,0,0,0,0,Jett,Haven,League Play: Week 5,119575,184478,Duelist,20,No,lose,0
+stax,DRX,2,2,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 5,119575,184478,Initiator,20,No,win,1
+Rb,DRX,3,3,0,0,1,1,0,0,0,Sova,Haven,League Play: Week 5,119575,184478,Initiator,20,No,win,2
+BuZz,DRX,2,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 5,119575,184478,Sentinel,20,No,win,0
+MaKo,DRX,2,0,1,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119575,184478,Controller,20,No,win,0
+Foxy9,DRX,4,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 5,119575,184478,Duelist,20,No,win,0
+k1Ng,GEN,7,1,0,0,0,0,0,0,0,Viper,Fracture,League Play: Week 5,119576,184478,Controller,23,No,win,0
+TS,GEN,8,0,0,0,0,0,0,0,0,Omen,Fracture,League Play: Week 5,119576,184478,Controller,23,No,win,0
+eKo,GEN,2,0,1,0,0,0,0,0,0,Breach,Fracture,League Play: Week 5,119576,184478,Initiator,23,No,win,0
+GodDead,GEN,2,0,0,0,0,0,0,0,0,Kayo,Fracture,League Play: Week 5,119576,184478,Initiator,23,No,win,0
+Meteor,GEN,1,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 5,119576,184478,Duelist,23,No,win,0
+stax,DRX,0,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 5,119576,184478,Initiator,23,No,lose,0
+Rb,DRX,1,2,0,0,0,1,0,0,0,Neon,Fracture,League Play: Week 5,119576,184478,Duelist,23,No,lose,1
+BuZz,DRX,3,1,0,0,0,1,0,0,0,Killjoy,Fracture,League Play: Week 5,119576,184478,Sentinel,23,No,lose,1
+MaKo,DRX,3,2,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 5,119576,184478,Controller,23,No,lose,0
+Foxy9,DRX,3,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 5,119576,184478,Duelist,23,No,lose,0
+k1Ng,GEN,3,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 5,119577,184478,Controller,17,No,lose,0
+TS,GEN,0,1,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 5,119577,184478,Controller,17,No,lose,0
+Sylvan,GEN,4,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 5,119577,184478,Initiator,17,No,lose,0
+GodDead,GEN,3,0,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 5,119577,184478,Initiator,17,No,lose,0
+Meteor,GEN,1,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 5,119577,184478,Duelist,17,No,lose,0
+stax,DRX,1,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 5,119577,184478,Initiator,17,No,win,0
+Rb,DRX,1,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 5,119577,184478,Controller,17,No,win,0
+BuZz,DRX,3,4,0,0,0,1,0,0,0,Killjoy,Pearl,League Play: Week 5,119577,184478,Sentinel,17,No,win,1
+MaKo,DRX,2,0,0,0,1,1,0,0,0,Viper,Pearl,League Play: Week 5,119577,184478,Controller,17,No,win,2
+Foxy9,DRX,1,1,0,0,0,1,0,0,0,Jett,Pearl,League Play: Week 5,119577,184478,Duelist,17,No,win,1
+xeta,T1,4,0,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 5,119578,184479,Initiator,22,No,win,1
+Munchkin,T1,5,2,1,0,1,1,0,0,0,Killjoy,Haven,League Play: Week 5,119578,184479,Sentinel,22,No,win,2
+Sayaplayer,T1,6,0,0,0,1,0,0,0,0,Jett,Haven,League Play: Week 5,119578,184479,Duelist,22,No,win,1
+ban,T1,2,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119578,184479,Controller,22,No,win,0
+Carpe,T1,4,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 5,119578,184479,Initiator,22,No,win,0
+xffero,RRQ,4,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 5,119578,184479,Initiator,22,No,lose,0
+fl1pzjder,RRQ,0,1,0,0,0,1,0,0,0,Breach,Haven,League Play: Week 5,119578,184479,Initiator,22,No,lose,1
+EJAY,RRQ,2,2,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 5,119578,184479,Duelist,22,No,lose,0
+Lmemore,RRQ,2,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 5,119578,184479,Sentinel,22,No,lose,0
+2ge,RRQ,1,2,0,0,1,0,0,0,0,Astra,Haven,League Play: Week 5,119578,184479,Controller,22,No,lose,1
+xeta,T1,0,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 5,119579,184479,Initiator,17,No,win,0
+Munchkin,T1,3,2,1,0,1,1,0,0,0,Killjoy,Fracture,League Play: Week 5,119579,184479,Sentinel,17,No,win,2
+Sayaplayer,T1,2,0,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 5,119579,184479,Duelist,17,No,win,0
+ban,T1,3,0,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 5,119579,184479,Duelist,17,No,win,0
+Carpe,T1,3,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 5,119579,184479,Controller,17,No,win,0
+xffero,RRQ,0,1,0,0,0,0,0,0,0,Astra,Fracture,League Play: Week 5,119579,184479,Controller,17,No,lose,0
+fl1pzjder,RRQ,3,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 5,119579,184479,Initiator,17,No,lose,0
+EJAY,RRQ,3,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 5,119579,184479,Duelist,17,No,lose,0
+Lmemore,RRQ,1,0,0,0,0,0,0,0,0,Viper,Fracture,League Play: Week 5,119579,184479,Controller,17,No,lose,0
+Emman,RRQ,1,0,0,0,0,0,0,0,0,Kayo,Fracture,League Play: Week 5,119579,184479,Initiator,17,No,lose,0
+BORKUM,TS,4,0,0,0,1,0,0,0,0,Omen,Ascent,League Play: Week 5,119581,184480,Controller,24,Yes,win,1
+JessieVash,TS,3,2,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 5,119581,184480,Initiator,24,Yes,win,0
+DubsteP,TS,5,2,0,1,0,0,0,0,0,Jett,Ascent,League Play: Week 5,119581,184480,Duelist,24,Yes,win,0
+Jremy,TS,1,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 5,119581,184480,Sentinel,24,Yes,win,0
+invy,TS,0,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 5,119581,184480,Initiator,24,Yes,win,0
+takej,DFM,1,0,0,0,1,0,0,0,0,Omen,Ascent,League Play: Week 5,119581,184480,Controller,24,Yes,lose,1
+Suggest,DFM,1,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 5,119581,184480,Sentinel,24,Yes,lose,0
+Anthem,DFM,3,0,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 5,119581,184480,Initiator,24,Yes,lose,1
+xnfri,DFM,3,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 5,119581,184480,Initiator,24,Yes,lose,0
+Seoldam,DFM,4,1,1,0,0,0,0,0,0,Jett,Ascent,League Play: Week 5,119581,184480,Duelist,24,Yes,lose,0
+BORKUM,TS,4,2,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119582,184480,Controller,21,No,win,0
+JessieVash,TS,1,1,0,0,1,0,0,0,0,Sova,Haven,League Play: Week 5,119582,184480,Initiator,21,No,win,1
+DubsteP,TS,2,0,1,0,0,1,0,0,0,Killjoy,Haven,League Play: Week 5,119582,184480,Sentinel,21,No,win,1
+Jremy,TS,2,1,2,0,1,0,0,0,0,Raze,Haven,League Play: Week 5,119582,184480,Duelist,21,No,win,1
+invy,TS,3,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 5,119582,184480,Initiator,21,No,win,0
+takej,DFM,5,1,0,0,1,0,0,0,0,Omen,Haven,League Play: Week 5,119582,184480,Controller,21,No,lose,1
+Suggest,DFM,4,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 5,119582,184480,Sentinel,21,No,lose,0
+Anthem,DFM,1,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 5,119582,184480,Initiator,21,No,lose,0
+xnfri,DFM,1,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 5,119582,184480,Initiator,21,No,lose,0
+Seoldam,DFM,4,2,0,1,0,0,0,0,0,Jett,Haven,League Play: Week 5,119582,184480,Duelist,21,No,lose,0
+Dep,ZETA,1,2,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 5,119584,184481,Duelist,21,No,lose,0
+Laz,ZETA,2,1,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 5,119584,184481,Initiator,21,No,lose,0
+crow,ZETA,3,2,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 5,119584,184481,Initiator,21,No,lose,0
+TENNN,ZETA,2,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 5,119584,184481,Sentinel,21,No,lose,0
+SugarZ3ro,ZETA,2,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119584,184481,Controller,21,No,lose,0
+Patt,TLN,1,1,1,0,0,0,0,0,0,Raze,Haven,League Play: Week 5,119584,184481,Duelist,21,No,win,0
+Sushiboys,TLN,2,4,0,0,2,0,0,0,0,Killjoy,Haven,League Play: Week 5,119584,184481,Sentinel,21,No,win,2
+Crws,TLN,3,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 5,119584,184481,Controller,21,No,win,0
+foxz,TLN,6,0,0,0,0,1,0,0,0,Skye,Haven,League Play: Week 5,119584,184481,Initiator,21,No,win,1
+JitBoyS,TLN,3,1,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 5,119584,184481,Initiator,21,No,win,1
+Dep,ZETA,2,0,1,0,0,0,0,0,0,Jett,Ascent,League Play: Week 5,119585,184481,Duelist,30,Yes,lose,0
+Laz,ZETA,9,1,1,0,1,1,0,0,0,Sova,Ascent,League Play: Week 5,119585,184481,Initiator,30,Yes,lose,2
+crow,ZETA,2,2,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 5,119585,184481,Initiator,30,Yes,lose,0
+TENNN,ZETA,0,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 5,119585,184481,Sentinel,30,Yes,lose,0
+SugarZ3ro,ZETA,6,1,0,0,0,1,0,0,0,Omen,Ascent,League Play: Week 5,119585,184481,Controller,30,Yes,lose,1
+Patt,TLN,5,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 5,119585,184481,Initiator,30,Yes,win,0
+Crws,TLN,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 5,119585,184481,Controller,30,Yes,win,0
+foxz,TLN,3,0,0,0,0,1,0,0,0,Sova,Ascent,League Play: Week 5,119585,184481,Initiator,30,Yes,win,1
+JitBoyS,TLN,5,0,1,0,1,1,0,0,0,Cypher,Ascent,League Play: Week 5,119585,184481,Sentinel,30,Yes,win,2
+garnetS,TLN,7,0,0,0,1,0,0,0,0,Jett,Ascent,League Play: Week 5,119585,184481,Duelist,30,Yes,win,1
+xeta,T1,5,1,0,0,0,0,0,0,0,Harbor,Lotus,League Play: Week 6,119587,184482,Controller,22,No,win,0
+Munchkin,T1,4,1,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119587,184482,Sentinel,22,No,win,0
+Sayaplayer,T1,3,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 6,119587,184482,Duelist,22,No,win,0
+ban,T1,2,2,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 6,119587,184482,Controller,22,No,win,0
+Carpe,T1,4,0,0,0,1,0,0,0,0,Skye,Lotus,League Play: Week 6,119587,184482,Initiator,22,No,win,1
+takej,DFM,5,1,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 6,119587,184482,Controller,22,No,lose,0
+Suggest,DFM,1,1,0,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119587,184482,Sentinel,22,No,lose,1
+Anthem,DFM,1,2,1,0,0,0,0,0,0,Skye,Lotus,League Play: Week 6,119587,184482,Initiator,22,No,lose,0
+xnfri,DFM,1,0,1,0,0,0,0,0,0,Omen,Lotus,League Play: Week 6,119587,184482,Controller,22,No,lose,0
+Seoldam,DFM,3,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 6,119587,184482,Duelist,22,No,lose,0
+xeta,T1,4,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119588,184482,Controller,22,No,lose,0
+Munchkin,T1,4,0,1,0,0,2,0,0,0,Skye,Split,League Play: Week 6,119588,184482,Initiator,22,No,lose,2
+Sayaplayer,T1,2,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119588,184482,Duelist,22,No,lose,0
+ban,T1,3,2,1,0,1,0,0,0,0,Jett,Split,League Play: Week 6,119588,184482,Duelist,22,No,lose,1
+Carpe,T1,1,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 6,119588,184482,Controller,22,No,lose,0
+takej,DFM,3,3,1,0,1,0,0,0,0,Omen,Split,League Play: Week 6,119588,184482,Controller,22,No,win,1
+Suggest,DFM,5,0,0,0,0,0,0,0,0,Sage,Split,League Play: Week 6,119588,184482,Sentinel,22,No,win,0
+Anthem,DFM,3,0,0,0,0,0,0,0,0,Cypher,Split,League Play: Week 6,119588,184482,Sentinel,22,No,win,0
+xnfri,DFM,3,0,2,0,1,0,0,0,0,Skye,Split,League Play: Week 6,119588,184482,Initiator,22,No,win,1
+Seoldam,DFM,1,1,0,0,0,0,0,0,0,Jett,Split,League Play: Week 6,119588,184482,Duelist,22,No,win,0
+xeta,T1,2,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 6,119589,184482,Initiator,23,No,win,0
+Munchkin,T1,1,0,1,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 6,119589,184482,Sentinel,23,No,win,0
+Sayaplayer,T1,3,2,1,0,1,0,0,0,0,Raze,Fracture,League Play: Week 6,119589,184482,Duelist,23,No,win,1
+ban,T1,3,3,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 6,119589,184482,Duelist,23,No,win,0
+Carpe,T1,1,2,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 6,119589,184482,Controller,23,No,win,0
+takej,DFM,0,2,0,0,0,0,0,0,0,Viper,Fracture,League Play: Week 6,119589,184482,Controller,23,No,lose,0
+Suggest,DFM,2,3,1,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 6,119589,184482,Sentinel,23,No,lose,0
+Anthem,DFM,0,1,0,0,0,0,0,0,0,Skye,Fracture,League Play: Week 6,119589,184482,Initiator,23,No,lose,0
+xnfri,DFM,2,0,0,0,0,1,0,0,0,Brimstone,Fracture,League Play: Week 6,119589,184482,Controller,23,No,lose,1
+Seoldam,DFM,5,0,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 6,119589,184482,Duelist,23,No,lose,0
+Dep,ZETA,6,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119590,184483,Duelist,22,No,win,0
+Laz,ZETA,4,0,0,0,1,0,0,0,0,Skye,Split,League Play: Week 6,119590,184483,Initiator,22,No,win,1
+crow,ZETA,2,1,0,0,1,0,0,0,0,Kayo,Split,League Play: Week 6,119590,184483,Initiator,22,No,win,1
+TENNN,ZETA,2,2,0,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119590,184483,Controller,22,No,win,0
+SugarZ3ro,ZETA,3,1,1,0,0,0,0,0,0,Astra,Split,League Play: Week 6,119590,184483,Controller,22,No,win,0
+BORKUM,TS,2,1,0,0,0,0,0,0,0,Astra,Split,League Play: Week 6,119590,184483,Controller,22,No,lose,0
+JessieVash,TS,3,0,0,0,1,0,0,0,0,Breach,Split,League Play: Week 6,119590,184483,Initiator,22,No,lose,1
+DubsteP,TS,2,0,1,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119590,184483,Controller,22,No,lose,0
+Jremy,TS,3,2,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119590,184483,Duelist,22,No,lose,0
+invy,TS,2,0,1,0,0,0,0,0,0,Skye,Split,League Play: Week 6,119590,184483,Initiator,22,No,lose,0
+Dep,ZETA,5,0,0,0,0,0,0,0,0,Raze,Lotus,League Play: Week 6,119591,184483,Duelist,23,No,lose,0
+Laz,ZETA,3,0,0,0,1,0,0,0,0,Skye,Lotus,League Play: Week 6,119591,184483,Initiator,23,No,lose,1
+crow,ZETA,3,1,1,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119591,184483,Sentinel,23,No,lose,0
+TENNN,ZETA,1,0,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 6,119591,184483,Controller,23,No,lose,0
+SugarZ3ro,ZETA,3,3,0,0,0,1,0,0,0,Omen,Lotus,League Play: Week 6,119591,184483,Controller,23,No,lose,1
+BORKUM,TS,4,3,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 6,119591,184483,Controller,23,No,win,0
+JessieVash,TS,2,0,1,0,1,0,0,0,0,Sova,Lotus,League Play: Week 6,119591,184483,Initiator,23,No,win,1
+DubsteP,TS,3,1,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 6,119591,184483,Duelist,23,No,win,0
+Jremy,TS,5,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119591,184483,Sentinel,23,No,win,0
+invy,TS,1,3,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 6,119591,184483,Initiator,23,No,win,0
+Dep,ZETA,4,3,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 6,119592,184483,Duelist,22,No,win,0
+Laz,ZETA,2,2,1,0,0,0,0,0,0,Fade,Fracture,League Play: Week 6,119592,184483,Initiator,22,No,win,0
+crow,ZETA,1,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 6,119592,184483,Initiator,22,No,win,0
+TENNN,ZETA,4,0,0,0,0,1,0,0,0,Killjoy,Fracture,League Play: Week 6,119592,184483,Sentinel,22,No,win,1
+SugarZ3ro,ZETA,2,0,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 6,119592,184483,Controller,22,No,win,0
+BORKUM,TS,1,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 6,119592,184483,Controller,22,No,lose,0
+JessieVash,TS,3,0,0,0,1,0,0,0,0,Fade,Fracture,League Play: Week 6,119592,184483,Initiator,22,No,lose,1
+DubsteP,TS,1,0,0,0,0,0,0,0,0,Cypher,Fracture,League Play: Week 6,119592,184483,Sentinel,22,No,lose,0
+Jremy,TS,2,1,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 6,119592,184483,Duelist,22,No,lose,0
+invy,TS,2,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 6,119592,184483,Initiator,22,No,lose,0
+Bazzi,GES,1,0,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 6,119593,184484,Initiator,21,No,win,0
+AYRIN,GES,3,1,0,0,1,0,0,0,0,Kayo,Pearl,League Play: Week 6,119593,184484,Initiator,21,No,win,1
+SkRossi,GES,4,1,1,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119593,184484,Duelist,21,No,win,0
+Monyet,GES,1,1,0,0,1,0,0,0,0,Astra,Pearl,League Play: Week 6,119593,184484,Controller,21,No,win,1
+t3xture,GES,3,1,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 6,119593,184484,Sentinel,21,No,win,0
+k1Ng,GEN,3,1,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 6,119593,184484,Controller,21,No,lose,0
+TS,GEN,2,0,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 6,119593,184484,Controller,21,No,lose,0
+Sylvan,GEN,4,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 6,119593,184484,Initiator,21,No,lose,0
+GodDead,GEN,0,1,0,0,0,0,0,0,0,Kayo,Pearl,League Play: Week 6,119593,184484,Initiator,21,No,lose,0
+Meteor,GEN,4,2,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119593,184484,Duelist,21,No,lose,0
+Bazzi,GES,2,0,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 6,119594,184484,Initiator,21,No,win,0
+AYRIN,GES,2,2,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 6,119594,184484,Initiator,21,No,win,0
+SkRossi,GES,2,1,1,1,0,0,0,0,0,Jett,Lotus,League Play: Week 6,119594,184484,Duelist,21,No,win,0
+Monyet,GES,5,1,0,0,1,0,0,0,0,Omen,Lotus,League Play: Week 6,119594,184484,Controller,21,No,win,1
+t3xture,GES,2,0,1,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119594,184484,Sentinel,21,No,win,1
+k1Ng,GEN,1,1,0,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 6,119594,184484,Sentinel,21,No,lose,1
+TS,GEN,4,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 6,119594,184484,Controller,21,No,lose,0
+Sylvan,GEN,2,0,0,0,0,0,0,0,0,Fade,Lotus,League Play: Week 6,119594,184484,Initiator,21,No,lose,0
+GodDead,GEN,3,1,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 6,119594,184484,Initiator,21,No,lose,0
+Meteor,GEN,5,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 6,119594,184484,Duelist,21,No,lose,0
+xffero,RRQ,6,1,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 6,119596,184485,Initiator,21,No,win,0
+fl1pzjder,RRQ,1,4,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 6,119596,184485,Initiator,21,No,win,1
+EJAY,RRQ,4,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 6,119596,184485,Duelist,21,No,win,0
+Lmemore,RRQ,2,1,2,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 6,119596,184485,Sentinel,21,No,win,0
+2ge,RRQ,2,1,0,0,0,0,0,0,0,Astra,Haven,League Play: Week 6,119596,184485,Controller,21,No,win,0
+stax,DRX,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 6,119596,184485,Initiator,21,No,lose,0
+Rb,DRX,2,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 6,119596,184485,Initiator,21,No,lose,0
+BuZz,DRX,0,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 6,119596,184485,Sentinel,21,No,lose,0
+MaKo,DRX,2,2,1,0,1,0,0,0,0,Omen,Haven,League Play: Week 6,119596,184485,Controller,21,No,lose,1
+Foxy9,DRX,5,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 6,119596,184485,Duelist,21,No,lose,0
+xffero,RRQ,0,0,1,0,1,0,0,0,0,Astra,Split,League Play: Week 6,119597,184485,Controller,23,No,lose,1
+fl1pzjder,RRQ,3,0,0,0,0,0,0,0,0,Breach,Split,League Play: Week 6,119597,184485,Initiator,23,No,lose,0
+EJAY,RRQ,3,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119597,184485,Duelist,23,No,lose,0
+Lmemore,RRQ,2,0,0,0,0,0,0,0,0,Cypher,Split,League Play: Week 6,119597,184485,Sentinel,23,No,lose,0
+Emman,RRQ,5,1,0,0,1,1,0,0,0,Skye,Split,League Play: Week 6,119597,184485,Initiator,23,No,lose,2
+stax,DRX,2,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 6,119597,184485,Initiator,23,No,win,0
+Rb,DRX,5,0,0,0,0,1,0,0,0,Astra,Split,League Play: Week 6,119597,184485,Controller,23,No,win,1
+BuZz,DRX,8,1,1,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119597,184485,Duelist,23,No,win,0
+MaKo,DRX,5,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119597,184485,Controller,23,No,win,0
+Foxy9,DRX,1,1,0,0,0,0,0,0,0,Jett,Split,League Play: Week 6,119597,184485,Duelist,23,No,win,0
+xffero,RRQ,1,0,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 6,119598,184485,Controller,15,No,lose,0
+fl1pzjder,RRQ,1,0,0,0,0,0,1,0,0,Skye,Pearl,League Play: Week 6,119598,184485,Initiator,15,No,lose,2
+EJAY,RRQ,1,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119598,184485,Duelist,15,No,lose,0
+Lmemore,RRQ,1,2,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 6,119598,184485,Sentinel,15,No,lose,0
+2ge,RRQ,0,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 6,119598,184485,Controller,15,No,lose,0
+stax,DRX,5,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 6,119598,184485,Initiator,15,No,win,0
+Rb,DRX,1,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 6,119598,184485,Controller,15,No,win,0
+BuZz,DRX,3,1,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 6,119598,184485,Sentinel,15,No,win,0
+MaKo,DRX,2,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 6,119598,184485,Controller,15,No,win,0
+Foxy9,DRX,5,2,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119598,184485,Duelist,15,No,win,0
+Patt,TLN,2,2,0,0,1,0,0,0,0,Harbor,Pearl,League Play: Week 6,119599,184486,Controller,24,Yes,win,1
+Crws,TLN,2,3,0,0,0,1,0,0,0,Viper,Pearl,League Play: Week 6,119599,184486,Controller,24,Yes,win,1
+foxz,TLN,1,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 6,119599,184486,Initiator,24,Yes,win,0
+JitBoyS,TLN,2,1,1,0,0,0,1,0,0,Killjoy,Pearl,League Play: Week 6,119599,184486,Sentinel,24,Yes,win,2
+garnetS,TLN,3,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119599,184486,Duelist,24,Yes,win,0
+Jinggg,PRX,5,0,0,0,0,0,0,0,0,Phoenix,Pearl,League Play: Week 6,119599,184486,Duelist,24,Yes,lose,0
+mindfreak,PRX,4,2,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 6,119599,184486,Controller,24,Yes,lose,0
+f0rsakeN,PRX,5,1,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 6,119599,184486,Sentinel,24,Yes,lose,0
+d4v41,PRX,0,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 6,119599,184486,Initiator,24,Yes,lose,0
+something,PRX,4,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 6,119599,184486,Duelist,24,Yes,lose,0
+Patt,TLN,2,0,0,0,0,0,0,0,0,Kayo,Split,League Play: Week 6,119600,184486,Initiator,17,No,lose,0
+Crws,TLN,0,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119600,184486,Controller,17,No,lose,0
+foxz,TLN,3,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 6,119600,184486,Initiator,17,No,lose,0
+JitBoyS,TLN,4,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 6,119600,184486,Controller,17,No,lose,0
+garnetS,TLN,3,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119600,184486,Duelist,17,No,lose,0
+Jinggg,PRX,3,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 6,119600,184486,Duelist,17,No,win,0
+mindfreak,PRX,1,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 6,119600,184486,Controller,17,No,win,0
+f0rsakeN,PRX,1,2,0,0,1,0,0,0,0,Skye,Split,League Play: Week 6,119600,184486,Initiator,17,No,win,1
+d4v41,PRX,3,0,1,0,0,0,0,0,0,Viper,Split,League Play: Week 6,119600,184486,Controller,17,No,win,0
+something,PRX,2,2,0,0,1,0,0,0,0,Jett,Split,League Play: Week 6,119600,184486,Duelist,17,No,win,1
+Patt,TLN,0,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 6,119601,184486,Initiator,23,No,lose,0
+Crws,TLN,3,1,0,0,1,0,0,0,0,Brimstone,Fracture,League Play: Week 6,119601,184486,Controller,23,No,lose,1
+foxz,TLN,4,1,1,0,0,0,0,0,0,Skye,Fracture,League Play: Week 6,119601,184486,Initiator,23,No,lose,0
+JitBoyS,TLN,3,1,0,0,0,0,0,0,0,Cypher,Fracture,League Play: Week 6,119601,184486,Sentinel,23,No,lose,0
+garnetS,TLN,2,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 6,119601,184486,Duelist,23,No,lose,0
+Jinggg,PRX,3,1,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 6,119601,184486,Duelist,23,No,win,0
+mindfreak,PRX,3,0,0,0,1,0,0,0,0,Brimstone,Fracture,League Play: Week 6,119601,184486,Controller,23,No,win,1
+f0rsakeN,PRX,3,3,0,0,0,0,0,0,0,Neon,Fracture,League Play: Week 6,119601,184486,Duelist,23,No,win,0
+d4v41,PRX,3,2,0,0,0,1,0,0,0,Killjoy,Fracture,League Play: Week 6,119601,184486,Sentinel,23,No,win,1
+something,PRX,2,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 6,119601,184486,Initiator,23,No,win,0
+Patt,TLN,1,0,1,0,0,0,0,0,0,Breach,Fracture,League Play: Week 7,119602,184488,Initiator,21,No,win,0
+Crws,TLN,8,0,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 7,119602,184488,Controller,21,No,win,0
+foxz,TLN,1,0,0,0,0,0,0,0,0,Skye,Fracture,League Play: Week 7,119602,184488,Initiator,21,No,win,0
+JitBoyS,TLN,5,1,0,0,0,0,0,0,0,Cypher,Fracture,League Play: Week 7,119602,184488,Sentinel,21,No,win,0
+garnetS,TLN,3,0,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 7,119602,184488,Duelist,21,No,win,0
+k1Ng,GEN,2,0,0,0,0,1,0,0,0,Viper,Fracture,League Play: Week 7,119602,184488,Controller,21,No,lose,1
+TS,GEN,0,1,0,0,0,0,0,0,0,Omen,Fracture,League Play: Week 7,119602,184488,Controller,21,No,lose,0
+eKo,GEN,2,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 7,119602,184488,Initiator,21,No,lose,0
+GodDead,GEN,1,1,1,0,1,0,0,0,0,Kayo,Fracture,League Play: Week 7,119602,184488,Initiator,21,No,lose,1
+Meteor,GEN,2,0,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 7,119602,184488,Duelist,21,No,lose,0
+Patt,TLN,2,0,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 7,119603,184488,Initiator,20,No,win,0
+Crws,TLN,3,2,0,0,1,0,0,0,0,Omen,Lotus,League Play: Week 7,119603,184488,Controller,20,No,win,1
+foxz,TLN,5,0,0,0,0,0,0,0,0,Sova,Lotus,League Play: Week 7,119603,184488,Initiator,20,No,win,0
+JitBoyS,TLN,1,1,0,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 7,119603,184488,Sentinel,20,No,win,1
+garnetS,TLN,1,3,0,0,0,0,0,0,0,Raze,Lotus,League Play: Week 7,119603,184488,Duelist,20,No,win,0
+k1Ng,GEN,5,1,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 7,119603,184488,Sentinel,20,No,lose,0
+TS,GEN,3,1,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 7,119603,184488,Controller,20,No,lose,0
+Sylvan,GEN,2,0,0,0,0,1,0,0,0,Fade,Lotus,League Play: Week 7,119603,184488,Initiator,20,No,lose,1
+GodDead,GEN,1,0,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 7,119603,184488,Initiator,20,No,lose,0
+Meteor,GEN,3,0,0,1,0,0,0,0,0,Jett,Lotus,League Play: Week 7,119603,184488,Duelist,20,No,lose,0
+Dep,ZETA,6,0,0,0,1,0,0,0,0,Raze,Split,League Play: Week 7,119605,184489,Duelist,19,No,lose,1
+Laz,ZETA,0,0,0,1,0,0,0,0,0,Skye,Split,League Play: Week 7,119605,184489,Initiator,19,No,lose,0
+crow,ZETA,1,0,0,0,0,0,0,0,0,Kayo,Split,League Play: Week 7,119605,184489,Initiator,19,No,lose,0
+TENNN,ZETA,1,0,1,0,1,0,0,0,0,Viper,Split,League Play: Week 7,119605,184489,Controller,19,No,lose,1
+SugarZ3ro,ZETA,4,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 7,119605,184489,Controller,19,No,lose,0
+Jinggg,PRX,1,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 7,119605,184489,Duelist,19,No,win,0
+mindfreak,PRX,2,0,1,0,0,0,0,0,0,Astra,Split,League Play: Week 7,119605,184489,Controller,19,No,win,0
+f0rsakeN,PRX,4,2,1,0,0,0,0,0,0,Skye,Split,League Play: Week 7,119605,184489,Initiator,19,No,win,0
+d4v41,PRX,2,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 7,119605,184489,Controller,19,No,win,0
+something,PRX,2,1,0,0,2,0,0,0,0,Jett,Split,League Play: Week 7,119605,184489,Duelist,19,No,win,2
+Dep,ZETA,1,2,0,0,0,1,0,0,0,Jett,Ascent,League Play: Week 7,119606,184489,Duelist,23,No,lose,1
+Laz,ZETA,4,0,0,0,2,0,0,0,0,Sova,Ascent,League Play: Week 7,119606,184489,Initiator,23,No,lose,2
+crow,ZETA,1,3,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 7,119606,184489,Initiator,23,No,lose,0
+TENNN,ZETA,1,0,0,0,0,1,0,0,0,Killjoy,Ascent,League Play: Week 7,119606,184489,Sentinel,23,No,lose,1
+SugarZ3ro,ZETA,1,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 7,119606,184489,Controller,23,No,lose,0
+Jinggg,PRX,1,0,0,0,0,0,0,0,0,Sage,Ascent,League Play: Week 7,119606,184489,Sentinel,23,No,win,0
+mindfreak,PRX,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 7,119606,184489,Controller,23,No,win,0
+f0rsakeN,PRX,3,2,0,0,0,0,0,0,0,Fade,Ascent,League Play: Week 7,119606,184489,Initiator,23,No,win,0
+d4v41,PRX,2,2,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 7,119606,184489,Initiator,23,No,win,0
+something,PRX,7,1,0,0,0,1,0,0,0,Jett,Ascent,League Play: Week 7,119606,184489,Duelist,23,No,win,1
+xffero,RRQ,2,2,0,0,1,0,1,0,0,Brimstone,Fracture,League Play: Week 7,119608,184490,Controller,23,No,win,3
+fl1pzjder,RRQ,1,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 7,119608,184490,Initiator,23,No,win,0
+EJAY,RRQ,3,1,0,1,0,0,0,0,0,Raze,Fracture,League Play: Week 7,119608,184490,Duelist,23,No,win,0
+Lmemore,RRQ,3,3,0,0,1,0,0,0,0,Killjoy,Fracture,League Play: Week 7,119608,184490,Sentinel,23,No,win,1
+Emman,RRQ,2,1,0,0,0,1,0,0,0,Skye,Fracture,League Play: Week 7,119608,184490,Initiator,23,No,win,1
+Bazzi,GES,4,0,1,0,0,1,0,0,0,Breach,Fracture,League Play: Week 7,119608,184490,Initiator,23,No,lose,1
+AYRIN,GES,4,0,0,0,1,1,0,0,0,Brimstone,Fracture,League Play: Week 7,119608,184490,Controller,23,No,lose,2
+SkRossi,GES,1,1,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 7,119608,184490,Duelist,23,No,lose,0
+Monyet,GES,6,3,0,0,0,1,0,0,0,Raze,Fracture,League Play: Week 7,119608,184490,Duelist,23,No,lose,1
+t3xture,GES,1,0,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 7,119608,184490,Sentinel,23,No,lose,0
+xffero,RRQ,2,2,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 7,119609,184490,Controller,24,Yes,win,0
+fl1pzjder,RRQ,5,1,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 7,119609,184490,Initiator,24,Yes,win,0
+EJAY,RRQ,3,1,0,0,1,0,0,0,0,Jett,Pearl,League Play: Week 7,119609,184490,Duelist,24,Yes,win,1
+Lmemore,RRQ,4,2,1,0,1,0,0,0,0,Killjoy,Pearl,League Play: Week 7,119609,184490,Sentinel,24,Yes,win,1
+2ge,RRQ,4,1,0,0,0,1,0,0,0,Harbor,Pearl,League Play: Week 7,119609,184490,Controller,24,Yes,win,1
+Bazzi,GES,0,2,0,0,0,0,0,0,0,Fade,Pearl,League Play: Week 7,119609,184490,Initiator,24,Yes,lose,0
+AYRIN,GES,4,0,0,0,1,0,0,0,0,Kayo,Pearl,League Play: Week 7,119609,184490,Initiator,24,Yes,lose,1
+SkRossi,GES,4,1,0,0,1,1,0,0,0,Jett,Pearl,League Play: Week 7,119609,184490,Duelist,24,Yes,lose,2
+Monyet,GES,1,1,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 7,119609,184490,Controller,24,Yes,lose,0
+t3xture,GES,5,2,1,0,0,0,1,0,0,Killjoy,Pearl,League Play: Week 7,119609,184490,Sentinel,24,Yes,lose,2
+BORKUM,TS,2,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 7,119611,184491,Controller,17,No,lose,0
+JessieVash,TS,1,0,0,0,0,0,0,0,0,Sova,Lotus,League Play: Week 7,119611,184491,Initiator,17,No,lose,0
+DubsteP,TS,1,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 7,119611,184491,Duelist,17,No,lose,0
+Jremy,TS,1,1,1,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 7,119611,184491,Sentinel,17,No,lose,0
+invy,TS,2,1,0,0,0,0,0,0,0,Breach,Lotus,League Play: Week 7,119611,184491,Initiator,17,No,lose,0
+xeta,T1,3,0,0,0,0,0,0,0,0,Harbor,Lotus,League Play: Week 7,119611,184491,Controller,17,No,win,0
+Munchkin,T1,3,1,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 7,119611,184491,Sentinel,17,No,win,0
+Sayaplayer,T1,2,2,0,0,2,0,0,0,0,Jett,Lotus,League Play: Week 7,119611,184491,Duelist,17,No,win,2
+ban,T1,3,1,0,0,1,0,0,0,0,Viper,Lotus,League Play: Week 7,119611,184491,Controller,17,No,win,1
+Carpe,T1,4,1,0,0,1,0,0,0,0,Skye,Lotus,League Play: Week 7,119611,184491,Initiator,17,No,win,1
+BORKUM,TS,1,0,0,0,1,0,0,0,0,Viper,Bind,League Play: Week 7,119612,184491,Controller,21,No,lose,1
+JessieVash,TS,1,0,0,0,0,1,0,0,0,Harbor,Bind,League Play: Week 7,119612,184491,Controller,21,No,lose,1
+DubsteP,TS,2,2,0,0,1,0,0,0,0,Sage,Bind,League Play: Week 7,119612,184491,Sentinel,21,No,lose,1
+Jremy,TS,3,0,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 7,119612,184491,Duelist,21,No,lose,0
+invy,TS,2,0,0,0,0,0,0,0,0,Skye,Bind,League Play: Week 7,119612,184491,Initiator,21,No,lose,0
+xeta,T1,5,1,0,0,0,0,0,0,0,Viper,Bind,League Play: Week 7,119612,184491,Controller,21,No,win,0
+iNTRO,T1,2,0,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 7,119612,184491,Controller,21,No,win,0
+Munchkin,T1,2,1,0,0,0,0,0,0,0,Skye,Bind,League Play: Week 7,119612,184491,Initiator,21,No,win,0
+Sayaplayer,T1,5,2,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 7,119612,184491,Duelist,21,No,win,0
+Carpe,T1,2,0,0,0,0,0,0,0,0,Gekko,Bind,League Play: Week 7,119612,184491,Initiator,21,No,win,0
+stax,DRX,3,1,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 7,119614,184492,Initiator,21,No,win,0
+Rb,DRX,2,0,0,0,0,1,0,0,0,Fade,Fracture,League Play: Week 7,119614,184492,Initiator,21,No,win,1
+BuZz,DRX,3,1,1,0,1,0,0,0,0,Killjoy,Fracture,League Play: Week 7,119614,184492,Sentinel,21,No,win,1
+MaKo,DRX,3,1,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 7,119614,184492,Controller,21,No,win,0
+Foxy9,DRX,2,1,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 7,119614,184492,Duelist,21,No,win,0
+takej,DFM,1,3,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 7,119614,184492,Controller,21,No,lose,0
+Reita,DFM,2,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 7,119614,184492,Initiator,21,No,lose,0
+Anthem,DFM,3,0,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 7,119614,184492,Sentinel,21,No,lose,0
+xnfri,DFM,2,0,0,0,0,0,0,0,0,Skye,Fracture,League Play: Week 7,119614,184492,Initiator,21,No,lose,0
+Seoldam,DFM,6,2,0,0,0,0,0,0,0,Jett,Fracture,League Play: Week 7,119614,184492,Duelist,21,No,lose,0
+stax,DRX,1,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 7,119615,184492,Initiator,17,No,win,0
+Rb,DRX,3,0,1,0,0,0,0,0,0,Sova,Ascent,League Play: Week 7,119615,184492,Initiator,17,No,win,0
+BuZz,DRX,2,2,1,0,1,0,0,0,0,Killjoy,Ascent,League Play: Week 7,119615,184492,Sentinel,17,No,win,1
+MaKo,DRX,4,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 7,119615,184492,Controller,17,No,win,0
+Foxy9,DRX,5,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 7,119615,184492,Duelist,17,No,win,0
+takej,DFM,1,0,0,0,1,0,0,0,0,Omen,Ascent,League Play: Week 7,119615,184492,Controller,17,No,lose,1
+Reita,DFM,0,1,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 7,119615,184492,Initiator,17,No,lose,0
+Anthem,DFM,1,1,1,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 7,119615,184492,Sentinel,17,No,lose,0
+xnfri,DFM,2,1,0,0,1,0,0,0,0,Kayo,Ascent,League Play: Week 7,119615,184492,Initiator,17,No,lose,1
+Seoldam,DFM,3,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 7,119615,184492,Duelist,17,No,lose,0
+Jinggg,PRX,3,3,0,0,0,0,0,0,0,Raze,Split,League Play: Week 8,119617,184493,Duelist,20,No,win,0
+mindfreak,PRX,2,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 8,119617,184493,Controller,20,No,win,0
+f0rsakeN,PRX,2,0,0,0,0,1,0,0,0,Skye,Split,League Play: Week 8,119617,184493,Initiator,20,No,win,1
+d4v41,PRX,2,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 8,119617,184493,Controller,20,No,win,0
+something,PRX,2,0,1,0,0,1,0,0,0,Jett,Split,League Play: Week 8,119617,184493,Duelist,20,No,win,1
+k1Ng,GEN,0,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 8,119617,184493,Controller,20,No,lose,0
+TS,GEN,2,1,0,0,0,0,0,0,0,Astra,Split,League Play: Week 8,119617,184493,Controller,20,No,lose,0
+Sylvan,GEN,1,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 8,119617,184493,Initiator,20,No,lose,0
+GodDead,GEN,6,1,0,0,0,0,0,0,0,Sage,Split,League Play: Week 8,119617,184493,Sentinel,20,No,lose,0
+Meteor,GEN,2,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 8,119617,184493,Duelist,20,No,lose,0
+Jinggg,PRX,3,1,0,0,0,1,0,0,0,Sage,Ascent,League Play: Week 8,119618,184493,Sentinel,15,No,win,1
+mindfreak,PRX,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119618,184493,Controller,15,No,win,0
+f0rsakeN,PRX,2,1,1,0,0,0,0,0,0,Fade,Ascent,League Play: Week 8,119618,184493,Initiator,15,No,win,0
+d4v41,PRX,6,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 8,119618,184493,Initiator,15,No,win,0
+something,PRX,1,1,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119618,184493,Duelist,15,No,win,0
+k1Ng,GEN,0,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119618,184493,Sentinel,15,No,lose,0
+TS,GEN,2,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119618,184493,Controller,15,No,lose,0
+eKo,GEN,0,0,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 8,119618,184493,Initiator,15,No,lose,0
+GodDead,GEN,0,1,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 8,119618,184493,Initiator,15,No,lose,0
+Meteor,GEN,2,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119618,184493,Duelist,15,No,lose,0
+Dep,ZETA,4,1,1,0,0,0,0,0,0,Raze,Fracture,League Play: Week 8,119620,184494,Duelist,24,Yes,lose,0
+Laz,ZETA,2,2,2,0,0,0,0,0,0,Fade,Fracture,League Play: Week 8,119620,184494,Initiator,24,Yes,lose,0
+crow,ZETA,1,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 8,119620,184494,Initiator,24,Yes,lose,0
+TENNN,ZETA,1,2,0,0,1,0,0,0,0,Killjoy,Fracture,League Play: Week 8,119620,184494,Sentinel,24,Yes,lose,1
+SugarZ3ro,ZETA,1,0,0,1,0,0,0,0,0,Brimstone,Fracture,League Play: Week 8,119620,184494,Controller,24,Yes,lose,0
+xeta,T1,5,0,0,0,0,1,0,0,0,Breach,Fracture,League Play: Week 8,119620,184494,Initiator,24,Yes,win,1
+Munchkin,T1,4,1,1,0,1,0,0,0,0,Killjoy,Fracture,League Play: Week 8,119620,184494,Sentinel,24,Yes,win,1
+Sayaplayer,T1,4,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 8,119620,184494,Duelist,24,Yes,win,0
+ban,T1,2,1,1,1,0,0,0,0,0,Jett,Fracture,League Play: Week 8,119620,184494,Duelist,24,Yes,win,0
+Carpe,T1,0,0,0,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 8,119620,184494,Controller,24,Yes,win,0
+Dep,ZETA,4,3,1,0,0,0,0,0,0,Raze,Lotus,League Play: Week 8,119621,184494,Duelist,23,No,win,0
+Laz,ZETA,1,1,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 8,119621,184494,Initiator,23,No,win,0
+crow,ZETA,3,0,0,0,1,1,0,0,0,Killjoy,Lotus,League Play: Week 8,119621,184494,Sentinel,23,No,win,2
+TENNN,ZETA,3,1,0,0,0,1,0,0,0,Viper,Lotus,League Play: Week 8,119621,184494,Controller,23,No,win,1
+SugarZ3ro,ZETA,3,1,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119621,184494,Controller,23,No,win,0
+xeta,T1,2,0,0,0,0,0,0,0,0,Harbor,Lotus,League Play: Week 8,119621,184494,Controller,23,No,lose,0
+Munchkin,T1,3,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 8,119621,184494,Sentinel,23,No,lose,0
+Sayaplayer,T1,4,2,1,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119621,184494,Duelist,23,No,lose,0
+ban,T1,3,1,1,0,0,0,0,0,0,Viper,Lotus,League Play: Week 8,119621,184494,Controller,23,No,lose,0
+Carpe,T1,3,2,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 8,119621,184494,Initiator,23,No,lose,0
+Dep,ZETA,2,0,0,0,0,0,0,0,0,Jett,Bind,League Play: Week 8,119622,184494,Duelist,16,No,lose,0
+Laz,ZETA,0,1,0,0,0,0,1,0,0,Skye,Bind,League Play: Week 8,119622,184494,Initiator,16,No,lose,2
+crow,ZETA,3,1,0,0,0,0,0,0,0,Sage,Bind,League Play: Week 8,119622,184494,Sentinel,16,No,lose,0
+TENNN,ZETA,3,0,0,0,0,0,0,0,0,Viper,Bind,League Play: Week 8,119622,184494,Controller,16,No,lose,0
+SugarZ3ro,ZETA,2,1,0,0,0,1,0,0,0,Harbor,Bind,League Play: Week 8,119622,184494,Controller,16,No,lose,1
+xeta,T1,1,2,0,0,0,0,0,0,0,Viper,Bind,League Play: Week 8,119622,184494,Controller,16,No,win,0
+Munchkin,T1,5,1,0,0,1,0,0,0,0,Skye,Bind,League Play: Week 8,119622,184494,Initiator,16,No,win,1
+Sayaplayer,T1,3,1,1,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119622,184494,Duelist,16,No,win,0
+ban,T1,4,1,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119622,184494,Controller,16,No,win,0
+Carpe,T1,2,0,0,0,0,0,0,0,0,Gekko,Bind,League Play: Week 8,119622,184494,Initiator,16,No,win,0
+BORKUM,TS,3,1,0,0,0,2,0,0,0,Omen,Haven,League Play: Week 8,119623,184495,Controller,21,No,win,2
+JessieVash,TS,5,0,1,0,1,0,0,0,0,Sova,Haven,League Play: Week 8,119623,184495,Initiator,21,No,win,1
+DubsteP,TS,4,0,0,0,2,0,0,0,0,Killjoy,Haven,League Play: Week 8,119623,184495,Sentinel,21,No,win,2
+Jremy,TS,2,2,0,0,0,0,0,0,0,Raze,Haven,League Play: Week 8,119623,184495,Duelist,21,No,win,0
+invy,TS,4,1,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 8,119623,184495,Initiator,21,No,win,0
+stax,DRX,3,0,0,0,1,0,0,0,0,Breach,Haven,League Play: Week 8,119623,184495,Initiator,21,No,lose,1
+Rb,DRX,0,0,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 8,119623,184495,Sentinel,21,No,lose,0
+Zest,DRX,2,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 8,119623,184495,Initiator,21,No,lose,0
+BuZz,DRX,4,2,0,0,1,0,0,0,0,Jett,Haven,League Play: Week 8,119623,184495,Duelist,21,No,lose,1
+MaKo,DRX,3,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 8,119623,184495,Controller,21,No,lose,0
+BORKUM,TS,5,0,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119624,184495,Controller,24,Yes,win,0
+JessieVash,TS,3,0,1,0,0,1,0,0,0,Sova,Ascent,League Play: Week 8,119624,184495,Initiator,24,Yes,win,1
+DubsteP,TS,4,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119624,184495,Duelist,24,Yes,win,0
+Jremy,TS,2,1,1,0,1,0,1,0,0,Killjoy,Ascent,League Play: Week 8,119624,184495,Sentinel,24,Yes,win,3
+invy,TS,4,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 8,119624,184495,Initiator,24,Yes,win,0
+stax,DRX,2,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 8,119624,184495,Initiator,24,Yes,lose,0
+Rb,DRX,8,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119624,184495,Sentinel,24,Yes,lose,0
+Zest,DRX,4,1,0,0,0,1,0,0,0,Sova,Ascent,League Play: Week 8,119624,184495,Initiator,24,Yes,lose,1
+BuZz,DRX,1,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119624,184495,Duelist,24,Yes,lose,0
+MaKo,DRX,4,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119624,184495,Controller,24,Yes,lose,0
+Bazzi,GES,0,0,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 8,119626,184496,Initiator,20,No,win,0
+AYRIN,GES,3,0,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 8,119626,184496,Initiator,20,No,win,0
+SkRossi,GES,6,1,1,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119626,184496,Duelist,20,No,win,0
+Monyet,GES,2,2,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119626,184496,Controller,20,No,win,0
+t3xture,GES,4,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 8,119626,184496,Sentinel,20,No,win,0
+takej,DFM,2,0,0,0,0,0,0,0,0,Viper,Lotus,League Play: Week 8,119626,184496,Controller,20,No,lose,0
+Reita,DFM,2,1,0,0,0,0,0,0,0,Skye,Lotus,League Play: Week 8,119626,184496,Initiator,20,No,lose,0
+Anthem,DFM,2,0,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 8,119626,184496,Sentinel,20,No,lose,0
+xnfri,DFM,3,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119626,184496,Controller,20,No,lose,0
+Seoldam,DFM,4,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119626,184496,Duelist,20,No,lose,0
+Bazzi,GES,1,1,0,0,1,0,0,0,0,Fade,Pearl,League Play: Week 8,119627,184496,Initiator,19,No,win,1
+AYRIN,GES,2,0,0,0,0,0,1,0,0,Kayo,Pearl,League Play: Week 8,119627,184496,Initiator,19,No,win,2
+SkRossi,GES,3,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 8,119627,184496,Duelist,19,No,win,0
+Monyet,GES,5,1,0,0,1,0,0,0,0,Astra,Pearl,League Play: Week 8,119627,184496,Controller,19,No,win,1
+t3xture,GES,5,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 8,119627,184496,Sentinel,19,No,win,0
+takej,DFM,1,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 8,119627,184496,Controller,19,No,lose,0
+Reita,DFM,0,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 8,119627,184496,Controller,19,No,lose,0
+Anthem,DFM,5,1,0,0,0,1,0,0,0,Killjoy,Pearl,League Play: Week 8,119627,184496,Sentinel,19,No,lose,1
+xnfri,DFM,2,1,0,0,1,0,0,0,0,Skye,Pearl,League Play: Week 8,119627,184496,Initiator,19,No,lose,1
+Seoldam,DFM,2,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 8,119627,184496,Duelist,19,No,lose,0
+Patt,TLN,4,2,0,0,0,0,0,0,0,Jett,Split,League Play: Week 8,119629,184497,Duelist,16,No,win,0
+Crws,TLN,0,0,0,0,0,0,0,0,0,Viper,Split,League Play: Week 8,119629,184497,Controller,16,No,win,0
+foxz,TLN,3,0,0,0,1,0,0,0,0,Skye,Split,League Play: Week 8,119629,184497,Initiator,16,No,win,1
+JitBoyS,TLN,1,1,0,0,0,0,0,0,0,Astra,Split,League Play: Week 8,119629,184497,Controller,16,No,win,0
+garnetS,TLN,5,0,0,0,0,0,0,0,0,Raze,Split,League Play: Week 8,119629,184497,Duelist,16,No,win,0
+xffero,RRQ,4,0,0,0,0,0,0,0,0,Astra,Split,League Play: Week 8,119629,184497,Controller,16,No,lose,0
+fl1pzjder,RRQ,0,1,0,0,0,0,0,0,0,Viper,Split,League Play: Week 8,119629,184497,Controller,16,No,lose,0
+EJAY,RRQ,2,1,0,0,0,0,0,0,0,Raze,Split,League Play: Week 8,119629,184497,Duelist,16,No,lose,0
+Lmemore,RRQ,1,0,0,0,0,0,0,0,0,Killjoy,Split,League Play: Week 8,119629,184497,Sentinel,16,No,lose,0
+Emman,RRQ,2,0,0,0,0,0,0,0,0,Skye,Split,League Play: Week 8,119629,184497,Initiator,16,No,lose,0
+Patt,TLN,0,1,0,0,1,0,0,0,0,Harbor,Ascent,League Play: Week 8,119630,184497,Controller,17,No,lose,1
+Crws,TLN,2,2,0,0,0,0,0,0,0,Viper,Ascent,League Play: Week 8,119630,184497,Controller,17,No,lose,0
+foxz,TLN,2,0,0,0,0,0,0,0,0,Skye,Ascent,League Play: Week 8,119630,184497,Initiator,17,No,lose,0
+JitBoyS,TLN,2,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119630,184497,Sentinel,17,No,lose,0
+garnetS,TLN,2,0,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119630,184497,Duelist,17,No,lose,0
+xffero,RRQ,4,1,0,1,1,0,0,0,0,Sova,Ascent,League Play: Week 8,119630,184497,Initiator,17,No,win,1
+fl1pzjder,RRQ,4,0,0,0,2,0,0,0,0,Kayo,Ascent,League Play: Week 8,119630,184497,Initiator,17,No,win,2
+EJAY,RRQ,5,0,0,0,1,0,0,0,0,Jett,Ascent,League Play: Week 8,119630,184497,Duelist,17,No,win,1
+Lmemore,RRQ,4,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119630,184497,Sentinel,17,No,win,0
+2ge,RRQ,2,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119630,184497,Controller,17,No,win,0
+Patt,TLN,3,2,0,0,0,0,0,0,0,Raze,Haven,League Play: Week 8,119631,184497,Duelist,20,No,lose,0
+Sushiboys,TLN,1,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 8,119631,184497,Sentinel,20,No,lose,0
+Crws,TLN,1,1,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 8,119631,184497,Controller,20,No,lose,0
+foxz,TLN,2,0,0,0,1,0,0,0,0,Skye,Haven,League Play: Week 8,119631,184497,Initiator,20,No,lose,1
+JitBoyS,TLN,2,1,1,0,0,0,0,0,0,Breach,Haven,League Play: Week 8,119631,184497,Initiator,20,No,lose,0
+xffero,RRQ,2,0,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 8,119631,184497,Initiator,20,No,win,0
+fl1pzjder,RRQ,5,1,1,0,0,0,0,0,0,Breach,Haven,League Play: Week 8,119631,184497,Initiator,20,No,win,0
+EJAY,RRQ,1,0,1,0,0,0,0,0,0,Jett,Haven,League Play: Week 8,119631,184497,Duelist,20,No,win,0
+Lmemore,RRQ,2,0,1,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 8,119631,184497,Sentinel,20,No,win,0
+2ge,RRQ,4,0,0,0,1,0,0,0,0,Astra,Haven,League Play: Week 8,119631,184497,Controller,20,No,win,1
+Dep,ZETA,6,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 8,119632,184498,Duelist,21,No,win,0
+Laz,ZETA,3,3,0,0,0,1,0,0,0,Sova,Haven,League Play: Week 8,119632,184498,Initiator,21,No,win,1
+crow,ZETA,1,1,0,0,2,0,0,0,0,Breach,Haven,League Play: Week 8,119632,184498,Initiator,21,No,win,2
+TENNN,ZETA,6,1,0,0,0,0,0,0,0,Killjoy,Haven,League Play: Week 8,119632,184498,Sentinel,21,No,win,0
+SugarZ3ro,ZETA,2,0,1,0,0,0,0,0,0,Omen,Haven,League Play: Week 8,119632,184498,Controller,21,No,win,0
+k1Ng,GEN,5,2,0,0,1,0,0,0,0,Killjoy,Haven,League Play: Week 8,119632,184498,Sentinel,21,No,lose,1
+TS,GEN,0,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 8,119632,184498,Controller,21,No,lose,0
+Sylvan,GEN,4,1,1,0,2,1,0,0,0,Sova,Haven,League Play: Week 8,119632,184498,Initiator,21,No,lose,3
+GodDead,GEN,2,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 8,119632,184498,Initiator,21,No,lose,0
+Meteor,GEN,1,1,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 8,119632,184498,Duelist,21,No,lose,0
+Dep,ZETA,2,2,0,0,1,0,0,0,0,Jett,Ascent,League Play: Week 8,119633,184498,Duelist,17,No,lose,1
+Laz,ZETA,1,1,0,0,0,0,0,0,0,Sova,Ascent,League Play: Week 8,119633,184498,Initiator,17,No,lose,0
+crow,ZETA,1,0,0,0,0,0,0,0,0,Kayo,Ascent,League Play: Week 8,119633,184498,Initiator,17,No,lose,0
+TENNN,ZETA,4,0,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119633,184498,Sentinel,17,No,lose,0
+SugarZ3ro,ZETA,2,1,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119633,184498,Controller,17,No,lose,0
+k1Ng,GEN,2,1,0,0,0,0,0,0,0,Killjoy,Ascent,League Play: Week 8,119633,184498,Sentinel,17,No,win,0
+TS,GEN,2,2,0,0,0,0,0,0,0,Omen,Ascent,League Play: Week 8,119633,184498,Controller,17,No,win,0
+eKo,GEN,2,0,0,0,1,0,0,0,0,Sova,Ascent,League Play: Week 8,119633,184498,Initiator,17,No,win,1
+GodDead,GEN,4,0,1,0,0,1,0,0,0,Kayo,Ascent,League Play: Week 8,119633,184498,Initiator,17,No,win,1
+Meteor,GEN,6,1,0,0,0,0,0,0,0,Jett,Ascent,League Play: Week 8,119633,184498,Duelist,17,No,win,0
+Dep,ZETA,4,2,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 8,119634,184498,Duelist,17,No,win,0
+Laz,ZETA,5,0,0,0,0,0,0,0,0,Fade,Fracture,League Play: Week 8,119634,184498,Initiator,17,No,win,0
+crow,ZETA,2,0,0,0,0,1,0,0,0,Breach,Fracture,League Play: Week 8,119634,184498,Initiator,17,No,win,1
+TENNN,ZETA,0,0,0,0,0,0,0,0,0,Killjoy,Fracture,League Play: Week 8,119634,184498,Sentinel,17,No,win,0
+SugarZ3ro,ZETA,5,0,2,0,0,0,0,0,0,Brimstone,Fracture,League Play: Week 8,119634,184498,Controller,17,No,win,0
+k1Ng,GEN,2,0,0,0,1,0,0,0,0,Viper,Fracture,League Play: Week 8,119634,184498,Controller,17,No,lose,1
+TS,GEN,2,1,0,0,1,0,0,0,0,Omen,Fracture,League Play: Week 8,119634,184498,Controller,17,No,lose,1
+eKo,GEN,1,0,0,0,0,0,0,0,0,Breach,Fracture,League Play: Week 8,119634,184498,Initiator,17,No,lose,0
+GodDead,GEN,3,0,0,0,0,0,0,0,0,Kayo,Fracture,League Play: Week 8,119634,184498,Initiator,17,No,lose,0
+Meteor,GEN,0,0,0,0,0,0,0,0,0,Raze,Fracture,League Play: Week 8,119634,184498,Duelist,17,No,lose,0
+xeta,T1,0,1,0,0,0,1,0,0,0,Viper,Bind,League Play: Week 8,119635,184499,Controller,23,No,lose,1
+Munchkin,T1,1,1,0,0,1,0,0,0,0,Skye,Bind,League Play: Week 8,119635,184499,Initiator,23,No,lose,1
+Sayaplayer,T1,8,1,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119635,184499,Duelist,23,No,lose,0
+ban,T1,2,1,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119635,184499,Controller,23,No,lose,0
+Carpe,T1,4,0,0,0,0,1,0,0,0,Gekko,Bind,League Play: Week 8,119635,184499,Initiator,23,No,lose,1
+stax,DRX,2,0,0,1,0,0,0,0,0,Skye,Bind,League Play: Week 8,119635,184499,Initiator,23,No,win,0
+Rb,DRX,0,1,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119635,184499,Controller,23,No,win,0
+BuZz,DRX,5,2,0,0,0,0,1,0,0,Raze,Bind,League Play: Week 8,119635,184499,Duelist,23,No,win,2
+MaKo,DRX,5,0,0,0,0,0,0,0,0,Viper,Bind,League Play: Week 8,119635,184499,Controller,23,No,win,0
+Foxy9,DRX,2,0,0,0,1,0,0,0,0,Jett,Bind,League Play: Week 8,119635,184499,Duelist,23,No,win,1
+xeta,T1,1,1,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 8,119636,184499,Controller,22,No,lose,0
+Munchkin,T1,0,0,1,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 8,119636,184499,Sentinel,22,No,lose,0
+Sayaplayer,T1,7,3,0,0,1,0,0,0,0,Jett,Pearl,League Play: Week 8,119636,184499,Duelist,22,No,lose,1
+ban,T1,2,0,0,0,0,0,0,0,0,Viper,Pearl,League Play: Week 8,119636,184499,Controller,22,No,lose,0
+Carpe,T1,2,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 8,119636,184499,Initiator,22,No,lose,0
+stax,DRX,3,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 8,119636,184499,Initiator,22,No,win,0
+Rb,DRX,4,1,0,0,1,1,0,0,0,Harbor,Pearl,League Play: Week 8,119636,184499,Controller,22,No,win,2
+BuZz,DRX,2,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 8,119636,184499,Sentinel,22,No,win,0
+MaKo,DRX,2,1,0,0,1,0,0,0,0,Viper,Pearl,League Play: Week 8,119636,184499,Controller,22,No,win,1
+Foxy9,DRX,4,1,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 8,119636,184499,Duelist,22,No,win,0
+BORKUM,TS,4,0,0,0,0,0,0,0,0,Omen,Haven,League Play: Week 8,119638,184500,Controller,22,No,win,0
+JessieVash,TS,3,1,0,0,0,0,0,0,0,Sova,Haven,League Play: Week 8,119638,184500,Initiator,22,No,win,0
+DubsteP,TS,5,0,0,0,1,1,0,0,0,Killjoy,Haven,League Play: Week 8,119638,184500,Sentinel,22,No,win,2
+Jremy,TS,2,2,0,0,0,1,0,0,0,Raze,Haven,League Play: Week 8,119638,184500,Duelist,22,No,win,1
+invy,TS,8,0,0,0,0,0,0,0,0,Breach,Haven,League Play: Week 8,119638,184500,Initiator,22,No,win,0
+Bazzi,GES,3,0,0,0,0,0,0,0,0,Skye,Haven,League Play: Week 8,119638,184500,Initiator,22,No,lose,0
+AYRIN,GES,2,0,0,0,0,0,0,0,0,Harbor,Haven,League Play: Week 8,119638,184500,Controller,22,No,lose,0
+SkRossi,GES,1,0,0,0,0,0,0,0,0,Jett,Haven,League Play: Week 8,119638,184500,Duelist,22,No,lose,0
+Monyet,GES,5,1,1,0,0,0,1,0,0,Viper,Haven,League Play: Week 8,119638,184500,Controller,22,No,lose,2
+t3xture,GES,4,1,0,0,0,0,1,0,0,Killjoy,Haven,League Play: Week 8,119638,184500,Sentinel,22,No,lose,2
+BORKUM,TS,5,0,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119639,184500,Controller,23,No,win,0
+JessieVash,TS,7,1,0,0,0,0,0,0,0,Sova,Lotus,League Play: Week 8,119639,184500,Initiator,23,No,win,0
+DubsteP,TS,3,0,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119639,184500,Duelist,23,No,win,0
+Jremy,TS,1,1,0,0,0,0,0,0,0,Killjoy,Lotus,League Play: Week 8,119639,184500,Sentinel,23,No,win,0
+invy,TS,3,1,0,0,1,0,0,0,0,Breach,Lotus,League Play: Week 8,119639,184500,Initiator,23,No,win,1
+Bazzi,GES,2,2,0,0,1,0,1,0,0,Skye,Lotus,League Play: Week 8,119639,184500,Initiator,23,No,lose,3
+AYRIN,GES,0,0,0,0,0,0,0,0,0,Kayo,Lotus,League Play: Week 8,119639,184500,Initiator,23,No,lose,0
+SkRossi,GES,5,1,0,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119639,184500,Duelist,23,No,lose,0
+Monyet,GES,2,2,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119639,184500,Controller,23,No,lose,0
+t3xture,GES,5,3,0,0,1,0,0,0,0,Killjoy,Lotus,League Play: Week 8,119639,184500,Sentinel,23,No,lose,1
+Patt,TLN,5,1,1,0,0,0,0,0,0,Breach,Lotus,League Play: Week 8,119641,184501,Initiator,24,Yes,win,0
+Crws,TLN,2,0,0,0,1,0,0,0,0,Omen,Lotus,League Play: Week 8,119641,184501,Controller,24,Yes,win,1
+foxz,TLN,1,0,0,0,0,0,0,0,0,Sova,Lotus,League Play: Week 8,119641,184501,Initiator,24,Yes,win,0
+JitBoyS,TLN,4,2,0,0,0,1,0,0,0,Killjoy,Lotus,League Play: Week 8,119641,184501,Sentinel,24,Yes,win,1
+garnetS,TLN,1,1,1,0,1,0,0,0,0,Raze,Lotus,League Play: Week 8,119641,184501,Duelist,24,Yes,win,1
+takej,DFM,4,0,0,0,0,1,0,0,0,Viper,Lotus,League Play: Week 8,119641,184501,Controller,24,Yes,lose,1
+Reita,DFM,2,0,1,0,0,0,0,0,0,Skye,Lotus,League Play: Week 8,119641,184501,Initiator,24,Yes,lose,0
+Anthem,DFM,4,0,1,0,0,1,0,0,0,Killjoy,Lotus,League Play: Week 8,119641,184501,Sentinel,24,Yes,lose,1
+xnfri,DFM,2,1,0,0,0,0,0,0,0,Omen,Lotus,League Play: Week 8,119641,184501,Controller,24,Yes,lose,0
+Seoldam,DFM,3,1,1,0,0,0,0,0,0,Jett,Lotus,League Play: Week 8,119641,184501,Duelist,24,Yes,lose,0
+Patt,TLN,4,1,0,1,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119642,184501,Controller,17,No,win,0
+Crws,TLN,2,1,0,0,2,0,0,0,0,Viper,Bind,League Play: Week 8,119642,184501,Controller,17,No,win,2
+foxz,TLN,5,3,0,0,0,0,0,0,0,Skye,Bind,League Play: Week 8,119642,184501,Initiator,17,No,win,0
+JitBoyS,TLN,1,0,0,0,0,0,0,0,0,Cypher,Bind,League Play: Week 8,119642,184501,Sentinel,17,No,win,0
+garnetS,TLN,2,1,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119642,184501,Duelist,17,No,win,0
+takej,DFM,1,0,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119642,184501,Controller,17,No,lose,0
+Reita,DFM,0,0,0,0,0,0,0,0,0,Sage,Bind,League Play: Week 8,119642,184501,Sentinel,17,No,lose,0
+Anthem,DFM,4,0,0,0,1,0,0,0,0,Viper,Bind,League Play: Week 8,119642,184501,Controller,17,No,lose,1
+xnfri,DFM,0,1,0,0,0,0,0,0,0,Skye,Bind,League Play: Week 8,119642,184501,Initiator,17,No,lose,0
+Seoldam,DFM,4,1,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119642,184501,Duelist,17,No,lose,0
+xffero,RRQ,2,0,1,0,0,0,0,0,0,Brimstone,Bind,League Play: Week 8,119644,184502,Controller,22,No,lose,0
+fl1pzjder,RRQ,4,0,0,0,1,0,0,0,0,Sova,Bind,League Play: Week 8,119644,184502,Initiator,22,No,lose,1
+EJAY,RRQ,3,1,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119644,184502,Duelist,22,No,lose,0
+Lmemore,RRQ,7,0,0,0,0,0,0,0,0,Viper,Bind,League Play: Week 8,119644,184502,Controller,22,No,lose,0
+Emman,RRQ,2,1,0,0,0,1,0,0,0,Skye,Bind,League Play: Week 8,119644,184502,Initiator,22,No,lose,1
+Jinggg,PRX,3,0,0,0,0,0,0,0,0,Raze,Bind,League Play: Week 8,119644,184502,Duelist,22,No,win,0
+mindfreak,PRX,5,0,0,0,0,1,0,0,0,Astra,Bind,League Play: Week 8,119644,184502,Controller,22,No,win,1
+f0rsakeN,PRX,3,1,0,0,0,0,0,0,0,Harbor,Bind,League Play: Week 8,119644,184502,Controller,22,No,win,0
+d4v41,PRX,4,0,0,0,1,0,0,0,0,Skye,Bind,League Play: Week 8,119644,184502,Initiator,22,No,win,1
+something,PRX,3,2,1,0,0,1,0,0,0,Reyna,Bind,League Play: Week 8,119644,184502,Duelist,22,No,win,1
+xffero,RRQ,7,3,0,0,2,1,0,0,0,Astra,Pearl,League Play: Week 8,119645,184502,Controller,24,Yes,lose,3
+fl1pzjder,RRQ,2,0,0,0,0,0,0,0,0,Skye,Pearl,League Play: Week 8,119645,184502,Initiator,24,Yes,lose,0
+EJAY,RRQ,3,0,0,0,0,0,0,0,0,Jett,Pearl,League Play: Week 8,119645,184502,Duelist,24,Yes,lose,0
+Lmemore,RRQ,5,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 8,119645,184502,Sentinel,24,Yes,lose,0
+2ge,RRQ,2,0,0,0,0,0,0,0,0,Harbor,Pearl,League Play: Week 8,119645,184502,Controller,24,Yes,lose,0
+Jinggg,PRX,2,2,0,0,0,1,0,0,0,Phoenix,Pearl,League Play: Week 8,119645,184502,Duelist,24,Yes,win,1
+mindfreak,PRX,5,1,0,0,0,0,0,0,0,Astra,Pearl,League Play: Week 8,119645,184502,Controller,24,Yes,win,0
+f0rsakeN,PRX,3,0,0,0,0,0,0,0,0,Killjoy,Pearl,League Play: Week 8,119645,184502,Sentinel,24,Yes,win,0
+d4v41,PRX,5,0,0,0,2,0,0,0,0,Skye,Pearl,League Play: Week 8,119645,184502,Initiator,24,Yes,win,2
+something,PRX,3,2,1,0,0,0,0,0,0,Jett,Pearl,League Play: Week 8,119645,184502,Duelist,24,Yes,win,0
+xeta,T1,4,0,1,0,0,0,0,0,0,Breach,Fracture,Playoffs: Upper Round 1,119680,184514,Initiator,21,No,win,0
+Munchkin,T1,2,1,0,0,0,1,0,0,0,Killjoy,Fracture,Playoffs: Upper Round 1,119680,184514,Sentinel,21,No,win,1
+Sayaplayer,T1,0,0,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Upper Round 1,119680,184514,Duelist,21,No,win,0
+ban,T1,2,1,1,0,0,0,0,0,0,Jett,Fracture,Playoffs: Upper Round 1,119680,184514,Duelist,21,No,win,0
+Carpe,T1,2,0,1,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Upper Round 1,119680,184514,Controller,21,No,win,0
+k1Ng,GEN,3,1,0,0,1,0,0,0,0,Viper,Fracture,Playoffs: Upper Round 1,119680,184514,Controller,21,No,lose,1
+TS,GEN,1,1,0,0,0,0,0,0,0,Omen,Fracture,Playoffs: Upper Round 1,119680,184514,Controller,21,No,lose,0
+eKo,GEN,1,0,1,0,0,1,0,0,0,Breach,Fracture,Playoffs: Upper Round 1,119680,184514,Initiator,21,No,lose,1
+GodDead,GEN,4,0,0,0,0,0,0,0,0,Kayo,Fracture,Playoffs: Upper Round 1,119680,184514,Initiator,21,No,lose,0
+Meteor,GEN,2,2,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Upper Round 1,119680,184514,Duelist,21,No,lose,0
+xeta,T1,3,0,0,0,0,0,0,0,0,Sova,Ascent,Playoffs: Upper Round 1,119681,184514,Initiator,24,Yes,lose,0
+Munchkin,T1,4,2,1,0,0,0,0,0,0,Killjoy,Ascent,Playoffs: Upper Round 1,119681,184514,Sentinel,24,Yes,lose,0
+Sayaplayer,T1,4,0,0,0,1,0,0,0,0,Jett,Ascent,Playoffs: Upper Round 1,119681,184514,Duelist,24,Yes,lose,1
+ban,T1,3,2,0,0,1,0,0,0,0,Omen,Ascent,Playoffs: Upper Round 1,119681,184514,Controller,24,Yes,lose,1
+Carpe,T1,0,1,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Upper Round 1,119681,184514,Initiator,24,Yes,lose,0
+k1Ng,GEN,3,1,0,0,0,0,0,0,0,Killjoy,Ascent,Playoffs: Upper Round 1,119681,184514,Sentinel,24,Yes,win,0
+TS,GEN,2,0,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Upper Round 1,119681,184514,Controller,24,Yes,win,0
+eKo,GEN,4,3,0,0,2,0,0,0,0,Sova,Ascent,Playoffs: Upper Round 1,119681,184514,Initiator,24,Yes,win,2
+GodDead,GEN,2,1,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Upper Round 1,119681,184514,Initiator,24,Yes,win,0
+Meteor,GEN,1,2,1,0,0,0,0,0,0,Jett,Ascent,Playoffs: Upper Round 1,119681,184514,Duelist,24,Yes,win,0
+xeta,T1,0,1,1,0,0,0,0,0,0,Harbor,Lotus,Playoffs: Upper Round 1,119682,184514,Controller,20,No,win,0
+Munchkin,T1,1,1,1,0,0,1,0,0,0,Killjoy,Lotus,Playoffs: Upper Round 1,119682,184514,Sentinel,20,No,win,1
+Sayaplayer,T1,2,1,0,0,0,0,0,0,0,Jett,Lotus,Playoffs: Upper Round 1,119682,184514,Duelist,20,No,win,0
+ban,T1,2,2,0,0,0,0,0,0,0,Viper,Lotus,Playoffs: Upper Round 1,119682,184514,Controller,20,No,win,0
+Carpe,T1,1,2,0,0,1,0,0,0,0,Skye,Lotus,Playoffs: Upper Round 1,119682,184514,Initiator,20,No,win,1
+k1Ng,GEN,2,0,0,0,0,0,0,0,0,Killjoy,Lotus,Playoffs: Upper Round 1,119682,184514,Sentinel,20,No,lose,0
+TS,GEN,2,0,0,0,0,0,0,0,0,Omen,Lotus,Playoffs: Upper Round 1,119682,184514,Controller,20,No,lose,0
+Sylvan,GEN,3,2,0,0,0,0,0,0,0,Fade,Lotus,Playoffs: Upper Round 1,119682,184514,Initiator,20,No,lose,0
+GodDead,GEN,2,0,0,0,1,0,0,0,0,Breach,Lotus,Playoffs: Upper Round 1,119682,184514,Initiator,20,No,lose,1
+Meteor,GEN,3,0,0,0,1,0,0,0,0,Jett,Lotus,Playoffs: Upper Round 1,119682,184514,Duelist,20,No,lose,1
+stax,DRX,3,0,0,0,0,0,0,0,0,Skye,Haven,Playoffs: Upper Semifinals,119683,184515,Initiator,22,No,lose,0
+Rb,DRX,2,0,0,0,0,0,0,0,0,Harbor,Haven,Playoffs: Upper Semifinals,119683,184515,Controller,22,No,lose,0
+BuZz,DRX,5,0,0,0,1,0,0,0,0,Killjoy,Haven,Playoffs: Upper Semifinals,119683,184515,Sentinel,22,No,lose,1
+MaKo,DRX,4,1,0,0,0,0,0,0,0,Omen,Haven,Playoffs: Upper Semifinals,119683,184515,Controller,22,No,lose,0
+Foxy9,DRX,2,3,0,0,0,0,0,0,0,Jett,Haven,Playoffs: Upper Semifinals,119683,184515,Duelist,22,No,lose,0
+BORKUM,TS,3,0,0,0,0,0,0,0,0,Omen,Haven,Playoffs: Upper Semifinals,119683,184515,Controller,22,No,win,0
+JessieVash,TS,4,3,0,0,0,1,0,0,0,Sova,Haven,Playoffs: Upper Semifinals,119683,184515,Initiator,22,No,win,1
+DubsteP,TS,6,1,0,0,0,0,0,0,0,Killjoy,Haven,Playoffs: Upper Semifinals,119683,184515,Sentinel,22,No,win,0
+Jremy,TS,3,1,0,0,0,0,0,0,0,Raze,Haven,Playoffs: Upper Semifinals,119683,184515,Duelist,22,No,win,0
+invy,TS,2,2,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Upper Semifinals,119683,184515,Initiator,22,No,win,0
+stax,DRX,1,1,0,0,0,0,0,0,0,Skye,Split,Playoffs: Upper Semifinals,119684,184515,Initiator,18,No,win,0
+Rb,DRX,0,0,0,0,0,0,0,0,0,Astra,Split,Playoffs: Upper Semifinals,119684,184515,Controller,18,No,win,0
+BuZz,DRX,1,3,2,0,0,0,0,0,0,Raze,Split,Playoffs: Upper Semifinals,119684,184515,Duelist,18,No,win,0
+MaKo,DRX,5,1,0,0,1,0,0,0,0,Viper,Split,Playoffs: Upper Semifinals,119684,184515,Controller,18,No,win,1
+Foxy9,DRX,3,0,0,0,1,0,0,0,0,Jett,Split,Playoffs: Upper Semifinals,119684,184515,Duelist,18,No,win,1
+BORKUM,TS,3,0,0,0,0,0,0,0,0,Astra,Split,Playoffs: Upper Semifinals,119684,184515,Controller,18,No,lose,0
+JessieVash,TS,0,0,0,0,1,0,0,0,0,Skye,Split,Playoffs: Upper Semifinals,119684,184515,Initiator,18,No,lose,1
+DubsteP,TS,2,0,0,0,0,0,0,0,0,Jett,Split,Playoffs: Upper Semifinals,119684,184515,Duelist,18,No,lose,0
+Jremy,TS,5,0,0,0,0,0,0,0,0,Raze,Split,Playoffs: Upper Semifinals,119684,184515,Duelist,18,No,lose,0
+invy,TS,2,2,0,0,1,0,0,0,0,Viper,Split,Playoffs: Upper Semifinals,119684,184515,Controller,18,No,lose,1
+stax,DRX,4,0,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Upper Semifinals,119685,184515,Initiator,17,No,win,0
+Rb,DRX,1,0,0,0,0,0,0,0,0,Harbor,Bind,Playoffs: Upper Semifinals,119685,184515,Controller,17,No,win,0
+BuZz,DRX,5,0,0,0,0,0,0,0,0,Kayo,Bind,Playoffs: Upper Semifinals,119685,184515,Initiator,17,No,win,0
+MaKo,DRX,2,2,0,0,0,1,0,0,0,Viper,Bind,Playoffs: Upper Semifinals,119685,184515,Controller,17,No,win,1
+Foxy9,DRX,4,1,1,0,0,0,0,0,0,Raze,Bind,Playoffs: Upper Semifinals,119685,184515,Duelist,17,No,win,0
+BORKUM,TS,1,0,0,0,0,0,0,0,0,Brimstone,Bind,Playoffs: Upper Semifinals,119685,184515,Controller,17,No,lose,0
+JessieVash,TS,1,0,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Upper Semifinals,119685,184515,Initiator,17,No,lose,0
+DubsteP,TS,1,2,0,0,0,0,0,0,0,Jett,Bind,Playoffs: Upper Semifinals,119685,184515,Duelist,17,No,lose,0
+Jremy,TS,0,0,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Upper Semifinals,119685,184515,Duelist,17,No,lose,0
+lenne,TS,2,0,0,0,0,0,0,0,0,Gekko,Bind,Playoffs: Upper Semifinals,119685,184515,Initiator,17,No,lose,0
+Jinggg,PRX,3,2,0,0,1,0,0,0,0,Raze,Lotus,Playoffs: Upper Semifinals,119686,184516,Duelist,23,No,win,1
+mindfreak,PRX,5,0,0,0,0,0,0,0,0,Omen,Lotus,Playoffs: Upper Semifinals,119686,184516,Controller,23,No,win,0
+f0rsakeN,PRX,8,0,0,0,0,0,0,0,0,Cypher,Lotus,Playoffs: Upper Semifinals,119686,184516,Sentinel,23,No,win,0
+d4v41,PRX,4,0,1,0,0,0,0,0,0,Skye,Lotus,Playoffs: Upper Semifinals,119686,184516,Initiator,23,No,win,0
+something,PRX,3,1,0,0,0,0,0,0,0,Jett,Lotus,Playoffs: Upper Semifinals,119686,184516,Duelist,23,No,win,0
+xeta,T1,5,1,0,0,1,0,0,0,0,Harbor,Lotus,Playoffs: Upper Semifinals,119686,184516,Controller,23,No,lose,1
+Munchkin,T1,2,1,0,0,0,0,0,0,0,Killjoy,Lotus,Playoffs: Upper Semifinals,119686,184516,Sentinel,23,No,lose,0
+Sayaplayer,T1,3,0,2,0,0,0,0,0,0,Jett,Lotus,Playoffs: Upper Semifinals,119686,184516,Duelist,23,No,lose,0
+ban,T1,3,0,0,0,0,1,0,0,0,Viper,Lotus,Playoffs: Upper Semifinals,119686,184516,Controller,23,No,lose,1
+Carpe,T1,3,1,0,0,0,0,0,0,0,Skye,Lotus,Playoffs: Upper Semifinals,119686,184516,Initiator,23,No,lose,0
+Jinggg,PRX,1,3,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Upper Semifinals,119687,184516,Duelist,23,No,win,0
+mindfreak,PRX,2,1,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Upper Semifinals,119687,184516,Controller,23,No,win,0
+f0rsakeN,PRX,5,1,0,0,0,0,0,0,0,Neon,Fracture,Playoffs: Upper Semifinals,119687,184516,Duelist,23,No,win,0
+d4v41,PRX,3,3,0,0,0,0,0,0,0,Killjoy,Fracture,Playoffs: Upper Semifinals,119687,184516,Sentinel,23,No,win,0
+something,PRX,2,0,0,0,0,1,0,0,0,Breach,Fracture,Playoffs: Upper Semifinals,119687,184516,Initiator,23,No,win,1
+xeta,T1,2,0,0,0,1,0,0,0,0,Breach,Fracture,Playoffs: Upper Semifinals,119687,184516,Initiator,23,No,lose,1
+Munchkin,T1,2,0,0,0,0,0,0,0,0,Killjoy,Fracture,Playoffs: Upper Semifinals,119687,184516,Sentinel,23,No,lose,0
+Sayaplayer,T1,2,3,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Upper Semifinals,119687,184516,Duelist,23,No,lose,0
+ban,T1,3,2,0,0,2,1,0,0,0,Jett,Fracture,Playoffs: Upper Semifinals,119687,184516,Duelist,23,No,lose,3
+Carpe,T1,2,1,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Upper Semifinals,119687,184516,Controller,23,No,lose,0
+xeta,T1,4,1,0,0,2,0,0,0,0,Sova,Haven,Playoffs: Lower Round 1,119689,184517,Initiator,23,No,win,2
+Munchkin,T1,2,1,0,0,1,0,0,0,0,Killjoy,Haven,Playoffs: Lower Round 1,119689,184517,Sentinel,23,No,win,1
+Sayaplayer,T1,5,0,0,1,0,0,0,0,0,Jett,Haven,Playoffs: Lower Round 1,119689,184517,Duelist,23,No,win,0
+ban,T1,1,2,0,0,0,0,0,0,0,Omen,Haven,Playoffs: Lower Round 1,119689,184517,Controller,23,No,win,0
+Carpe,T1,1,1,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Round 1,119689,184517,Initiator,23,No,win,0
+Dep,ZETA,5,0,0,0,0,0,0,0,0,Jett,Haven,Playoffs: Lower Round 1,119689,184517,Duelist,23,No,lose,0
+Laz,ZETA,3,0,0,0,1,0,0,0,0,Sova,Haven,Playoffs: Lower Round 1,119689,184517,Initiator,23,No,lose,1
+crow,ZETA,0,0,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Round 1,119689,184517,Initiator,23,No,lose,0
+TENNN,ZETA,6,0,0,0,0,0,0,0,0,Killjoy,Haven,Playoffs: Lower Round 1,119689,184517,Sentinel,23,No,lose,0
+SugarZ3ro,ZETA,3,1,1,0,0,0,0,0,0,Omen,Haven,Playoffs: Lower Round 1,119689,184517,Controller,23,No,lose,0
+xeta,T1,8,1,0,0,1,0,0,0,0,Viper,Bind,Playoffs: Lower Round 1,119690,184517,Controller,26,Yes,lose,1
+Munchkin,T1,5,2,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Lower Round 1,119690,184517,Initiator,26,Yes,lose,0
+Sayaplayer,T1,5,1,1,0,0,0,0,0,0,Raze,Bind,Playoffs: Lower Round 1,119690,184517,Duelist,26,Yes,lose,0
+ban,T1,1,1,0,0,0,0,0,0,0,Harbor,Bind,Playoffs: Lower Round 1,119690,184517,Controller,26,Yes,lose,0
+Carpe,T1,2,0,0,0,1,0,0,0,0,Gekko,Bind,Playoffs: Lower Round 1,119690,184517,Initiator,26,Yes,lose,1
+Dep,ZETA,4,1,0,0,0,0,0,0,0,Jett,Bind,Playoffs: Lower Round 1,119690,184517,Duelist,26,Yes,win,0
+Laz,ZETA,3,0,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Lower Round 1,119690,184517,Initiator,26,Yes,win,0
+crow,ZETA,1,1,0,0,0,0,0,0,0,Breach,Bind,Playoffs: Lower Round 1,119690,184517,Initiator,26,Yes,win,0
+TENNN,ZETA,4,1,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Lower Round 1,119690,184517,Duelist,26,Yes,win,0
+SugarZ3ro,ZETA,1,0,0,1,0,0,1,0,0,Brimstone,Bind,Playoffs: Lower Round 1,119690,184517,Controller,26,Yes,win,2
+xeta,T1,3,1,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Lower Round 1,119691,184517,Initiator,23,No,win,0
+Munchkin,T1,2,1,1,0,1,0,0,0,0,Killjoy,Fracture,Playoffs: Lower Round 1,119691,184517,Sentinel,23,No,win,1
+Sayaplayer,T1,0,1,1,0,0,1,0,0,0,Raze,Fracture,Playoffs: Lower Round 1,119691,184517,Duelist,23,No,win,1
+ban,T1,1,1,0,0,0,0,0,0,0,Jett,Fracture,Playoffs: Lower Round 1,119691,184517,Duelist,23,No,win,0
+Carpe,T1,2,3,1,0,1,1,0,0,0,Brimstone,Fracture,Playoffs: Lower Round 1,119691,184517,Controller,23,No,win,2
+Dep,ZETA,2,1,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Lower Round 1,119691,184517,Duelist,23,No,lose,0
+Laz,ZETA,2,0,0,0,0,0,0,0,0,Fade,Fracture,Playoffs: Lower Round 1,119691,184517,Initiator,23,No,lose,0
+crow,ZETA,5,0,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Lower Round 1,119691,184517,Initiator,23,No,lose,0
+TENNN,ZETA,2,2,0,0,1,0,0,0,0,Killjoy,Fracture,Playoffs: Lower Round 1,119691,184517,Sentinel,23,No,lose,1
+SugarZ3ro,ZETA,4,2,0,0,1,0,0,0,0,Brimstone,Fracture,Playoffs: Lower Round 1,119691,184517,Controller,23,No,lose,1
+BORKUM,TS,2,0,0,0,1,0,0,0,0,Omen,Ascent,Playoffs: Lower Round 1,119692,184518,Controller,21,No,win,1
+JessieVash,TS,1,0,0,0,0,0,0,0,0,Sova,Ascent,Playoffs: Lower Round 1,119692,184518,Initiator,21,No,win,0
+DubsteP,TS,4,2,0,0,1,0,0,0,0,Jett,Ascent,Playoffs: Lower Round 1,119692,184518,Duelist,21,No,win,1
+Jremy,TS,2,1,1,0,0,0,0,0,0,Killjoy,Ascent,Playoffs: Lower Round 1,119692,184518,Sentinel,21,No,win,0
+invy,TS,3,2,0,0,1,0,2,0,0,Kayo,Ascent,Playoffs: Lower Round 1,119692,184518,Initiator,21,No,win,5
+k1Ng,GEN,1,0,0,0,0,0,0,0,0,Killjoy,Ascent,Playoffs: Lower Round 1,119692,184518,Sentinel,21,No,lose,0
+TS,GEN,2,0,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Lower Round 1,119692,184518,Controller,21,No,lose,0
+eKo,GEN,2,1,0,0,1,0,0,0,0,Sova,Ascent,Playoffs: Lower Round 1,119692,184518,Initiator,21,No,lose,1
+GodDead,GEN,2,1,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Lower Round 1,119692,184518,Initiator,21,No,lose,0
+Meteor,GEN,3,3,1,0,1,0,0,0,0,Jett,Ascent,Playoffs: Lower Round 1,119692,184518,Duelist,21,No,lose,1
+BORKUM,TS,0,1,0,0,0,0,0,0,0,Omen,Haven,Playoffs: Lower Round 1,119693,184518,Controller,21,No,lose,0
+JessieVash,TS,6,0,0,0,1,0,0,0,0,Sova,Haven,Playoffs: Lower Round 1,119693,184518,Initiator,21,No,lose,1
+DubsteP,TS,5,0,0,0,0,1,0,0,0,Killjoy,Haven,Playoffs: Lower Round 1,119693,184518,Sentinel,21,No,lose,1
+Jremy,TS,2,1,0,0,1,0,0,0,0,Raze,Haven,Playoffs: Lower Round 1,119693,184518,Duelist,21,No,lose,1
+invy,TS,4,0,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Round 1,119693,184518,Initiator,21,No,lose,0
+k1Ng,GEN,3,2,1,0,0,0,0,0,0,Killjoy,Haven,Playoffs: Lower Round 1,119693,184518,Sentinel,21,No,win,0
+TS,GEN,3,2,0,0,0,0,0,0,0,Omen,Haven,Playoffs: Lower Round 1,119693,184518,Controller,21,No,win,0
+Sylvan,GEN,4,0,0,0,1,0,0,0,0,Sova,Haven,Playoffs: Lower Round 1,119693,184518,Initiator,21,No,win,1
+GodDead,GEN,0,1,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Round 1,119693,184518,Initiator,21,No,win,0
+Meteor,GEN,2,2,0,0,0,0,0,0,0,Jett,Haven,Playoffs: Lower Round 1,119693,184518,Duelist,21,No,win,0
+BORKUM,TS,7,1,0,0,0,0,0,0,0,Astra,Split,Playoffs: Lower Round 1,119694,184518,Controller,26,Yes,lose,0
+JessieVash,TS,0,0,0,0,0,0,0,0,0,Skye,Split,Playoffs: Lower Round 1,119694,184518,Initiator,26,Yes,lose,0
+DubsteP,TS,4,1,0,0,1,0,0,0,0,Jett,Split,Playoffs: Lower Round 1,119694,184518,Duelist,26,Yes,lose,1
+Jremy,TS,3,1,0,0,0,0,0,0,0,Raze,Split,Playoffs: Lower Round 1,119694,184518,Duelist,26,Yes,lose,0
+invy,TS,1,0,0,0,1,0,0,0,0,Viper,Split,Playoffs: Lower Round 1,119694,184518,Controller,26,Yes,lose,1
+k1Ng,GEN,5,1,0,0,0,0,0,0,0,Viper,Split,Playoffs: Lower Round 1,119694,184518,Controller,26,Yes,win,0
+TS,GEN,1,0,0,0,1,0,0,0,0,Astra,Split,Playoffs: Lower Round 1,119694,184518,Controller,26,Yes,win,1
+Sylvan,GEN,7,1,0,0,0,0,0,0,0,Skye,Split,Playoffs: Lower Round 1,119694,184518,Initiator,26,Yes,win,0
+GodDead,GEN,4,0,1,1,0,0,0,0,0,Sage,Split,Playoffs: Lower Round 1,119694,184518,Sentinel,26,Yes,win,0
+Meteor,GEN,2,2,0,0,0,0,0,0,0,Raze,Split,Playoffs: Lower Round 1,119694,184518,Duelist,26,Yes,win,0
+stax,DRX,0,1,0,0,0,0,0,0,0,Skye,Fracture,Playoffs: Upper Final,119695,184519,Initiator,18,No,lose,0
+Rb,DRX,2,0,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Upper Final,119695,184519,Controller,18,No,lose,0
+BuZz,DRX,1,0,1,0,0,1,0,0,0,Killjoy,Fracture,Playoffs: Upper Final,119695,184519,Sentinel,18,No,lose,1
+MaKo,DRX,2,0,0,0,0,0,0,0,0,Viper,Fracture,Playoffs: Upper Final,119695,184519,Controller,18,No,lose,0
+Foxy9,DRX,1,1,0,0,0,0,0,0,0,Jett,Fracture,Playoffs: Upper Final,119695,184519,Duelist,18,No,lose,0
+Jinggg,PRX,4,1,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Upper Final,119695,184519,Duelist,18,No,win,0
+mindfreak,PRX,2,2,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Upper Final,119695,184519,Controller,18,No,win,0
+f0rsakeN,PRX,2,0,0,0,0,0,0,0,0,Neon,Fracture,Playoffs: Upper Final,119695,184519,Duelist,18,No,win,0
+d4v41,PRX,4,2,1,0,1,0,0,0,0,Killjoy,Fracture,Playoffs: Upper Final,119695,184519,Sentinel,18,No,win,1
+something,PRX,4,1,0,0,1,0,0,0,0,Breach,Fracture,Playoffs: Upper Final,119695,184519,Initiator,18,No,win,1
+stax,DRX,2,1,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Upper Final,119696,184519,Initiator,19,No,lose,0
+Rb,DRX,3,1,0,0,1,0,0,0,0,Harbor,Bind,Playoffs: Upper Final,119696,184519,Controller,19,No,lose,1
+BuZz,DRX,1,0,0,0,0,0,0,0,0,Kayo,Bind,Playoffs: Upper Final,119696,184519,Initiator,19,No,lose,0
+MaKo,DRX,2,0,0,0,0,0,0,0,0,Viper,Bind,Playoffs: Upper Final,119696,184519,Controller,19,No,lose,0
+Foxy9,DRX,3,1,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Upper Final,119696,184519,Duelist,19,No,lose,0
+Jinggg,PRX,3,0,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Upper Final,119696,184519,Duelist,19,No,win,0
+mindfreak,PRX,1,0,1,0,0,1,0,0,0,Brimstone,Bind,Playoffs: Upper Final,119696,184519,Controller,19,No,win,1
+f0rsakeN,PRX,1,2,1,0,1,0,0,0,0,Harbor,Bind,Playoffs: Upper Final,119696,184519,Controller,19,No,win,1
+d4v41,PRX,4,0,0,0,1,0,0,0,0,Skye,Bind,Playoffs: Upper Final,119696,184519,Initiator,19,No,win,1
+something,PRX,3,2,1,0,0,0,0,0,0,Reyna,Bind,Playoffs: Upper Final,119696,184519,Duelist,19,No,win,0
+xeta,T1,4,0,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Lower Round 2,119698,184520,Initiator,23,No,win,0
+Munchkin,T1,1,1,0,0,0,1,0,0,0,Killjoy,Fracture,Playoffs: Lower Round 2,119698,184520,Sentinel,23,No,win,1
+Sayaplayer,T1,3,4,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Lower Round 2,119698,184520,Duelist,23,No,win,0
+ban,T1,1,2,0,0,1,0,0,0,0,Jett,Fracture,Playoffs: Lower Round 2,119698,184520,Duelist,23,No,win,1
+Carpe,T1,1,0,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Lower Round 2,119698,184520,Controller,23,No,win,0
+k1Ng,GEN,1,1,0,0,0,0,0,0,0,Viper,Fracture,Playoffs: Lower Round 2,119698,184520,Controller,23,No,lose,0
+TS,GEN,4,1,0,0,0,0,0,0,0,Omen,Fracture,Playoffs: Lower Round 2,119698,184520,Controller,23,No,lose,0
+eKo,GEN,5,1,0,0,1,0,0,0,0,Breach,Fracture,Playoffs: Lower Round 2,119698,184520,Initiator,23,No,lose,1
+GodDead,GEN,1,0,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Lower Round 2,119698,184520,Duelist,23,No,lose,0
+Meteor,GEN,3,1,0,0,0,0,0,0,0,Jett,Fracture,Playoffs: Lower Round 2,119698,184520,Duelist,23,No,lose,0
+xeta,T1,4,0,1,0,0,0,0,0,0,Sova,Ascent,Playoffs: Lower Round 2,119699,184520,Initiator,23,No,win,0
+Munchkin,T1,2,3,0,0,0,1,0,0,0,Killjoy,Ascent,Playoffs: Lower Round 2,119699,184520,Sentinel,23,No,win,1
+Sayaplayer,T1,1,2,0,0,0,0,0,0,0,Jett,Ascent,Playoffs: Lower Round 2,119699,184520,Duelist,23,No,win,0
+ban,T1,5,0,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Lower Round 2,119699,184520,Controller,23,No,win,0
+Carpe,T1,1,2,0,0,0,0,1,0,0,Kayo,Ascent,Playoffs: Lower Round 2,119699,184520,Initiator,23,No,win,2
+k1Ng,GEN,2,3,0,0,2,1,0,0,0,Killjoy,Ascent,Playoffs: Lower Round 2,119699,184520,Sentinel,23,No,lose,3
+TS,GEN,3,0,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Lower Round 2,119699,184520,Controller,23,No,lose,0
+eKo,GEN,1,0,0,0,0,0,0,0,0,Sova,Ascent,Playoffs: Lower Round 2,119699,184520,Initiator,23,No,lose,0
+GodDead,GEN,4,0,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Lower Round 2,119699,184520,Initiator,23,No,lose,0
+Meteor,GEN,2,1,1,0,0,0,1,1,0,Jett,Ascent,Playoffs: Lower Round 2,119699,184520,Duelist,23,No,lose,3
+stax,DRX,0,0,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Lower Final,119701,184521,Initiator,24,Yes,lose,0
+Rb,DRX,3,0,0,0,1,0,0,0,0,Killjoy,Ascent,Playoffs: Lower Final,119701,184521,Sentinel,24,Yes,lose,1
+Zest,DRX,1,1,0,0,0,0,0,0,0,Sova,Ascent,Playoffs: Lower Final,119701,184521,Initiator,24,Yes,lose,0
+BuZz,DRX,4,1,0,0,0,0,0,0,0,Jett,Ascent,Playoffs: Lower Final,119701,184521,Duelist,24,Yes,lose,0
+MaKo,DRX,4,0,1,0,1,0,1,0,0,Omen,Ascent,Playoffs: Lower Final,119701,184521,Controller,24,Yes,lose,3
+xeta,T1,6,1,0,0,0,0,0,0,0,Sova,Ascent,Playoffs: Lower Final,119701,184521,Initiator,24,Yes,win,0
+Munchkin,T1,7,1,0,0,0,0,0,0,0,Killjoy,Ascent,Playoffs: Lower Final,119701,184521,Sentinel,24,Yes,win,0
+Sayaplayer,T1,4,3,0,0,2,0,0,0,0,Jett,Ascent,Playoffs: Lower Final,119701,184521,Duelist,24,Yes,win,2
+ban,T1,2,0,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Lower Final,119701,184521,Controller,24,Yes,win,0
+Carpe,T1,1,0,1,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Lower Final,119701,184521,Initiator,24,Yes,win,0
+stax,DRX,1,2,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Lower Final,119702,184521,Initiator,24,Yes,win,0
+Rb,DRX,6,0,0,0,0,0,0,0,0,Neon,Fracture,Playoffs: Lower Final,119702,184521,Duelist,24,Yes,win,0
+Zest,DRX,3,0,0,0,0,0,0,0,0,Fade,Fracture,Playoffs: Lower Final,119702,184521,Initiator,24,Yes,win,0
+BuZz,DRX,4,0,1,0,0,0,0,0,0,Killjoy,Fracture,Playoffs: Lower Final,119702,184521,Sentinel,24,Yes,win,0
+MaKo,DRX,3,1,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Lower Final,119702,184521,Controller,24,Yes,win,0
+xeta,T1,3,0,1,0,0,1,0,0,0,Breach,Fracture,Playoffs: Lower Final,119702,184521,Initiator,24,Yes,lose,1
+Munchkin,T1,4,0,0,0,0,0,0,0,0,Killjoy,Fracture,Playoffs: Lower Final,119702,184521,Sentinel,24,Yes,lose,0
+Sayaplayer,T1,4,1,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Lower Final,119702,184521,Duelist,24,Yes,lose,0
+ban,T1,4,1,0,0,0,0,0,0,0,Jett,Fracture,Playoffs: Lower Final,119702,184521,Duelist,24,Yes,lose,0
+Carpe,T1,0,1,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Lower Final,119702,184521,Controller,24,Yes,lose,0
+stax,DRX,0,1,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Final,119703,184521,Initiator,24,Yes,win,0
+Rb,DRX,4,1,0,0,1,0,0,0,0,Killjoy,Haven,Playoffs: Lower Final,119703,184521,Sentinel,24,Yes,win,1
+Zest,DRX,6,0,0,0,0,1,0,0,0,Sova,Haven,Playoffs: Lower Final,119703,184521,Initiator,24,Yes,win,1
+BuZz,DRX,5,0,0,1,0,0,0,0,0,Jett,Haven,Playoffs: Lower Final,119703,184521,Duelist,24,Yes,win,0
+MaKo,DRX,0,3,0,0,1,0,0,0,0,Omen,Haven,Playoffs: Lower Final,119703,184521,Controller,24,Yes,win,1
+xeta,T1,5,1,0,0,0,0,0,0,0,Sova,Haven,Playoffs: Lower Final,119703,184521,Initiator,24,Yes,lose,0
+Munchkin,T1,5,1,0,0,0,0,0,0,0,Killjoy,Haven,Playoffs: Lower Final,119703,184521,Sentinel,24,Yes,lose,0
+Sayaplayer,T1,5,2,0,0,0,0,0,0,0,Jett,Haven,Playoffs: Lower Final,119703,184521,Duelist,24,Yes,lose,0
+ban,T1,0,1,0,0,0,1,0,0,0,Omen,Haven,Playoffs: Lower Final,119703,184521,Controller,24,Yes,lose,1
+Carpe,T1,0,0,0,0,0,0,0,0,0,Breach,Haven,Playoffs: Lower Final,119703,184521,Initiator,24,Yes,lose,0
+stax,DRX,2,0,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Lower Final,119704,184521,Initiator,19,No,lose,0
+Rb,DRX,1,0,0,0,0,0,0,0,0,Kayo,Bind,Playoffs: Lower Final,119704,184521,Initiator,19,No,lose,0
+Zest,DRX,2,0,0,0,0,0,0,0,0,Brimstone,Bind,Playoffs: Lower Final,119704,184521,Controller,19,No,lose,0
+BuZz,DRX,1,1,1,0,0,0,0,0,0,Raze,Bind,Playoffs: Lower Final,119704,184521,Duelist,19,No,lose,0
+MaKo,DRX,2,0,0,0,0,0,0,0,0,Viper,Bind,Playoffs: Lower Final,119704,184521,Controller,19,No,lose,0
+xeta,T1,2,0,1,0,0,1,0,0,0,Viper,Bind,Playoffs: Lower Final,119704,184521,Controller,19,No,win,1
+Munchkin,T1,1,0,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Lower Final,119704,184521,Initiator,19,No,win,0
+Sayaplayer,T1,1,2,1,0,0,0,0,0,0,Raze,Bind,Playoffs: Lower Final,119704,184521,Duelist,19,No,win,0
+ban,T1,2,1,0,0,0,0,0,0,0,Harbor,Bind,Playoffs: Lower Final,119704,184521,Controller,19,No,win,0
+Carpe,T1,3,3,0,0,1,0,0,0,0,Gekko,Bind,Playoffs: Lower Final,119704,184521,Initiator,19,No,win,1
+stax,DRX,2,1,0,0,0,0,0,0,0,Skye,Pearl,Playoffs: Lower Final,119705,184521,Initiator,22,No,win,0
+Rb,DRX,2,0,0,0,1,0,0,0,0,Killjoy,Pearl,Playoffs: Lower Final,119705,184521,Sentinel,22,No,win,1
+Zest,DRX,3,0,0,0,0,0,0,0,0,Harbor,Pearl,Playoffs: Lower Final,119705,184521,Controller,22,No,win,0
+BuZz,DRX,2,0,1,0,0,0,0,0,0,Jett,Pearl,Playoffs: Lower Final,119705,184521,Duelist,22,No,win,0
+MaKo,DRX,4,2,0,0,1,1,0,0,0,Viper,Pearl,Playoffs: Lower Final,119705,184521,Controller,22,No,win,2
+xeta,T1,5,0,0,0,0,0,0,0,0,Harbor,Pearl,Playoffs: Lower Final,119705,184521,Controller,22,No,lose,0
+Munchkin,T1,2,2,0,0,1,1,0,0,0,Killjoy,Pearl,Playoffs: Lower Final,119705,184521,Sentinel,22,No,lose,2
+Sayaplayer,T1,2,0,0,1,0,0,1,0,0,Jett,Pearl,Playoffs: Lower Final,119705,184521,Duelist,22,No,lose,2
+ban,T1,4,0,0,0,0,0,0,0,0,Viper,Pearl,Playoffs: Lower Final,119705,184521,Controller,22,No,lose,0
+Carpe,T1,1,1,1,0,0,0,0,0,0,Skye,Pearl,Playoffs: Lower Final,119705,184521,Initiator,22,No,lose,0
+Jinggg,PRX,3,0,0,0,0,0,0,0,0,Raze,Fracture,Playoffs: Grand Final,119706,184522,Duelist,19,No,lose,0
+mindfreak,PRX,4,0,0,0,0,0,0,0,0,Brimstone,Fracture,Playoffs: Grand Final,119706,184522,Controller,19,No,lose,0
+f0rsakeN,PRX,4,0,0,0,0,0,0,0,0,Neon,Fracture,Playoffs: Grand Final,119706,184522,Duelist,19,No,lose,0
+d4v41,PRX,0,2,0,0,0,0,0,0,0,Killjoy,Fracture,Playoffs: Grand Final,119706,184522,Sentinel,19,No,lose,0
+something,PRX,2,0,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Grand Final,119706,184522,Initiator,19,No,lose,0
+stax,DRX,1,0,0,0,0,0,0,0,0,Breach,Fracture,Playoffs: Grand Final,119706,184522,Initiator,19,No,win,0
+Rb,DRX,2,2,0,0,0,0,0,0,0,Neon,Fracture,Playoffs: Grand Final,119706,184522,Duelist,19,No,win,0
+Zest,DRX,3,3,0,0,1,0,0,0,0,Fade,Fracture,Playoffs: Grand Final,119706,184522,Initiator,19,No,win,1
+BuZz,DRX,3,1,0,0,1,1,0,0,0,Killjoy,Fracture,Playoffs: Grand Final,119706,184522,Sentinel,19,No,win,2
+MaKo,DRX,0,0,0,1,1,0,0,0,0,Brimstone,Fracture,Playoffs: Grand Final,119706,184522,Controller,19,No,win,1
+Jinggg,PRX,6,3,1,0,1,0,0,0,0,Raze,Ascent,Playoffs: Grand Final,119708,184522,Duelist,30,Yes,lose,1
+mindfreak,PRX,2,0,0,0,0,0,0,0,0,Viper,Ascent,Playoffs: Grand Final,119708,184522,Controller,30,Yes,lose,0
+f0rsakeN,PRX,6,1,0,0,0,0,0,0,0,Harbor,Ascent,Playoffs: Grand Final,119708,184522,Controller,30,Yes,lose,0
+d4v41,PRX,1,0,0,0,0,0,0,0,0,Skye,Ascent,Playoffs: Grand Final,119708,184522,Initiator,30,Yes,lose,0
+something,PRX,7,1,0,0,0,0,0,0,0,Reyna,Ascent,Playoffs: Grand Final,119708,184522,Duelist,30,Yes,lose,0
+stax,DRX,2,2,0,0,0,0,0,0,0,Kayo,Ascent,Playoffs: Grand Final,119708,184522,Initiator,30,Yes,win,0
+Rb,DRX,3,1,1,0,2,0,0,0,0,Killjoy,Ascent,Playoffs: Grand Final,119708,184522,Sentinel,30,Yes,win,2
+Zest,DRX,2,1,0,0,0,1,0,0,0,Sova,Ascent,Playoffs: Grand Final,119708,184522,Initiator,30,Yes,win,1
+BuZz,DRX,7,0,2,1,0,0,0,0,0,Jett,Ascent,Playoffs: Grand Final,119708,184522,Duelist,30,Yes,win,0
+MaKo,DRX,3,2,0,0,0,0,0,0,0,Omen,Ascent,Playoffs: Grand Final,119708,184522,Controller,30,Yes,win,0
+Jinggg,PRX,5,2,0,0,0,0,0,0,0,Raze,Lotus,Playoffs: Grand Final,131784,184522,Duelist,16,No,win,0
+mindfreak,PRX,5,0,0,0,0,1,0,0,0,Omen,Lotus,Playoffs: Grand Final,131784,184522,Controller,16,No,win,1
+f0rsakeN,PRX,1,0,0,0,0,0,0,0,0,Cypher,Lotus,Playoffs: Grand Final,131784,184522,Sentinel,16,No,win,0
+d4v41,PRX,2,1,0,0,0,1,0,0,0,Skye,Lotus,Playoffs: Grand Final,131784,184522,Initiator,16,No,win,1
+something,PRX,4,0,0,0,0,0,0,0,0,Jett,Lotus,Playoffs: Grand Final,131784,184522,Duelist,16,No,win,0
+stax,DRX,0,0,0,0,0,0,0,0,0,Omen,Lotus,Playoffs: Grand Final,131784,184522,Controller,16,No,lose,0
+Rb,DRX,3,0,0,0,1,0,0,0,0,Killjoy,Lotus,Playoffs: Grand Final,131784,184522,Sentinel,16,No,lose,1
+Zest,DRX,1,0,0,0,0,0,0,0,0,Fade,Lotus,Playoffs: Grand Final,131784,184522,Initiator,16,No,lose,0
+BuZz,DRX,1,0,1,0,0,0,0,0,0,Raze,Lotus,Playoffs: Grand Final,131784,184522,Duelist,16,No,lose,0
+MaKo,DRX,3,0,0,0,0,0,0,0,0,Viper,Lotus,Playoffs: Grand Final,131784,184522,Controller,16,No,lose,0
+Jinggg,PRX,3,1,0,0,0,0,0,0,0,Phoenix,Pearl,Playoffs: Grand Final,119712,184522,Duelist,21,No,win,0
+mindfreak,PRX,1,2,0,0,0,0,1,0,0,Astra,Pearl,Playoffs: Grand Final,119712,184522,Controller,21,No,win,2
+f0rsakeN,PRX,3,1,0,0,0,0,0,0,0,Killjoy,Pearl,Playoffs: Grand Final,119712,184522,Sentinel,21,No,win,0
+d4v41,PRX,3,1,0,0,0,0,0,0,0,Skye,Pearl,Playoffs: Grand Final,119712,184522,Initiator,21,No,win,0
+something,PRX,4,0,0,0,0,0,0,0,0,Jett,Pearl,Playoffs: Grand Final,119712,184522,Duelist,21,No,win,0
+stax,DRX,2,0,1,0,0,0,0,0,0,Skye,Pearl,Playoffs: Grand Final,119712,184522,Initiator,21,No,lose,0
+Rb,DRX,3,0,0,0,0,0,0,0,0,Killjoy,Pearl,Playoffs: Grand Final,119712,184522,Sentinel,21,No,lose,0
+Zest,DRX,0,2,0,0,0,0,0,0,0,Harbor,Pearl,Playoffs: Grand Final,119712,184522,Controller,21,No,lose,0
+BuZz,DRX,2,1,0,0,0,0,0,0,0,Jett,Pearl,Playoffs: Grand Final,119712,184522,Duelist,21,No,lose,0
+MaKo,DRX,4,0,0,0,0,0,0,0,0,Viper,Pearl,Playoffs: Grand Final,119712,184522,Controller,21,No,lose,0
+Jinggg,PRX,4,1,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Grand Final,119714,184522,Duelist,19,No,win,0
+mindfreak,PRX,1,0,0,0,0,0,0,0,0,Brimstone,Bind,Playoffs: Grand Final,119714,184522,Controller,19,No,win,0
+f0rsakeN,PRX,4,1,0,0,0,0,0,0,0,Harbor,Bind,Playoffs: Grand Final,119714,184522,Controller,19,No,win,0
+d4v41,PRX,2,1,0,1,0,1,0,0,0,Skye,Bind,Playoffs: Grand Final,119714,184522,Initiator,19,No,win,1
+something,PRX,5,2,0,0,0,1,0,0,0,Reyna,Bind,Playoffs: Grand Final,119714,184522,Duelist,19,No,win,1
+stax,DRX,1,1,0,0,0,0,0,0,0,Skye,Bind,Playoffs: Grand Final,119714,184522,Initiator,19,No,lose,0
+Rb,DRX,1,0,0,0,0,0,0,0,0,Raze,Bind,Playoffs: Grand Final,119714,184522,Duelist,19,No,lose,0
+Zest,DRX,2,1,0,0,0,0,1,0,0,Brimstone,Bind,Playoffs: Grand Final,119714,184522,Controller,19,No,lose,2
+BuZz,DRX,2,0,0,0,0,0,0,0,0,Jett,Bind,Playoffs: Grand Final,119714,184522,Duelist,19,No,lose,0
+MaKo,DRX,0,1,0,1,0,0,0,1,0,Viper,Bind,Playoffs: Grand Final,119714,184522,Controller,19,No,lose,1

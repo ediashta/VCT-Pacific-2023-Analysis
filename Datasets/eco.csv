@@ -1,0 +1,267 @@
+team,pistol_win,eco_round,eco_win,semi_eco_round,semi_eco_win,semi_buy_round,semi_buy_win,buy_round,buy_win,game_id,tourney_type,map,match_id,total_round,ot,win_lose
+ZETA,1.0,3.0,1.0,0.0,0.0,6.0,3.0,9.0,1.0,119512.0,League Play: Week 1,Ascent,184456.0,18,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,4.0,4.0,11.0,8.0,119512.0,League Play: Week 1,Ascent,184456.0,18,No,win
+ZETA,1.0,3.0,1.0,3.0,0.0,3.0,2.0,9.0,2.0,119513.0,League Play: Week 1,Pearl,184456.0,18,No,lose
+DRX,1.0,3.0,1.0,1.0,0.0,2.0,1.0,12.0,11.0,119513.0,League Play: Week 1,Pearl,184456.0,18,No,win
+T1,1.0,3.0,1.0,0.0,0.0,4.0,3.0,14.0,9.0,119515.0,League Play: Week 1,Pearl,184457.0,21,No,win
+GES,1.0,5.0,1.0,1.0,0.0,5.0,2.0,10.0,5.0,119515.0,League Play: Week 1,Pearl,184457.0,21,No,lose
+T1,1.0,3.0,1.0,1.0,0.0,7.0,2.0,6.0,1.0,119516.0,League Play: Week 1,Haven,184457.0,17,No,lose
+GES,1.0,3.0,1.0,0.0,0.0,2.0,2.0,12.0,10.0,119516.0,League Play: Week 1,Haven,184457.0,17,No,win
+T1,1.0,2.0,1.0,3.0,1.0,4.0,3.0,11.0,8.0,119517.0,League Play: Week 1,Lotus,184457.0,20,No,win
+GES,1.0,4.0,1.0,0.0,0.0,5.0,1.0,11.0,5.0,119517.0,League Play: Week 1,Lotus,184457.0,20,No,lose
+PRX,1.0,3.0,1.0,0.0,0.0,5.0,4.0,10.0,8.0,119518.0,League Play: Week 1,Pearl,184458.0,18,No,win
+DFM,1.0,2.0,1.0,3.0,0.0,4.0,1.0,9.0,3.0,119518.0,League Play: Week 1,Pearl,184458.0,18,No,lose
+PRX,1.0,4.0,1.0,2.0,1.0,4.0,2.0,14.0,9.0,119519.0,League Play: Week 1,Lotus,184458.0,24,Yes,win
+DFM,1.0,3.0,1.0,1.0,1.0,4.0,1.0,16.0,8.0,119519.0,League Play: Week 1,Lotus,184458.0,24,Yes,lose
+TS,2.0,2.0,2.0,1.0,0.0,6.0,4.0,9.0,7.0,119521.0,League Play: Week 1,Ascent,184459.0,18,No,win
+TLN,0.0,4.0,0.0,0.0,0.0,4.0,1.0,10.0,4.0,119521.0,League Play: Week 1,Ascent,184459.0,18,No,lose
+TS,0.0,4.0,0.0,1.0,0.0,4.0,3.0,12.0,5.0,119522.0,League Play: Week 1,Icebox,184459.0,21,No,lose
+TLN,2.0,2.0,2.0,2.0,1.0,4.0,3.0,13.0,7.0,119522.0,League Play: Week 1,Icebox,184459.0,21,No,win
+TS,2.0,2.0,2.0,1.0,1.0,4.0,3.0,9.0,7.0,119523.0,League Play: Week 1,Fracture,184459.0,16,No,win
+TLN,0.0,3.0,0.0,3.0,0.0,3.0,1.0,7.0,2.0,119523.0,League Play: Week 1,Fracture,184459.0,16,No,lose
+RRQ,1.0,3.0,1.0,1.0,0.0,4.0,2.0,14.0,6.0,119524.0,League Play: Week 1,Fracture,184460.0,22,No,lose
+GEN,1.0,3.0,1.0,2.0,0.0,3.0,2.0,14.0,10.0,119524.0,League Play: Week 1,Fracture,184460.0,22,No,win
+RRQ,2.0,2.0,2.0,3.0,1.0,7.0,2.0,7.0,1.0,119525.0,League Play: Week 1,Lotus,184460.0,19,No,lose
+GEN,0.0,4.0,0.0,0.0,0.0,2.0,2.0,13.0,11.0,119525.0,League Play: Week 1,Lotus,184460.0,19,No,win
+ZETA,1.0,3.0,1.0,1.0,0.0,5.0,2.0,14.0,7.0,119527.0,League Play: Week 2,Haven,184461.0,23,No,lose
+RRQ,1.0,3.0,1.0,0.0,0.0,6.0,4.0,14.0,8.0,119527.0,League Play: Week 2,Haven,184461.0,23,No,win
+ZETA,1.0,3.0,1.0,1.0,1.0,6.0,3.0,13.0,8.0,119528.0,League Play: Week 2,Ascent,184461.0,23,No,win
+RRQ,1.0,3.0,1.0,1.0,0.0,5.0,3.0,14.0,6.0,119528.0,League Play: Week 2,Ascent,184461.0,23,No,lose
+ZETA,1.0,3.0,1.0,0.0,0.0,2.0,2.0,13.0,10.0,119529.0,League Play: Week 2,Lotus,184461.0,18,No,win
+RRQ,1.0,3.0,1.0,1.0,0.0,7.0,2.0,7.0,2.0,119529.0,League Play: Week 2,Lotus,184461.0,18,No,lose
+TLN,0.0,4.0,0.0,2.0,0.0,1.0,1.0,14.0,7.0,119530.0,League Play: Week 2,Ascent,184462.0,21,No,lose
+T1,2.0,2.0,2.0,2.0,1.0,5.0,2.0,12.0,8.0,119530.0,League Play: Week 2,Ascent,184462.0,21,No,win
+TLN,0.0,3.0,0.0,2.0,0.0,6.0,2.0,8.0,4.0,119531.0,League Play: Week 2,Haven,184462.0,19,No,lose
+T1,2.0,2.0,2.0,1.0,1.0,7.0,4.0,9.0,6.0,119531.0,League Play: Week 2,Haven,184462.0,19,No,win
+TS,2.0,2.0,2.0,2.0,0.0,6.0,2.0,14.0,7.0,119533.0,League Play: Week 2,Haven,184463.0,24,Yes,lose
+PRX,0.0,5.0,0.0,1.0,0.0,2.0,1.0,16.0,12.0,119533.0,League Play: Week 2,Haven,184463.0,24,Yes,win
+TS,1.0,3.0,1.0,1.0,0.0,5.0,4.0,15.0,8.0,119534.0,League Play: Week 2,Fracture,184463.0,24,Yes,win
+PRX,1.0,3.0,1.0,0.0,0.0,9.0,6.0,12.0,4.0,119534.0,League Play: Week 2,Fracture,184463.0,24,Yes,lose
+TS,2.0,2.0,2.0,1.0,1.0,4.0,2.0,16.0,8.0,119535.0,League Play: Week 2,Split,184463.0,23,No,win
+PRX,0.0,4.0,0.0,1.0,0.0,5.0,2.0,13.0,8.0,119535.0,League Play: Week 2,Split,184463.0,23,No,lose
+GEN,1.0,3.0,1.0,1.0,0.0,3.0,3.0,14.0,9.0,119536.0,League Play: Week 2,Lotus,184465.0,21,No,win
+DFM,1.0,3.0,1.0,1.0,0.0,4.0,2.0,13.0,5.0,119536.0,League Play: Week 2,Lotus,184465.0,21,No,lose
+GEN,0.0,5.0,0.0,2.0,1.0,5.0,0.0,5.0,3.0,119537.0,League Play: Week 2,Fracture,184465.0,17,No,lose
+DFM,2.0,2.0,2.0,0.0,0.0,3.0,2.0,12.0,9.0,119537.0,League Play: Week 2,Fracture,184465.0,17,No,win
+GEN,2.0,2.0,2.0,1.0,0.0,5.0,2.0,13.0,9.0,119538.0,League Play: Week 2,Pearl,184465.0,21,No,win
+DFM,0.0,4.0,0.0,1.0,0.0,5.0,2.0,11.0,6.0,119538.0,League Play: Week 2,Pearl,184465.0,21,No,lose
+GES,2.0,2.0,2.0,1.0,0.0,5.0,3.0,16.0,6.0,119539.0,League Play: Week 2,Haven,184466.0,24,Yes,lose
+DRX,0.0,5.0,0.0,0.0,0.0,2.0,1.0,17.0,12.0,119539.0,League Play: Week 2,Haven,184466.0,24,Yes,win
+GES,1.0,4.0,2.0,0.0,0.0,4.0,1.0,24.0,12.0,119540.0,League Play: Week 2,Split,184466.0,32,Yes,lose
+DRX,1.0,4.0,1.0,1.0,1.0,2.0,0.0,25.0,15.0,119540.0,League Play: Week 2,Split,184466.0,32,Yes,win
+RRQ,1.0,3.0,2.0,1.0,1.0,2.0,1.0,11.0,9.0,119542.0,League Play: Week 3,Haven,184467.0,17,No,win
+DFM,1.0,4.0,1.0,1.0,0.0,5.0,0.0,7.0,3.0,119542.0,League Play: Week 3,Haven,184467.0,17,No,lose
+RRQ,2.0,2.0,2.0,1.0,0.0,4.0,3.0,13.0,8.0,119543.0,League Play: Week 3,Pearl,184467.0,20,No,win
+DFM,0.0,4.0,0.0,2.0,0.0,4.0,2.0,10.0,5.0,119543.0,League Play: Week 3,Pearl,184467.0,20,No,lose
+T1,1.0,3.0,1.0,3.0,0.0,3.0,1.0,7.0,1.0,119545.0,League Play: Week 3,Pearl,184468.0,16,No,lose
+PRX,1.0,3.0,1.0,0.0,0.0,3.0,3.0,10.0,9.0,119545.0,League Play: Week 3,Pearl,184468.0,16,No,win
+T1,1.0,3.0,1.0,2.0,0.0,5.0,2.0,9.0,3.0,119546.0,League Play: Week 3,Fracture,184468.0,19,No,lose
+PRX,1.0,3.0,1.0,0.0,0.0,3.0,2.0,13.0,10.0,119546.0,League Play: Week 3,Fracture,184468.0,19,No,win
+ZETA,1.0,3.0,1.0,0.0,0.0,12.0,6.0,7.0,2.0,119548.0,League Play: Week 3,Pearl,184469.0,22,No,lose
+GES,1.0,4.0,1.0,1.0,1.0,2.0,2.0,15.0,9.0,119548.0,League Play: Week 3,Pearl,184469.0,22,No,win
+ZETA,0.0,4.0,0.0,0.0,0.0,10.0,6.0,12.0,8.0,119549.0,League Play: Week 3,Ascent,184469.0,26,Yes,win
+GES,2.0,4.0,2.0,2.0,0.0,5.0,3.0,15.0,7.0,119549.0,League Play: Week 3,Ascent,184469.0,26,Yes,lose
+ZETA,1.0,3.0,2.0,0.0,0.0,8.0,6.0,10.0,5.0,119550.0,League Play: Week 3,Haven,184469.0,21,No,win
+GES,1.0,4.0,1.0,1.0,0.0,3.0,2.0,13.0,5.0,119550.0,League Play: Week 3,Haven,184469.0,21,No,lose
+TLN,1.0,2.0,1.0,2.0,0.0,8.0,2.0,4.0,0.0,119551.0,League Play: Week 3,Split,184470.0,16,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,3.0,3.0,10.0,9.0,119551.0,League Play: Week 3,Split,184470.0,16,No,win
+TLN,1.0,3.0,1.0,1.0,0.0,8.0,4.0,11.0,5.0,119552.0,League Play: Week 3,Pearl,184470.0,23,No,lose
+DRX,1.0,3.0,1.0,1.0,1.0,3.0,1.0,16.0,10.0,119552.0,League Play: Week 3,Pearl,184470.0,23,No,win
+TS,0.0,4.0,0.0,2.0,1.0,4.0,1.0,11.0,6.0,119554.0,League Play: Week 3,Haven,184471.0,21,No,lose
+GEN,2.0,2.0,2.0,0.0,0.0,10.0,6.0,9.0,5.0,119554.0,League Play: Week 3,Haven,184471.0,21,No,win
+TS,1.0,3.0,1.0,2.0,1.0,3.0,1.0,16.0,8.0,119555.0,League Play: Week 3,Fracture,184471.0,24,Yes,lose
+GEN,1.0,3.0,1.0,3.0,1.0,3.0,1.0,15.0,10.0,119555.0,League Play: Week 3,Fracture,184471.0,24,Yes,win
+PRX,1.0,3.0,1.0,2.0,0.0,5.0,1.0,8.0,3.0,119557.0,League Play: Week 4,Ascent,184472.0,18,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,2.0,2.0,13.0,10.0,119557.0,League Play: Week 4,Ascent,184472.0,18,No,win
+PRX,1.0,3.0,1.0,0.0,0.0,7.0,5.0,13.0,4.0,119558.0,League Play: Week 4,Split,184472.0,23,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,4.0,1.0,16.0,11.0,119558.0,League Play: Week 4,Split,184472.0,23,No,win
+TS,1.0,4.0,1.0,1.0,0.0,6.0,3.0,12.0,6.0,119560.0,League Play: Week 4,Icebox,184473.0,23,No,lose
+RRQ,1.0,3.0,2.0,0.0,0.0,4.0,2.0,16.0,9.0,119560.0,League Play: Week 4,Icebox,184473.0,23,No,win
+TS,1.0,3.0,1.0,1.0,0.0,7.0,2.0,9.0,4.0,119561.0,League Play: Week 4,Split,184473.0,20,No,lose
+RRQ,1.0,3.0,1.0,0.0,0.0,3.0,2.0,14.0,10.0,119561.0,League Play: Week 4,Split,184473.0,20,No,win
+T1,2.0,2.0,2.0,2.0,0.0,6.0,1.0,8.0,2.0,119563.0,League Play: Week 4,Ascent,184474.0,18,No,lose
+GEN,0.0,4.0,1.0,0.0,0.0,5.0,5.0,9.0,7.0,119563.0,League Play: Week 4,Ascent,184474.0,18,No,win
+T1,0.0,3.0,0.0,3.0,1.0,4.0,0.0,8.0,4.0,119564.0,League Play: Week 4,Haven,184474.0,18,No,lose
+GEN,2.0,2.0,2.0,0.0,0.0,5.0,5.0,11.0,6.0,119564.0,League Play: Week 4,Haven,184474.0,18,No,win
+ZETA,2.0,2.0,2.0,1.0,0.0,10.0,3.0,9.0,8.0,119566.0,League Play: Week 4,Ascent,184475.0,22,No,win
+DFM,0.0,3.0,0.0,0.0,0.0,7.0,3.0,12.0,6.0,119566.0,League Play: Week 4,Ascent,184475.0,22,No,lose
+ZETA,1.0,3.0,1.0,1.0,1.0,3.0,3.0,11.0,8.0,119567.0,League Play: Week 4,Haven,184475.0,18,No,win
+DFM,1.0,3.0,1.0,1.0,0.0,8.0,3.0,6.0,1.0,119567.0,League Play: Week 4,Haven,184475.0,18,No,lose
+TLN,1.0,3.0,1.0,1.0,0.0,8.0,4.0,7.0,1.0,119569.0,League Play: Week 4,Split,184476.0,19,No,lose
+GES,1.0,3.0,1.0,2.0,2.0,2.0,1.0,12.0,9.0,119569.0,League Play: Week 4,Split,184476.0,19,No,win
+TLN,1.0,3.0,1.0,2.0,0.0,5.0,1.0,14.0,9.0,119570.0,League Play: Week 4,Icebox,184476.0,24,Yes,lose
+GES,1.0,2.0,1.0,3.0,0.0,5.0,4.0,14.0,8.0,119570.0,League Play: Week 4,Icebox,184476.0,24,Yes,win
+PRX,0.0,4.0,0.0,1.0,0.0,2.0,2.0,13.0,5.0,119572.0,League Play: Week 5,Icebox,184477.0,20,No,lose
+GES,2.0,3.0,2.0,2.0,1.0,3.0,3.0,12.0,7.0,119572.0,League Play: Week 5,Icebox,184477.0,20,No,win
+PRX,1.0,3.0,1.0,0.0,0.0,3.0,3.0,13.0,9.0,119573.0,League Play: Week 5,Split,184477.0,19,No,win
+GES,1.0,5.0,1.0,0.0,0.0,6.0,2.0,8.0,3.0,119573.0,League Play: Week 5,Split,184477.0,19,No,lose
+PRX,1.0,3.0,1.0,1.0,1.0,2.0,2.0,14.0,9.0,119574.0,League Play: Week 5,Pearl,184477.0,20,No,win
+GES,1.0,4.0,1.0,2.0,0.0,3.0,1.0,11.0,5.0,119574.0,League Play: Week 5,Pearl,184477.0,20,No,lose
+GEN,1.0,3.0,1.0,3.0,0.0,2.0,1.0,12.0,5.0,119575.0,League Play: Week 5,Haven,184478.0,20,No,lose
+DRX,1.0,3.0,1.0,1.0,0.0,2.0,2.0,14.0,10.0,119575.0,League Play: Week 5,Haven,184478.0,20,No,win
+GEN,0.0,4.0,1.0,0.0,0.0,3.0,3.0,16.0,9.0,119576.0,League Play: Week 5,Fracture,184478.0,23,No,win
+DRX,2.0,3.0,2.0,3.0,0.0,5.0,2.0,12.0,6.0,119576.0,League Play: Week 5,Fracture,184478.0,23,No,lose
+GEN,1.0,3.0,1.0,1.0,0.0,5.0,1.0,8.0,2.0,119577.0,League Play: Week 5,Pearl,184478.0,17,No,lose
+DRX,1.0,3.0,2.0,0.0,0.0,3.0,1.0,11.0,10.0,119577.0,League Play: Week 5,Pearl,184478.0,17,No,win
+T1,2.0,2.0,2.0,0.0,0.0,7.0,5.0,13.0,6.0,119578.0,League Play: Week 5,Haven,184479.0,22,No,win
+RRQ,0.0,4.0,0.0,1.0,0.0,3.0,2.0,14.0,7.0,119578.0,League Play: Week 5,Haven,184479.0,22,No,lose
+T1,0.0,4.0,1.0,0.0,0.0,2.0,2.0,11.0,10.0,119579.0,League Play: Week 5,Fracture,184479.0,17,No,win
+RRQ,2.0,3.0,2.0,3.0,0.0,5.0,1.0,6.0,1.0,119579.0,League Play: Week 5,Fracture,184479.0,17,No,lose
+TS,1.0,3.0,1.0,2.0,1.0,2.0,1.0,17.0,10.0,119581.0,League Play: Week 5,Ascent,184480.0,24,Yes,win
+DFM,1.0,3.0,1.0,1.0,0.0,10.0,5.0,10.0,5.0,119581.0,League Play: Week 5,Ascent,184480.0,24,Yes,lose
+TS,0.0,4.0,1.0,2.0,0.0,1.0,1.0,14.0,11.0,119582.0,League Play: Week 5,Haven,184480.0,21,No,win
+DFM,2.0,3.0,3.0,2.0,0.0,8.0,1.0,8.0,4.0,119582.0,League Play: Week 5,Haven,184480.0,21,No,lose
+ZETA,1.0,3.0,2.0,0.0,0.0,11.0,4.0,7.0,2.0,119584.0,League Play: Week 5,Haven,184481.0,21,No,lose
+TLN,1.0,3.0,1.0,3.0,0.0,2.0,1.0,13.0,11.0,119584.0,League Play: Week 5,Haven,184481.0,21,No,win
+ZETA,1.0,3.0,1.0,1.0,1.0,10.0,4.0,16.0,8.0,119585.0,League Play: Week 5,Ascent,184481.0,30,Yes,lose
+TLN,1.0,3.0,1.0,3.0,0.0,4.0,3.0,20.0,12.0,119585.0,League Play: Week 5,Ascent,184481.0,30,Yes,win
+T1,1.0,3.0,2.0,1.0,0.0,3.0,2.0,15.0,9.0,119587.0,League Play: Week 6,Lotus,184482.0,22,No,win
+DFM,1.0,4.0,1.0,1.0,0.0,9.0,4.0,8.0,4.0,119587.0,League Play: Week 6,Lotus,184482.0,22,No,lose
+T1,1.0,4.0,2.0,1.0,0.0,8.0,3.0,9.0,4.0,119588.0,League Play: Week 6,Split,184482.0,22,No,lose
+DFM,1.0,3.0,1.0,0.0,0.0,6.0,4.0,13.0,8.0,119588.0,League Play: Week 6,Split,184482.0,22,No,win
+T1,0.0,3.0,0.0,1.0,0.0,3.0,3.0,16.0,10.0,119589.0,League Play: Week 6,Fracture,184482.0,23,No,win
+DFM,2.0,2.0,2.0,4.0,1.0,6.0,4.0,11.0,3.0,119589.0,League Play: Week 6,Fracture,184482.0,23,No,lose
+ZETA,2.0,2.0,2.0,0.0,0.0,12.0,6.0,8.0,5.0,119590.0,League Play: Week 6,Split,184483.0,22,No,win
+TS,0.0,3.0,0.0,3.0,2.0,2.0,0.0,14.0,7.0,119590.0,League Play: Week 6,Split,184483.0,22,No,lose
+ZETA,1.0,3.0,1.0,2.0,1.0,10.0,3.0,8.0,5.0,119591.0,League Play: Week 6,Lotus,184483.0,23,No,lose
+TS,1.0,3.0,1.0,0.0,0.0,4.0,3.0,16.0,9.0,119591.0,League Play: Week 6,Lotus,184483.0,23,No,win
+ZETA,2.0,2.0,2.0,1.0,0.0,7.0,3.0,12.0,8.0,119592.0,League Play: Week 6,Fracture,184483.0,22,No,win
+TS,0.0,4.0,0.0,2.0,1.0,2.0,0.0,14.0,8.0,119592.0,League Play: Week 6,Fracture,184483.0,22,No,lose
+GES,2.0,4.0,2.0,1.0,1.0,3.0,1.0,13.0,9.0,119593.0,League Play: Week 6,Pearl,184484.0,21,No,win
+GEN,0.0,3.0,0.0,3.0,1.0,4.0,2.0,11.0,5.0,119593.0,League Play: Week 6,Pearl,184484.0,21,No,lose
+GES,1.0,3.0,2.0,0.0,0.0,5.0,4.0,13.0,7.0,119594.0,League Play: Week 6,Lotus,184484.0,21,No,win
+GEN,1.0,3.0,1.0,3.0,0.0,7.0,3.0,8.0,4.0,119594.0,League Play: Week 6,Lotus,184484.0,21,No,lose
+RRQ,0.0,4.0,0.0,0.0,0.0,4.0,4.0,13.0,9.0,119596.0,League Play: Week 6,Haven,184485.0,21,No,win
+DRX,2.0,2.0,2.0,3.0,0.0,5.0,2.0,11.0,4.0,119596.0,League Play: Week 6,Haven,184485.0,21,No,lose
+RRQ,1.0,3.0,1.0,1.0,0.0,5.0,1.0,14.0,8.0,119597.0,League Play: Week 6,Split,184485.0,23,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,3.0,1.0,17.0,11.0,119597.0,League Play: Week 6,Split,184485.0,23,No,win
+RRQ,1.0,4.0,1.0,1.0,0.0,6.0,0.0,4.0,1.0,119598.0,League Play: Week 6,Pearl,184485.0,15,No,lose
+DRX,1.0,3.0,2.0,0.0,0.0,2.0,2.0,10.0,9.0,119598.0,League Play: Week 6,Pearl,184485.0,15,No,win
+TLN,1.0,3.0,1.0,1.0,0.0,5.0,3.0,15.0,9.0,119599.0,League Play: Week 6,Pearl,184486.0,24,Yes,win
+PRX,1.0,3.0,1.0,1.0,0.0,6.0,3.0,14.0,7.0,119599.0,League Play: Week 6,Pearl,184486.0,24,Yes,lose
+TLN,1.0,4.0,1.0,2.0,0.0,4.0,1.0,7.0,2.0,119600.0,League Play: Week 6,Split,184486.0,17,No,lose
+PRX,1.0,3.0,2.0,0.0,0.0,1.0,1.0,13.0,10.0,119600.0,League Play: Week 6,Split,184486.0,17,No,win
+TLN,1.0,3.0,2.0,2.0,0.0,5.0,2.0,13.0,6.0,119601.0,League Play: Week 6,Fracture,184486.0,23,No,lose
+PRX,1.0,3.0,1.0,1.0,0.0,5.0,3.0,14.0,9.0,119601.0,League Play: Week 6,Fracture,184486.0,23,No,win
+TLN,2.0,3.0,2.0,2.0,0.0,3.0,1.0,13.0,10.0,119602.0,League Play: Week 7,Fracture,184488.0,21,No,win
+GEN,0.0,3.0,1.0,3.0,0.0,3.0,0.0,12.0,7.0,119602.0,League Play: Week 7,Fracture,184488.0,21,No,lose
+TLN,1.0,3.0,1.0,0.0,0.0,3.0,2.0,14.0,10.0,119603.0,League Play: Week 7,Lotus,184488.0,20,No,win
+GEN,1.0,3.0,1.0,2.0,1.0,6.0,3.0,9.0,2.0,119603.0,League Play: Week 7,Lotus,184488.0,20,No,lose
+ZETA,0.0,4.0,0.0,1.0,1.0,8.0,3.0,6.0,2.0,119605.0,League Play: Week 7,Split,184489.0,19,No,lose
+PRX,2.0,2.0,2.0,0.0,0.0,7.0,5.0,10.0,6.0,119605.0,League Play: Week 7,Split,184489.0,19,No,win
+ZETA,1.0,3.0,1.0,1.0,0.0,11.0,5.0,8.0,4.0,119606.0,League Play: Week 7,Ascent,184489.0,23,No,lose
+PRX,1.0,3.0,1.0,1.0,0.0,4.0,2.0,15.0,10.0,119606.0,League Play: Week 7,Ascent,184489.0,23,No,win
+RRQ,2.0,2.0,2.0,2.0,1.0,6.0,2.0,13.0,8.0,119608.0,League Play: Week 7,Fracture,184490.0,23,No,win
+GES,0.0,4.0,0.0,1.0,0.0,6.0,4.0,12.0,6.0,119608.0,League Play: Week 7,Fracture,184490.0,23,No,lose
+RRQ,0.0,4.0,1.0,0.0,0.0,5.0,4.0,15.0,8.0,119609.0,League Play: Week 7,Pearl,184490.0,24,Yes,win
+GES,2.0,4.0,2.0,1.0,0.0,12.0,6.0,7.0,3.0,119609.0,League Play: Week 7,Pearl,184490.0,24,Yes,lose
+TS,0.0,4.0,0.0,3.0,0.0,1.0,0.0,9.0,4.0,119611.0,League Play: Week 7,Lotus,184491.0,17,No,lose
+T1,2.0,2.0,2.0,0.0,0.0,5.0,4.0,10.0,7.0,119611.0,League Play: Week 7,Lotus,184491.0,17,No,win
+TS,2.0,2.0,2.0,3.0,0.0,7.0,3.0,9.0,3.0,119612.0,League Play: Week 7,Bind,184491.0,21,No,lose
+T1,0.0,4.0,1.0,0.0,0.0,2.0,2.0,15.0,10.0,119612.0,League Play: Week 7,Bind,184491.0,21,No,win
+DRX,0.0,4.0,1.0,1.0,0.0,1.0,1.0,15.0,11.0,119614.0,League Play: Week 7,Fracture,184492.0,21,No,win
+DFM,2.0,2.0,2.0,2.0,1.0,6.0,2.0,11.0,3.0,119614.0,League Play: Week 7,Fracture,184492.0,21,No,lose
+DRX,2.0,2.0,2.0,1.0,1.0,4.0,4.0,10.0,6.0,119615.0,League Play: Week 7,Ascent,184492.0,17,No,win
+DFM,0.0,4.0,0.0,3.0,1.0,4.0,1.0,6.0,2.0,119615.0,League Play: Week 7,Ascent,184492.0,17,No,lose
+PRX,1.0,3.0,1.0,0.0,0.0,4.0,3.0,13.0,9.0,119617.0,League Play: Week 8,Split,184493.0,20,No,win
+GEN,1.0,3.0,1.0,2.0,1.0,5.0,2.0,10.0,3.0,119617.0,League Play: Week 8,Split,184493.0,20,No,lose
+PRX,2.0,2.0,2.0,0.0,0.0,5.0,4.0,8.0,7.0,119618.0,League Play: Week 8,Ascent,184493.0,15,No,win
+GEN,0.0,4.0,0.0,2.0,0.0,2.0,0.0,7.0,2.0,119618.0,League Play: Week 8,Ascent,184493.0,15,No,lose
+ZETA,0.0,4.0,0.0,0.0,0.0,8.0,5.0,12.0,6.0,119620.0,League Play: Week 8,Fracture,184494.0,24,Yes,lose
+T1,2.0,2.0,2.0,2.0,1.0,7.0,3.0,13.0,7.0,119620.0,League Play: Week 8,Fracture,184494.0,24,Yes,win
+ZETA,1.0,3.0,1.0,1.0,0.0,8.0,3.0,11.0,9.0,119621.0,League Play: Week 8,Lotus,184494.0,23,No,win
+T1,1.0,2.0,1.0,3.0,0.0,7.0,2.0,11.0,7.0,119621.0,League Play: Week 8,Lotus,184494.0,23,No,lose
+ZETA,0.0,4.0,0.0,0.0,0.0,6.0,0.0,6.0,3.0,119622.0,League Play: Week 8,Bind,184494.0,16,No,lose
+T1,2.0,2.0,2.0,1.0,1.0,5.0,3.0,8.0,7.0,119622.0,League Play: Week 8,Bind,184494.0,16,No,win
+TS,0.0,4.0,0.0,2.0,2.0,0.0,0.0,15.0,11.0,119623.0,League Play: Week 8,Haven,184495.0,21,No,win
+DRX,2.0,3.0,2.0,1.0,0.0,6.0,3.0,11.0,3.0,119623.0,League Play: Week 8,Haven,184495.0,21,No,lose
+TS,1.0,3.0,1.0,2.0,0.0,2.0,1.0,17.0,11.0,119624.0,League Play: Week 8,Ascent,184495.0,24,Yes,win
+DRX,1.0,4.0,1.0,1.0,0.0,3.0,2.0,16.0,8.0,119624.0,League Play: Week 8,Ascent,184495.0,24,Yes,lose
+GES,2.0,2.0,2.0,1.0,0.0,8.0,5.0,9.0,6.0,119626.0,League Play: Week 8,Lotus,184496.0,20,No,win
+DFM,0.0,4.0,0.0,0.0,0.0,3.0,2.0,13.0,5.0,119626.0,League Play: Week 8,Lotus,184496.0,20,No,lose
+GES,2.0,3.0,2.0,1.0,0.0,8.0,6.0,7.0,5.0,119627.0,League Play: Week 8,Pearl,184496.0,19,No,win
+DFM,0.0,3.0,0.0,2.0,0.0,4.0,2.0,10.0,4.0,119627.0,League Play: Week 8,Pearl,184496.0,19,No,lose
+TLN,1.0,3.0,1.0,0.0,0.0,2.0,2.0,11.0,10.0,119629.0,League Play: Week 8,Split,184497.0,16,No,win
+RRQ,1.0,3.0,1.0,1.0,0.0,6.0,2.0,6.0,0.0,119629.0,League Play: Week 8,Split,184497.0,16,No,lose
+TLN,0.0,5.0,1.0,1.0,0.0,2.0,0.0,9.0,3.0,119630.0,League Play: Week 8,Ascent,184497.0,17,No,lose
+RRQ,2.0,2.0,2.0,1.0,1.0,3.0,1.0,11.0,9.0,119630.0,League Play: Week 8,Ascent,184497.0,17,No,win
+TLN,1.0,3.0,1.0,3.0,1.0,4.0,2.0,10.0,3.0,119631.0,League Play: Week 8,Haven,184497.0,20,No,lose
+RRQ,1.0,3.0,1.0,1.0,1.0,5.0,4.0,11.0,7.0,119631.0,League Play: Week 8,Haven,184497.0,20,No,win
+ZETA,1.0,3.0,1.0,1.0,0.0,6.0,4.0,11.0,8.0,119632.0,League Play: Week 8,Haven,184498.0,21,No,win
+GEN,1.0,3.0,1.0,4.0,0.0,3.0,2.0,11.0,5.0,119632.0,League Play: Week 8,Haven,184498.0,21,No,lose
+ZETA,2.0,3.0,2.0,2.0,0.0,11.0,2.0,1.0,0.0,119633.0,League Play: Week 8,Ascent,184498.0,17,No,lose
+GEN,0.0,4.0,1.0,0.0,0.0,0.0,0.0,13.0,12.0,119633.0,League Play: Week 8,Ascent,184498.0,17,No,win
+ZETA,2.0,2.0,2.0,0.0,0.0,5.0,4.0,10.0,7.0,119634.0,League Play: Week 8,Fracture,184498.0,17,No,win
+GEN,0.0,5.0,0.0,2.0,1.0,3.0,0.0,7.0,3.0,119634.0,League Play: Week 8,Fracture,184498.0,17,No,lose
+T1,0.0,4.0,0.0,0.0,0.0,4.0,1.0,15.0,9.0,119635.0,League Play: Week 8,Bind,184499.0,23,No,lose
+DRX,2.0,2.0,2.0,3.0,0.0,4.0,3.0,14.0,8.0,119635.0,League Play: Week 8,Bind,184499.0,23,No,win
+T1,0.0,3.0,0.0,1.0,0.0,4.0,4.0,14.0,5.0,119636.0,League Play: Week 8,Pearl,184499.0,22,No,lose
+DRX,2.0,2.0,2.0,1.0,0.0,5.0,2.0,14.0,9.0,119636.0,League Play: Week 8,Pearl,184499.0,22,No,win
+TS,1.0,3.0,1.0,0.0,0.0,3.0,1.0,16.0,11.0,119638.0,League Play: Week 8,Haven,184500.0,22,No,win
+GES,1.0,3.0,1.0,1.0,0.0,7.0,4.0,11.0,4.0,119638.0,League Play: Week 8,Haven,184500.0,22,No,lose
+TS,2.0,2.0,2.0,2.0,0.0,3.0,2.0,16.0,9.0,119639.0,League Play: Week 8,Lotus,184500.0,23,No,win
+GES,0.0,4.0,0.0,1.0,1.0,3.0,1.0,15.0,8.0,119639.0,League Play: Week 8,Lotus,184500.0,23,No,lose
+TLN,1.0,3.0,1.0,0.0,0.0,6.0,2.0,15.0,10.0,119641.0,League Play: Week 8,Lotus,184501.0,24,Yes,win
+DFM,1.0,3.0,1.0,1.0,0.0,6.0,3.0,14.0,7.0,119641.0,League Play: Week 8,Lotus,184501.0,24,Yes,lose
+TLN,2.0,3.0,2.0,0.0,0.0,3.0,2.0,11.0,9.0,119642.0,League Play: Week 8,Bind,184501.0,17,No,win
+DFM,0.0,3.0,0.0,1.0,0.0,7.0,3.0,6.0,1.0,119642.0,League Play: Week 8,Bind,184501.0,17,No,lose
+RRQ,0.0,4.0,0.0,2.0,0.0,1.0,0.0,15.0,9.0,119644.0,League Play: Week 8,Bind,184502.0,22,No,lose
+PRX,2.0,2.0,2.0,0.0,0.0,6.0,4.0,14.0,7.0,119644.0,League Play: Week 8,Bind,184502.0,22,No,win
+RRQ,0.0,5.0,0.0,0.0,0.0,6.0,3.0,13.0,8.0,119645.0,League Play: Week 8,Pearl,184502.0,24,Yes,lose
+PRX,2.0,2.0,2.0,0.0,0.0,10.0,5.0,12.0,6.0,119645.0,League Play: Week 8,Pearl,184502.0,24,Yes,win
+T1,1.0,3.0,1.0,1.0,0.0,3.0,2.0,14.0,10.0,119680.0,Playoffs: Upper Round 1,Fracture,184514.0,21,No,win
+GEN,1.0,3.0,1.0,1.0,0.0,5.0,1.0,12.0,6.0,119680.0,Playoffs: Upper Round 1,Fracture,184514.0,21,No,lose
+T1,1.0,3.0,1.0,1.0,0.0,7.0,4.0,13.0,6.0,119681.0,Playoffs: Upper Round 1,Ascent,184514.0,24,Yes,lose
+GEN,1.0,3.0,1.0,0.0,0.0,7.0,5.0,14.0,7.0,119681.0,Playoffs: Upper Round 1,Ascent,184514.0,24,Yes,win
+T1,1.0,4.0,1.0,1.0,0.0,4.0,3.0,11.0,9.0,119682.0,Playoffs: Upper Round 1,Lotus,184514.0,20,No,win
+GEN,1.0,3.0,1.0,2.0,0.0,8.0,3.0,7.0,3.0,119682.0,Playoffs: Upper Round 1,Lotus,184514.0,20,No,lose
+DRX,1.0,5.0,1.0,2.0,0.0,3.0,1.0,12.0,7.0,119683.0,Playoffs: Upper Semifinals,Haven,184515.0,22,No,lose
+TS,1.0,3.0,2.0,2.0,1.0,3.0,2.0,14.0,8.0,119683.0,Playoffs: Upper Semifinals,Haven,184515.0,22,No,win
+DRX,2.0,3.0,2.0,1.0,1.0,3.0,2.0,11.0,8.0,119684.0,Playoffs: Upper Semifinals,Split,184515.0,18,No,win
+TS,0.0,4.0,0.0,1.0,0.0,6.0,4.0,7.0,1.0,119684.0,Playoffs: Upper Semifinals,Split,184515.0,18,No,lose
+DRX,1.0,3.0,1.0,0.0,0.0,2.0,1.0,12.0,11.0,119685.0,Playoffs: Upper Semifinals,Bind,184515.0,17,No,win
+TS,1.0,3.0,1.0,2.0,1.0,5.0,1.0,7.0,1.0,119685.0,Playoffs: Upper Semifinals,Bind,184515.0,17,No,lose
+PRX,1.0,3.0,2.0,0.0,0.0,7.0,5.0,13.0,6.0,119686.0,Playoffs: Upper Semifinals,Lotus,184516.0,23,No,win
+T1,1.0,3.0,1.0,2.0,1.0,5.0,1.0,13.0,7.0,119686.0,Playoffs: Upper Semifinals,Lotus,184516.0,23,No,lose
+PRX,2.0,2.0,2.0,1.0,1.0,11.0,6.0,9.0,4.0,119687.0,Playoffs: Upper Semifinals,Fracture,184516.0,23,No,win
+T1,0.0,4.0,1.0,1.0,0.0,7.0,6.0,11.0,3.0,119687.0,Playoffs: Upper Semifinals,Fracture,184516.0,23,No,lose
+T1,2.0,2.0,2.0,1.0,0.0,4.0,3.0,16.0,8.0,119689.0,Playoffs: Lower Round 1,Haven,184517.0,23,No,win
+ZETA,0.0,4.0,0.0,0.0,0.0,11.0,3.0,8.0,7.0,119689.0,Playoffs: Lower Round 1,Haven,184517.0,23,No,lose
+T1,0.0,3.0,0.0,1.0,1.0,5.0,2.0,17.0,9.0,119690.0,Playoffs: Lower Round 1,Bind,184517.0,26,Yes,lose
+ZETA,2.0,2.0,2.0,0.0,0.0,11.0,5.0,13.0,7.0,119690.0,Playoffs: Lower Round 1,Bind,184517.0,26,Yes,win
+T1,2.0,2.0,2.0,0.0,0.0,8.0,5.0,13.0,6.0,119691.0,Playoffs: Lower Round 1,Fracture,184517.0,23,No,win
+ZETA,0.0,4.0,0.0,1.0,0.0,8.0,2.0,10.0,8.0,119691.0,Playoffs: Lower Round 1,Fracture,184517.0,23,No,lose
+TS,0.0,4.0,1.0,1.0,0.0,3.0,2.0,13.0,10.0,119692.0,Playoffs: Lower Round 1,Ascent,184518.0,21,No,win
+GEN,2.0,3.0,2.0,2.0,1.0,6.0,2.0,10.0,3.0,119692.0,Playoffs: Lower Round 1,Ascent,184518.0,21,No,lose
+TS,1.0,3.0,1.0,3.0,0.0,4.0,2.0,11.0,5.0,119693.0,Playoffs: Lower Round 1,Haven,184518.0,21,No,lose
+GEN,1.0,3.0,1.0,1.0,0.0,4.0,3.0,13.0,9.0,119693.0,Playoffs: Lower Round 1,Haven,184518.0,21,No,win
+TS,1.0,3.0,1.0,0.0,0.0,6.0,3.0,17.0,8.0,119694.0,Playoffs: Lower Round 1,Split,184518.0,26,Yes,lose
+GEN,1.0,3.0,1.0,3.0,1.0,4.0,2.0,16.0,10.0,119694.0,Playoffs: Lower Round 1,Split,184518.0,26,Yes,win
+DRX,1.0,3.0,1.0,2.0,0.0,4.0,1.0,9.0,3.0,119695.0,Playoffs: Upper Final,Fracture,184519.0,18,No,lose
+PRX,1.0,2.0,1.0,2.0,0.0,1.0,1.0,13.0,11.0,119695.0,Playoffs: Upper Final,Fracture,184519.0,18,No,win
+DRX,0.0,4.0,0.0,0.0,0.0,3.0,1.0,12.0,5.0,119696.0,Playoffs: Upper Final,Bind,184519.0,19,No,lose
+PRX,2.0,2.0,2.0,1.0,1.0,5.0,3.0,11.0,7.0,119696.0,Playoffs: Upper Final,Bind,184519.0,19,No,win
+T1,2.0,2.0,2.0,0.0,0.0,11.0,4.0,10.0,7.0,119698.0,Playoffs: Lower Round 2,Fracture,184520.0,23,No,win
+GEN,0.0,4.0,0.0,1.0,0.0,1.0,0.0,17.0,10.0,119698.0,Playoffs: Lower Round 2,Fracture,184520.0,23,No,lose
+T1,1.0,3.0,2.0,1.0,0.0,7.0,4.0,12.0,7.0,119699.0,Playoffs: Lower Round 2,Ascent,184520.0,23,No,win
+GEN,1.0,3.0,1.0,3.0,1.0,4.0,2.0,13.0,6.0,119699.0,Playoffs: Lower Round 2,Ascent,184520.0,23,No,lose
+DRX,0.0,3.0,0.0,1.0,0.0,7.0,3.0,13.0,8.0,119701.0,Playoffs: Lower Final,Ascent,184521.0,24,Yes,lose
+T1,2.0,2.0,2.0,2.0,0.0,4.0,2.0,16.0,9.0,119701.0,Playoffs: Lower Final,Ascent,184521.0,24,Yes,win
+DRX,1.0,3.0,1.0,0.0,0.0,9.0,6.0,12.0,6.0,119702.0,Playoffs: Lower Final,Fracture,184521.0,24,Yes,win
+T1,1.0,3.0,1.0,1.0,0.0,7.0,4.0,13.0,6.0,119702.0,Playoffs: Lower Final,Fracture,184521.0,24,Yes,lose
+DRX,0.0,4.0,1.0,1.0,1.0,3.0,1.0,16.0,10.0,119703.0,Playoffs: Lower Final,Haven,184521.0,24,Yes,win
+T1,2.0,2.0,2.0,2.0,0.0,6.0,3.0,14.0,6.0,119703.0,Playoffs: Lower Final,Haven,184521.0,24,Yes,lose
+DRX,1.0,3.0,1.0,0.0,0.0,7.0,2.0,9.0,3.0,119704.0,Playoffs: Lower Final,Bind,184521.0,19,No,lose
+T1,1.0,3.0,1.0,0.0,0.0,3.0,2.0,13.0,10.0,119704.0,Playoffs: Lower Final,Bind,184521.0,19,No,win
+DRX,2.0,2.0,2.0,0.0,0.0,9.0,5.0,11.0,6.0,119705.0,Playoffs: Lower Final,Pearl,184521.0,22,No,win
+T1,0.0,3.0,0.0,2.0,0.0,4.0,1.0,13.0,8.0,119705.0,Playoffs: Lower Final,Pearl,184521.0,22,No,lose
+PRX,2.0,3.0,2.0,0.0,0.0,14.0,4.0,2.0,0.0,119706.0,Playoffs: Grand Final,Fracture,184522.0,19,No,lose
+DRX,0.0,4.0,1.0,0.0,0.0,5.0,4.0,10.0,8.0,119706.0,Playoffs: Grand Final,Fracture,184522.0,19,No,win
+PRX,2.0,2.0,2.0,1.0,0.0,8.0,4.0,19.0,8.0,119708.0,Playoffs: Grand Final,Ascent,184522.0,30,Yes,lose
+DRX,0.0,4.0,0.0,1.0,1.0,3.0,1.0,22.0,14.0,119708.0,Playoffs: Grand Final,Ascent,184522.0,30,Yes,win
+PRX,1.0,3.0,1.0,0.0,0.0,4.0,4.0,9.0,8.0,131784.0,Playoffs: Grand Final,Lotus,184522.0,16,No,win
+DRX,1.0,3.0,1.0,0.0,0.0,10.0,2.0,3.0,0.0,131784.0,Playoffs: Grand Final,Lotus,184522.0,16,No,lose
+PRX,1.0,3.0,1.0,1.0,1.0,4.0,3.0,13.0,8.0,119712.0,Playoffs: Grand Final,Pearl,184522.0,21,No,win
+DRX,1.0,3.0,1.0,1.0,0.0,5.0,3.0,12.0,4.0,119712.0,Playoffs: Grand Final,Pearl,184522.0,21,No,lose
+PRX,1.0,3.0,1.0,0.0,0.0,4.0,4.0,12.0,8.0,119714.0,Playoffs: Grand Final,Bind,184522.0,19,No,win
+DRX,1.0,3.0,1.0,1.0,1.0,7.0,3.0,8.0,1.0,119714.0,Playoffs: Grand Final,Bind,184522.0,19,No,lose
